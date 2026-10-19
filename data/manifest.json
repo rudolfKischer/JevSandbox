@@ -1,0 +1,134 @@
+{
+  "repo": "rudolfKischer/JevSandbox",
+  "bundles": {
+    "results": {
+      "version": 1,
+      "files": [
+        "results/a-catalog.json",
+        "results/a-plain.json",
+        "results/b-catalog.json",
+        "results/bank-route.json",
+        "results/baseline-150.json",
+        "results/baseline-264.json",
+        "results/c-catalog.json",
+        "results/d-catalog.json",
+        "results/diag-route.json",
+        "results/f-catalog.json",
+        "results/g-catalog.json",
+        "results/h-catalog.json",
+        "results/h-plain.json",
+        "results/i-menu.json",
+        "results/j-catalog.json",
+        "results/j-plain.json",
+        "results/k-menu.json",
+        "results/m-menu-catalog.json",
+        "results/m-menu.json",
+        "results/n-catalog.json",
+        "results/o-catalog.json",
+        "results/p-264.json",
+        "results/p-diagnostic.json",
+        "results/p-grapheme.json",
+        "results/p-hard.json",
+        "results/p-longest.json",
+        "results/p-random900.json",
+        "results/pron/pron-checked-bank.json",
+        "results/pron/pron-checked-random.json",
+        "results/pron/pron-checked-starter.json",
+        "results/pron/pron-espeak-bank.json",
+        "results/pron/pron-espeak-random.json",
+        "results/pron/pron-espeak-starter.json",
+        "results/pron/pron-lookup-random.json",
+        "results/pron/pron-lookup-starter.json",
+        "results/pron/pron-pool-jev-heteronyms.json",
+        "results/pron/pron-pool-jev-ipa-heteronyms.json",
+        "results/pron/pron-pool-jev-ipa-random.json",
+        "results/pron/pron-pool-jev-ipa-rhyme-heteronyms.json",
+        "results/pron/pron-pool-jev-ipa-rhyme-random.json",
+        "results/pron/pron-pool-jev-ipa-rhyme-starter.json",
+        "results/pron/pron-pool-jev-ipa-starter.json",
+        "results/pron/pron-pool-jev-plain-heteronyms.json",
+        "results/pron/pron-pool-jev-plain-random.json",
+        "results/pron/pron-pool-jev-plain-starter.json",
+        "results/pron/pron-pool-jev-random.json",
+        "results/pron/pron-pool-jev-starter.json",
+        "results/pron/pron-pool-llama-heteronyms.json",
+        "results/pron/pron-pool-llama-starter.json",
+        "results/pron/pron-unit-bank.json",
+        "results/pron/pron-unit-random.json",
+        "results/pron/pron-unit-starter.json",
+        "results/pron/pron-wikipron-bank.json",
+        "results/pron/pron-wikipron-random.json",
+        "results/pron/pron-wikipron-starter.json",
+        "results/q-diagnostic.json",
+        "results/q-hard.json",
+        "results/q-random900.json",
+        "results/qg-b100.json",
+        "results/r-264.json",
+        "results/r-random900.json",
+        "results/r-uncovered.json",
+        "results/regions/regions.json",
+        "results/sources/sources.json",
+        "results/u-264.json",
+        "results/u-diagnostic.json",
+        "results/u-hard.json",
+        "results/u-random900.json"
+      ],
+      "filter": "scripts.strip_nettalk:strip",
+      "required": true,
+      "asset": "results-v1.tar.gz",
+      "sha256": "d07810c9605c0431b66d191d9598a8b9ec29b15a6911a734a615f1e4b5225e20",
+      "size": 2144607,
+      "globs": [
+        "results/*.json",
+        "results/pron/*.json",
+        "results/regions/*.json",
+        "results/sources/*.json"
+      ]
+    },
+    "bank": {
+      "version": 1,
+      "files": [
+        "data/samples/bank.json",
+        "data/pron/bank.json",
+        "data/generated/m2m_alignments.json"
+      ],
+      "filter": "scripts.strip_nettalk:strip",
+      "required": true,
+      "asset": "bank-v1.tar.gz",
+      "sha256": "c4b503369e2c2976312a609a9c25f6d0e306641e8cb7fea28809433464dfc11a",
+      "size": 2484445
+    },
+    "nettalk": {
+      "version": 1,
+      "url": "https://archive.ics.uci.edu/static/public/150/connectionist+bench+nettalk+corpus.zip",
+      "archive": "zip",
+      "dest": "data/external/nettalk/files",
+      "files": [
+        "data/external/nettalk/files/nettalk.data"
+      ],
+      "sha256": "c241242e557c806d886622a661a2152320f49a84801ca6a58dd072a04987abcd",
+      "required": true,
+      "licence": "Sejnowski and Rosenberg 1988, non-commercial research use; downloaded from UCI, never redistributed here"
+    },
+    "wikipron-us": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/CUNY-CL/wikipron/master/data/scrape/tsv/eng_latn_us_broad.tsv",
+      "archive": "raw",
+      "files": [
+        "data/external/wikipron/eng_us.tsv"
+      ],
+      "sha256": "f304b8f0565466e8abfe4c04a30d99421e1590d2aa17c4a08ebfa5942c587e75",
+      "required": true
+    },
+    "wikipron-uk": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/CUNY-CL/wikipron/master/data/scrape/tsv/eng_latn_uk_broad.tsv",
+      "archive": "raw",
+      "files": [
+        "data/external/wikipron/eng_uk.tsv"
+      ],
+      "sha256": "f8ca476aa2e96cb22cafbf9099d689b5902a9d321579055081909b2eeafa1b8d",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+__pycache__/
+.cache/
+runs/
+*.key
+*key*.txt
+.env*
+.venv/
+.DS_Store
+data/external/
+data/generated/
+data/.bucket/
+data/samples/bank.json
+data/pron/bank.json
+results/
