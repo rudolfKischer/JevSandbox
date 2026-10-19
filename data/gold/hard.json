@@ -1,0 +1,192 @@
+{
+ "name": "hard",
+ "status": "draft: cases the earlier methods got wrong on the large sample, ruled on by Claude",
+ "words": [
+  {
+   "id": "fields",
+   "word": "fields",
+   "pron": "F IY1 L D Z",
+   "tags": [
+    "hard"
+   ],
+   "units": "f:F ie:IY1 l:L d:D s:Z",
+   "review": "ruled from the large sample: el is a word-final spelling, so it cannot sit in the middle of fields"
+  },
+  {
+   "id": "feeling",
+   "word": "feeling",
+   "pron": "F IY1 L IH0 NG",
+   "tags": [
+    "hard"
+   ],
+   "units": "f:F ee:IY1 l:L i:IH0 ng:NG",
+   "review": "ruled from the large sample: ee is the vowel team"
+  },
+  {
+   "id": "health",
+   "word": "health",
+   "pron": "HH EH1 L TH",
+   "tags": [
+    "hard"
+   ],
+   "units": "h:HH ea:EH1 l:L th:TH",
+   "review": "ruled from the large sample: ea spells short e here"
+  },
+  {
+   "id": "numbered",
+   "word": "numbered",
+   "pron": "N AH1 M B ER0 D",
+   "tags": [
+    "hard"
+   ],
+   "units": "n:N u:AH1 m:M b:B er:ER0 ed:D",
+   "review": "ruled from the large sample: er plus the ed ending"
+  },
+  {
+   "id": "godfather",
+   "word": "godfather",
+   "pron": "G AA1 D F AA2 DH ER0",
+   "tags": [
+    "hard"
+   ],
+   "units": "g:G o:AA1 d:D f:F a:AA2 th:DH er:ER0",
+   "review": "ruled from the large sample: th and er, not the and r"
+  },
+  {
+   "id": "molly",
+   "word": "molly",
+   "pron": "M AA1 L IY0",
+   "tags": [
+    "hard"
+   ],
+   "units": "m:M o:AA1 ll:L y:IY0",
+   "review": "ruled from the large sample: double l is one unit"
+  },
+  {
+   "id": "businessman",
+   "word": "businessman",
+   "pron": "B IH1 Z N AH0 S M AE2 N",
+   "tags": [
+    "hard"
+   ],
+   "units": "b:B u:IH1 s:Z i:- n:N e:AH0 ss:S m:M a:AE2 n:N",
+   "review": "ruled from the large sample: u spells short i, s spells z, i is silent"
+  },
+  {
+   "id": "nominally",
+   "word": "nominally",
+   "pron": "N AA1 M AH0 N AH0 L IY0",
+   "tags": [
+    "hard"
+   ],
+   "units": "n:N o:AA1 m:M i:AH0 n:N a:AH0 ll:L y:IY0",
+   "review": "ruled from the large sample: double l is one unit"
+  },
+  {
+   "id": "tour",
+   "word": "tour",
+   "pron": "T UH1 R",
+   "tags": [
+    "hard"
+   ],
+   "units": "t:T our:UH1+R",
+   "review": "ruled from the large sample: our as a bossy-r unit"
+  },
+  {
+   "id": "tourists",
+   "word": "tourists",
+   "pron": "T UH1 R AH0 S T S",
+   "tags": [
+    "hard"
+   ],
+   "units": "t:T our:UH1+R i:AH0 s:S t:T s:S",
+   "review": "ruled from the large sample: our as a bossy-r unit"
+  },
+  {
+   "id": "ourselves",
+   "word": "ourselves",
+   "pron": "AW0 ER0 S EH1 L V Z",
+   "tags": [
+    "hard"
+   ],
+   "units": "our:AW0+ER0 s:S e:EH1 l:L v:V es:Z",
+   "review": "ruled from the large sample: our as one unit, as in hour"
+  },
+  {
+   "id": "resources",
+   "word": "resources",
+   "pron": "R IY1 S AO0 R S IH0 Z",
+   "tags": [
+    "hard"
+   ],
+   "units": "r:R e:IY1 s:S our:AO0+R c:S e:IH0 s:Z",
+   "review": "ruled from the large sample: our spells aw+r"
+  },
+  {
+   "id": "regular",
+   "word": "regular",
+   "pron": "R EH1 G Y AH0 L ER0",
+   "tags": [
+    "hard"
+   ],
+   "units": "r:R e:EH1 g:G u:Y+AH0 l:L ar:ER0",
+   "review": "ruled from the large sample: u spells y+uh"
+  },
+  {
+   "id": "fall",
+   "word": "fall",
+   "pron": "F AO1 L",
+   "tags": [
+    "hard"
+   ],
+   "units": "f:F a:AO1 ll:L",
+   "review": "ruled from the large sample: double l is one unit"
+  },
+  {
+   "id": "introduced",
+   "word": "introduced",
+   "pron": "IH2 N T R AH0 D UW1 S T",
+   "tags": [
+    "hard"
+   ],
+   "units": "i:IH2 n:N t:T r:R o:AH0 d:D u:UW1 c:S ed:T",
+   "review": "ruled from the large sample: the ed ending"
+  },
+  {
+   "id": "masculinity",
+   "word": "masculinity",
+   "pron": "M AE2 S K Y AH0 L IH1 N AH0 T IY0",
+   "tags": [
+    "hard"
+   ],
+   "units": "m:M a:AE2 s:S c:K u:Y+AH0 l:L i:IH1 n:N i:AH0 t:T y:IY0",
+   "review": "ruled from the large sample: u spells y+uh"
+  },
+  {
+   "id": "carried",
+   "word": "carried",
+   "pron": "K AE1 R IY0 D",
+   "tags": [
+    "hard"
+   ],
+   "units": "c:K a:AE1 rr:R ie:IY0 d:D",
+   "review": "ruled from the large sample: ie as a unit; i + ed is also valid",
+   "accept": [
+    "c:K a:AE1 rr:R i:IY0 ed:D"
+   ]
+  },
+  {
+   "id": "properties",
+   "word": "properties",
+   "pron": "P R AA1 P ER0 T IY0 Z",
+   "tags": [
+    "hard"
+   ],
+   "units": "p:P r:R o:AA1 p:P er:ER0 t:T ie:IY0 s:Z",
+   "review": "ruled from the large sample: ie as a unit; i + es is also valid",
+   "accept": [
+    "p:P r:R o:AA1 p:P er:ER0 t:T i:IY0 es:Z"
+   ]
+  }
+ ]
+}

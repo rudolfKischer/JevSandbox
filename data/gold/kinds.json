@@ -1,0 +1,192 @@
+{
+ "name": "kinds",
+ "task": "kinds",
+ "items": [
+  {
+   "id": "cat",
+   "word": "cat",
+   "pron": "K AE1 T",
+   "answer": "ordinary"
+  },
+  {
+   "id": "pencil",
+   "word": "pencil",
+   "pron": "P EH1 N S AH0 L",
+   "answer": "ordinary"
+  },
+  {
+   "id": "because",
+   "word": "because",
+   "pron": "B IH0 K AO1 Z",
+   "answer": "ordinary"
+  },
+  {
+   "id": "though",
+   "word": "though",
+   "pron": "DH OW1",
+   "answer": "ordinary"
+  },
+  {
+   "id": "mr",
+   "word": "mr",
+   "pron": "M IH1 S T ER0",
+   "answer": "abbreviation"
+  },
+  {
+   "id": "dr",
+   "word": "dr",
+   "pron": "D AA1 K T ER0",
+   "answer": "abbreviation"
+  },
+  {
+   "id": "feb",
+   "word": "feb",
+   "pron": "F EH1 B R UW0 EH2 R IY0",
+   "answer": "abbreviation"
+  },
+  {
+   "id": "sgt",
+   "word": "sgt",
+   "pron": "S AA1 R JH AH0 N T",
+   "answer": "abbreviation"
+  },
+  {
+   "id": "aug",
+   "word": "aug",
+   "pron": "AO1 G AH0 S T",
+   "answer": "abbreviation"
+  },
+  {
+   "id": "tv",
+   "word": "tv",
+   "pron": "T IY1 V IY1",
+   "answer": "initialism"
+  },
+  {
+   "id": "dvd",
+   "word": "dvd",
+   "pron": "D IY1 V IY1 D IY1",
+   "answer": "initialism"
+  },
+  {
+   "id": "fbi",
+   "word": "fbi",
+   "pron": "EH1 F B IY1 AY1",
+   "answer": "initialism"
+  },
+  {
+   "id": "usa",
+   "word": "usa",
+   "pron": "Y UW1 EH1 S EY1",
+   "answer": "initialism"
+  },
+  {
+   "id": "phd",
+   "word": "phd",
+   "pron": "P IY1 EY1 CH D IY1",
+   "answer": "initialism"
+  },
+  {
+   "id": "nasa",
+   "word": "nasa",
+   "pron": "N AE1 S AH0",
+   "answer": "acronym"
+  },
+  {
+   "id": "scuba",
+   "word": "scuba",
+   "pron": "S K UW1 B AH0",
+   "answer": "acronym"
+  },
+  {
+   "id": "laser",
+   "word": "laser",
+   "pron": "L EY1 Z ER0",
+   "answer": "acronym"
+  },
+  {
+   "id": "radar",
+   "word": "radar",
+   "pron": "R EY1 D AA2 R",
+   "answer": "acronym"
+  },
+  {
+   "id": "nato",
+   "word": "nato",
+   "pron": "N EY1 T OW2",
+   "answer": "acronym"
+  },
+  {
+   "id": "ballet",
+   "word": "ballet",
+   "pron": "B AE0 L EY1",
+   "answer": "loan"
+  },
+  {
+   "id": "sushi",
+   "word": "sushi",
+   "pron": "S UW1 SH IY0",
+   "answer": "loan"
+  },
+  {
+   "id": "bouquet",
+   "word": "bouquet",
+   "pron": "B UW0 K EY1",
+   "answer": "loan"
+  },
+  {
+   "id": "tsunami",
+   "word": "tsunami",
+   "pron": "S UW0 N AA1 M IY0",
+   "answer": "loan"
+  },
+  {
+   "id": "genre",
+   "word": "genre",
+   "pron": "ZH AA1 N R AH0",
+   "answer": "loan"
+  },
+  {
+   "id": "rendezvous",
+   "word": "rendezvous",
+   "pron": "R AA1 N D EY0 V UW2",
+   "answer": "loan"
+  },
+  {
+   "id": "kindergarten",
+   "word": "kindergarten",
+   "pron": "K IH1 N D ER0 G AA2 R T AH0 N",
+   "answer": "loan"
+  },
+  {
+   "id": "nguyen",
+   "word": "nguyen",
+   "pron": "W IH1 N",
+   "answer": "name"
+  },
+  {
+   "id": "jose",
+   "word": "jose",
+   "pron": "HH OW0 Z EY1",
+   "answer": "name"
+  },
+  {
+   "id": "smith",
+   "word": "smith",
+   "pron": "S M IH1 TH",
+   "answer": "name"
+  },
+  {
+   "id": "london",
+   "word": "london",
+   "pron": "L AH1 N D AH0 N",
+   "answer": "name"
+  },
+  {
+   "id": "xavier",
+   "word": "xavier",
+   "pron": "Z EY1 V Y ER0",
+   "answer": "name"
+  }
+ ]
+}

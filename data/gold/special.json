@@ -1,0 +1,1155 @@
+{
+ "name": "special",
+ "status": "draft: initialism pronunciations are built from letter names, abbreviation pronunciations from the expanded word's CMU entry",
+ "words": [
+  {
+   "id": "vip",
+   "word": "vip",
+   "pron": "V IY1 AY1 P IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "v:V+IY1 i:AY1 p:P+IY1"
+  },
+  {
+   "id": "faq",
+   "word": "faq",
+   "pron": "EH1 F EY1 K Y UW1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "f:EH1+F a:EY1 q:K+Y+UW1"
+  },
+  {
+   "id": "ceo",
+   "word": "ceo",
+   "pron": "S IY1 IY1 OW1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "c:S+IY1 e:IY1 o:OW1"
+  },
+  {
+   "id": "diy",
+   "word": "diy",
+   "pron": "D IY1 AY1 W AY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "d:D+IY1 i:AY1 y:W+AY1"
+  },
+  {
+   "id": "usb",
+   "word": "usb",
+   "pron": "Y UW1 EH1 S B IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "u:Y+UW1 s:EH1+S b:B+IY1"
+  },
+  {
+   "id": "cd",
+   "word": "cd",
+   "pron": "S IY1 D IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "c:S+IY1 d:D+IY1"
+  },
+  {
+   "id": "uk",
+   "word": "uk",
+   "pron": "Y UW1 K EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "u:Y+UW1 k:K+EY1"
+  },
+  {
+   "id": "atm",
+   "word": "atm",
+   "pron": "EY1 T IY1 EH1 M",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "a:EY1 t:T+IY1 m:EH1+M"
+  },
+  {
+   "id": "dna",
+   "word": "dna",
+   "pron": "D IY1 EH1 N EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "d:D+IY1 n:EH1+N a:EY1"
+  },
+  {
+   "id": "hiv",
+   "word": "hiv",
+   "pron": "EY1 CH AY1 V IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "h:EY1+CH i:AY1 v:V+IY1"
+  },
+  {
+   "id": "gps",
+   "word": "gps",
+   "pron": "JH IY1 P IY1 EH1 S",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "g:JH+IY1 p:P+IY1 s:EH1+S"
+  },
+  {
+   "id": "pc",
+   "word": "pc",
+   "pron": "P IY1 S IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "p:P+IY1 c:S+IY1"
+  },
+  {
+   "id": "nba",
+   "word": "nba",
+   "pron": "EH1 N B IY1 EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "n:EH1+N b:B+IY1 a:EY1"
+  },
+  {
+   "id": "cia",
+   "word": "cia",
+   "pron": "S IY1 AY1 EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "c:S+IY1 i:AY1 a:EY1"
+  },
+  {
+   "id": "nfl",
+   "word": "nfl",
+   "pron": "EH1 N EH1 F EH1 L",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "n:EH1+N f:EH1+F l:EH1+L"
+  },
+  {
+   "id": "bbc",
+   "word": "bbc",
+   "pron": "B IY1 B IY1 S IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "b:B+IY1 b:B+IY1 c:S+IY1"
+  },
+  {
+   "id": "iq",
+   "word": "iq",
+   "pron": "AY1 K Y UW1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "i:AY1 q:K+Y+UW1"
+  },
+  {
+   "id": "rsvp",
+   "word": "rsvp",
+   "pron": "AA1 R EH1 S V IY1 P IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "r:AA1+R s:EH1+S v:V+IY1 p:P+IY1"
+  },
+  {
+   "id": "aka",
+   "word": "aka",
+   "pron": "EY1 K EY1 EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "a:EY1 k:K+EY1 a:EY1"
+  },
+  {
+   "id": "mba",
+   "word": "mba",
+   "pron": "EH1 M B IY1 EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "m:EH1+M b:B+IY1 a:EY1"
+  },
+  {
+   "id": "pdf",
+   "word": "pdf",
+   "pron": "P IY1 D IY1 EH1 F",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "p:P+IY1 d:D+IY1 f:EH1+F"
+  },
+  {
+   "id": "html",
+   "word": "html",
+   "pron": "EY1 CH T IY1 EH1 M EH1 L",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "h:EY1+CH t:T+IY1 m:EH1+M l:EH1+L"
+  },
+  {
+   "id": "mvp",
+   "word": "mvp",
+   "pron": "EH1 M V IY1 P IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "m:EH1+M v:V+IY1 p:P+IY1"
+  },
+  {
+   "id": "ngo",
+   "word": "ngo",
+   "pron": "EH1 N JH IY1 OW1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "n:EH1+N g:JH+IY1 o:OW1"
+  },
+  {
+   "id": "dj",
+   "word": "dj",
+   "pron": "D IY1 JH EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "d:D+IY1 j:JH+EY1"
+  },
+  {
+   "id": "mp",
+   "word": "mp",
+   "pron": "EH1 M P IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "m:EH1+M p:P+IY1"
+  },
+  {
+   "id": "pr",
+   "word": "pr",
+   "pron": "P IY1 AA1 R",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "p:P+IY1 r:AA1+R"
+  },
+  {
+   "id": "hr",
+   "word": "hr",
+   "pron": "EY1 CH AA1 R",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "h:EY1+CH r:AA1+R"
+  },
+  {
+   "id": "eu",
+   "word": "eu",
+   "pron": "IY1 Y UW1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "e:IY1 u:Y+UW1"
+  },
+  {
+   "id": "lcd",
+   "word": "lcd",
+   "pron": "EH1 L S IY1 D IY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "l:EH1+L c:S+IY1 d:D+IY1"
+  },
+  {
+   "id": "eta",
+   "word": "eta",
+   "pron": "IY1 T IY1 EY1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "e:IY1 t:T+IY1 a:EY1"
+  },
+  {
+   "id": "bmw",
+   "word": "bmw",
+   "pron": "B IY1 EH1 M D AH1 B AH0 L Y UW0",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "b:B+IY1 m:EH1+M w:D+AH1+B+AH0+L+Y+UW0"
+  },
+  {
+   "id": "ibm",
+   "word": "ibm",
+   "pron": "AY1 B IY1 EH1 M",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "i:AY1 b:B+IY1 m:EH1+M"
+  },
+  {
+   "id": "hbo",
+   "word": "hbo",
+   "pron": "EY1 CH B IY1 OW1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "h:EY1+CH b:B+IY1 o:OW1"
+  },
+  {
+   "id": "rpm",
+   "word": "rpm",
+   "pron": "AA1 R P IY1 EH1 M",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "r:AA1+R p:P+IY1 m:EH1+M"
+  },
+  {
+   "id": "ufo",
+   "word": "ufo",
+   "pron": "Y UW1 EH1 F OW1",
+   "category": "initialism",
+   "tags": [
+    "initialism"
+   ],
+   "units": "u:Y+UW1 f:EH1+F o:OW1"
+  },
+  {
+   "id": "mrs",
+   "word": "mrs",
+   "pron": "M IH1 S IH0 Z",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "missus"
+  },
+  {
+   "id": "jr",
+   "word": "jr",
+   "pron": "JH UW1 N Y ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "junior"
+  },
+  {
+   "id": "sr",
+   "word": "sr",
+   "pron": "S IY1 N Y ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "senior"
+  },
+  {
+   "id": "mt",
+   "word": "mt",
+   "pron": "M AW1 N T",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "mount"
+  },
+  {
+   "id": "ave",
+   "word": "ave",
+   "pron": "AE1 V AH0 N UW2",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "avenue"
+  },
+  {
+   "id": "blvd",
+   "word": "blvd",
+   "pron": "B UH1 L AH0 V AA2 R D",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "boulevard"
+  },
+  {
+   "id": "rd",
+   "word": "rd",
+   "pron": "R OW1 D",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "road"
+  },
+  {
+   "id": "lt",
+   "word": "lt",
+   "pron": "L UW0 T EH1 N AH0 N T",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "lieutenant"
+  },
+  {
+   "id": "capt",
+   "word": "capt",
+   "pron": "K AE1 P T AH0 N",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "captain"
+  },
+  {
+   "id": "gen",
+   "word": "gen",
+   "pron": "JH EH1 N ER0 AH0 L",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "general"
+  },
+  {
+   "id": "prof",
+   "word": "prof",
+   "pron": "P R AH0 F EH1 S ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "professor"
+  },
+  {
+   "id": "rev",
+   "word": "rev",
+   "pron": "R EH1 V ER0 AH0 N D",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "reverend"
+  },
+  {
+   "id": "vs",
+   "word": "vs",
+   "pron": "V ER1 S AH0 S",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "versus"
+  },
+  {
+   "id": "approx",
+   "word": "approx",
+   "pron": "AH0 P R AA1 K S AH0 M AH0 T L IY0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "approximately"
+  },
+  {
+   "id": "dept",
+   "word": "dept",
+   "pron": "D IH0 P AA1 R T M AH0 N T",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "department"
+  },
+  {
+   "id": "govt",
+   "word": "govt",
+   "pron": "G AH1 V ER0 M AH0 N T",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "government"
+  },
+  {
+   "id": "jan",
+   "word": "jan",
+   "pron": "JH AE1 N Y UW0 EH2 R IY0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "january"
+  },
+  {
+   "id": "feb",
+   "word": "feb",
+   "pron": "F EH1 B AH0 W EH2 R IY0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "february"
+  },
+  {
+   "id": "aug",
+   "word": "aug",
+   "pron": "AA1 G AH0 S T",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "august"
+  },
+  {
+   "id": "sept",
+   "word": "sept",
+   "pron": "S EH0 P T EH1 M B ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "september"
+  },
+  {
+   "id": "oct",
+   "word": "oct",
+   "pron": "AA0 K T OW1 B ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "october"
+  },
+  {
+   "id": "nov",
+   "word": "nov",
+   "pron": "N OW0 V EH1 M B ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "november"
+  },
+  {
+   "id": "dec",
+   "word": "dec",
+   "pron": "D IH0 S EH1 M B ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "december"
+  },
+  {
+   "id": "mon",
+   "word": "mon",
+   "pron": "M AH1 N D EY2",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "monday"
+  },
+  {
+   "id": "tue",
+   "word": "tue",
+   "pron": "T UW1 Z D EY2",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "tuesday"
+  },
+  {
+   "id": "thu",
+   "word": "thu",
+   "pron": "TH ER1 Z D EY2",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "thursday"
+  },
+  {
+   "id": "fri",
+   "word": "fri",
+   "pron": "F R AY1 D EY2",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "friday"
+  },
+  {
+   "id": "kg",
+   "word": "kg",
+   "pron": "K IH1 L AH0 G R AE2 M",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "kilogram"
+  },
+  {
+   "id": "km",
+   "word": "km",
+   "pron": "K AH0 L AA1 M AH0 T ER0",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "kilometer"
+  },
+  {
+   "id": "lb",
+   "word": "lb",
+   "pron": "P AW1 N D",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "pound"
+  },
+  {
+   "id": "oz",
+   "word": "oz",
+   "pron": "AW1 N S",
+   "category": "abbreviation",
+   "tags": [
+    "abbreviation"
+   ],
+   "expansion": "ounce"
+  },
+  {
+   "id": "nato",
+   "word": "nato",
+   "pron": "N EY1 T OW0",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "n:N a:EY1 t:T o:OW0"
+  },
+  {
+   "id": "laser",
+   "word": "laser",
+   "pron": "L EY1 Z ER0",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "l:L a:EY1 s:Z er:ER0"
+  },
+  {
+   "id": "aids",
+   "word": "aids",
+   "pron": "EY1 D Z",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "ai:EY1 d:D s:Z"
+  },
+  {
+   "id": "unesco",
+   "word": "unesco",
+   "pron": "Y UW0 N EH1 S K OW2",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "u:Y+UW0 n:N e:EH1 s:S c:K o:OW2"
+  },
+  {
+   "id": "nafta",
+   "word": "nafta",
+   "pron": "N AE1 F T AH0",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "n:N a:AE1 f:F t:T a:AH0"
+  },
+  {
+   "id": "opec",
+   "word": "opec",
+   "pron": "OW1 P EH2 K",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "o:OW1 p:P e:EH2 c:K"
+  },
+  {
+   "id": "swat",
+   "word": "swat",
+   "pron": "S W AA1 T",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "s:S w:W a:AA1 t:T"
+  },
+  {
+   "id": "unicef",
+   "word": "unicef",
+   "pron": "Y UW1 N AH0 S EH2 F",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "u:Y+UW1 n:N i:AH0 c:S e:EH2 f:F"
+  },
+  {
+   "id": "sars",
+   "word": "sars",
+   "pron": "S AA1 R Z",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "s:S ar:AA1+R s:Z"
+  },
+  {
+   "id": "taser",
+   "word": "taser",
+   "pron": "T EY1 Z ER0",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "t:T a:EY1 s:Z er:ER0"
+  },
+  {
+   "id": "sonar",
+   "word": "sonar",
+   "pron": "S OW1 N AA0 R",
+   "category": "word",
+   "tags": [
+    "acronym"
+   ],
+   "units": "s:S o:OW1 n:N ar:AA0+R"
+  },
+  {
+   "id": "jpeg",
+   "word": "jpeg",
+   "pron": "JH EY1 P EH2 G",
+   "category": "mixed",
+   "tags": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "ipad",
+   "word": "ipad",
+   "pron": "AY1 P AE2 D",
+   "category": "word",
+   "tags": [
+    "brand"
+   ],
+   "units": "i:AY1 p:P a:AE2 d:D"
+  },
+  {
+   "id": "ipod",
+   "word": "ipod",
+   "pron": "AY1 P AA2 D",
+   "category": "word",
+   "tags": [
+    "brand"
+   ],
+   "units": "i:AY1 p:P o:AA2 d:D"
+  },
+  {
+   "id": "is",
+   "word": "is",
+   "pron": "IH1 Z",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "i:IH1 s:Z"
+  },
+  {
+   "id": "it",
+   "word": "it",
+   "pron": "IH1 T",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "i:IH1 t:T"
+  },
+  {
+   "id": "if",
+   "word": "if",
+   "pron": "IH1 F",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "i:IH1 f:F"
+  },
+  {
+   "id": "in",
+   "word": "in",
+   "pron": "IH1 N",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "i:IH1 n:N"
+  },
+  {
+   "id": "on",
+   "word": "on",
+   "pron": "AA1 N",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "o:AA1 n:N"
+  },
+  {
+   "id": "or",
+   "word": "or",
+   "pron": "AO1 R",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "or:AO1+R"
+  },
+  {
+   "id": "us",
+   "word": "us",
+   "pron": "AH1 S",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "u:AH1 s:S"
+  },
+  {
+   "id": "up",
+   "word": "up",
+   "pron": "AH1 P",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "u:AH1 p:P"
+  },
+  {
+   "id": "we",
+   "word": "we",
+   "pron": "W IY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "w:W e:IY1"
+  },
+  {
+   "id": "by",
+   "word": "by",
+   "pron": "B AY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "b:B y:AY1"
+  },
+  {
+   "id": "my",
+   "word": "my",
+   "pron": "M AY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "m:M y:AY1"
+  },
+  {
+   "id": "go",
+   "word": "go",
+   "pron": "G OW1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "g:G o:OW1"
+  },
+  {
+   "id": "no",
+   "word": "no",
+   "pron": "N OW1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "n:N o:OW1"
+  },
+  {
+   "id": "so",
+   "word": "so",
+   "pron": "S OW1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "s:S o:OW1"
+  },
+  {
+   "id": "to",
+   "word": "to",
+   "pron": "T UW1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "t:T o:UW1"
+  },
+  {
+   "id": "do",
+   "word": "do",
+   "pron": "D UW1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "d:D o:UW1"
+  },
+  {
+   "id": "he",
+   "word": "he",
+   "pron": "HH IY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "h:HH e:IY1"
+  },
+  {
+   "id": "be",
+   "word": "be",
+   "pron": "B IY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "b:B e:IY1"
+  },
+  {
+   "id": "me",
+   "word": "me",
+   "pron": "M IY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "m:M e:IY1"
+  },
+  {
+   "id": "at",
+   "word": "at",
+   "pron": "AE1 T",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "a:AE1 t:T"
+  },
+  {
+   "id": "as",
+   "word": "as",
+   "pron": "AE1 Z",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "a:AE1 s:Z"
+  },
+  {
+   "id": "am",
+   "word": "am",
+   "pron": "AE1 M",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "a:AE1 m:M"
+  },
+  {
+   "id": "an",
+   "word": "an",
+   "pron": "AE1 N",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "a:AE1 n:N"
+  },
+  {
+   "id": "ox",
+   "word": "ox",
+   "pron": "AA1 K S",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "o:AA1 x:K+S"
+  },
+  {
+   "id": "ad",
+   "word": "ad",
+   "pron": "AE1 D",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "a:AE1 d:D"
+  },
+  {
+   "id": "myth",
+   "word": "myth",
+   "pron": "M IH1 TH",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "m:M y:IH1 th:TH"
+  },
+  {
+   "id": "lynx",
+   "word": "lynx",
+   "pron": "L IH1 NG K S",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "l:L y:IH1 n:NG x:K+S"
+  },
+  {
+   "id": "nymph",
+   "word": "nymph",
+   "pron": "N IH1 M F",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "n:N y:IH1 m:M ph:F"
+  },
+  {
+   "id": "crypt",
+   "word": "crypt",
+   "pron": "K R IH1 P T",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "c:K r:R y:IH1 p:P t:T"
+  },
+  {
+   "id": "sky",
+   "word": "sky",
+   "pron": "S K AY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "s:S k:K y:AY1"
+  },
+  {
+   "id": "fly",
+   "word": "fly",
+   "pron": "F L AY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "f:F l:L y:AY1"
+  },
+  {
+   "id": "why",
+   "word": "why",
+   "pron": "W AY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "wh:W y:AY1"
+  },
+  {
+   "id": "try",
+   "word": "try",
+   "pron": "T R AY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "t:T r:R y:AY1"
+  },
+  {
+   "id": "dry",
+   "word": "dry",
+   "pron": "D R AY1",
+   "category": "word",
+   "tags": [
+    "short"
+   ],
+   "units": "d:D r:R y:AY1"
+  }
+ ]
+}

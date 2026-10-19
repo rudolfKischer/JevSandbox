@@ -1,0 +1,503 @@
+{
+ "name": "starter",
+ "format": "units are spelling:PHONE+PHONE separated by spaces, a dash means silent",
+ "words": [
+  {
+   "id": "cat",
+   "word": "cat",
+   "pron": "K AE1 T",
+   "tags": [
+    "simple"
+   ],
+   "units": "c:K a:AE1 t:T",
+   "category": "word"
+  },
+  {
+   "id": "dog",
+   "word": "dog",
+   "pron": "D AO1 G",
+   "tags": [
+    "simple"
+   ],
+   "units": "d:D o:AO1 g:G",
+   "category": "word"
+  },
+  {
+   "id": "sit",
+   "word": "sit",
+   "pron": "S IH1 T",
+   "tags": [
+    "simple"
+   ],
+   "units": "s:S i:IH1 t:T",
+   "category": "word"
+  },
+  {
+   "id": "sun",
+   "word": "sun",
+   "pron": "S AH1 N",
+   "tags": [
+    "simple"
+   ],
+   "units": "s:S u:AH1 n:N",
+   "category": "word"
+  },
+  {
+   "id": "ship",
+   "word": "ship",
+   "pron": "SH IH1 P",
+   "tags": [
+    "digraph"
+   ],
+   "units": "sh:SH i:IH1 p:P",
+   "category": "word"
+  },
+  {
+   "id": "chin",
+   "word": "chin",
+   "pron": "CH IH1 N",
+   "tags": [
+    "digraph"
+   ],
+   "units": "ch:CH i:IH1 n:N",
+   "category": "word"
+  },
+  {
+   "id": "thin",
+   "word": "thin",
+   "pron": "TH IH1 N",
+   "tags": [
+    "digraph"
+   ],
+   "units": "th:TH i:IH1 n:N",
+   "category": "word"
+  },
+  {
+   "id": "fish",
+   "word": "fish",
+   "pron": "F IH1 SH",
+   "tags": [
+    "digraph"
+   ],
+   "units": "f:F i:IH1 sh:SH",
+   "category": "word"
+  },
+  {
+   "id": "rain",
+   "word": "rain",
+   "pron": "R EY1 N",
+   "tags": [
+    "vowel-team"
+   ],
+   "units": "r:R ai:EY1 n:N",
+   "category": "word"
+  },
+  {
+   "id": "boat",
+   "word": "boat",
+   "pron": "B OW1 T",
+   "tags": [
+    "vowel-team"
+   ],
+   "units": "b:B oa:OW1 t:T",
+   "category": "word"
+  },
+  {
+   "id": "make",
+   "word": "make",
+   "pron": "M EY1 K",
+   "tags": [
+    "silent-e"
+   ],
+   "units": "m:M a:EY1 k:K e:-",
+   "category": "word"
+  },
+  {
+   "id": "bike",
+   "word": "bike",
+   "pron": "B AY1 K",
+   "tags": [
+    "silent-e"
+   ],
+   "units": "b:B i:AY1 k:K e:-",
+   "category": "word"
+  },
+  {
+   "id": "phone",
+   "word": "phone",
+   "pron": "F OW1 N",
+   "tags": [
+    "silent-e",
+    "digraph"
+   ],
+   "units": "ph:F o:OW1 n:N e:-",
+   "category": "word"
+  },
+  {
+   "id": "car",
+   "word": "car",
+   "pron": "K AA1 R",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "c:K ar:AA1+R",
+   "review": "kept: bossy-r: ar is one unit",
+   "category": "word"
+  },
+  {
+   "id": "bird",
+   "word": "bird",
+   "pron": "B ER1 D",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "b:B ir:ER1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "box",
+   "word": "box",
+   "pron": "B AA1 K S",
+   "tags": [
+    "two-sounds"
+   ],
+   "units": "b:B o:AA1 x:K+S",
+   "category": "word"
+  },
+  {
+   "id": "queen",
+   "word": "queen",
+   "pron": "K W IY1 N",
+   "tags": [
+    "two-sounds"
+   ],
+   "units": "qu:K+W ee:IY1 n:N",
+   "review": "kept: qu is one unit spelling k+w",
+   "category": "word"
+  },
+  {
+   "id": "city",
+   "word": "city",
+   "pron": "S IH1 T IY0",
+   "tags": [
+    "soft-c"
+   ],
+   "units": "c:S i:IH1 t:T y:IY0",
+   "category": "word"
+  },
+  {
+   "id": "giant",
+   "word": "giant",
+   "pron": "JH AY1 AH0 N T",
+   "tags": [
+    "soft-g"
+   ],
+   "units": "g:JH i:AY1 a:AH0 n:N t:T",
+   "review": "kept: g and i are separate units; gi never spells two sounds",
+   "category": "word"
+  },
+  {
+   "id": "little",
+   "word": "little",
+   "pron": "L IH1 T AH0 L",
+   "tags": [
+    "double",
+    "syllabic"
+   ],
+   "units": "l:L i:IH1 tt:T le:AH0+L",
+   "review": "kept: tt is a double consonant; t + tle is also valid (catalog-valid alternates accepted)",
+   "category": "word",
+   "accept": [
+    "l:L i:IH1 t:T tle:AH0+L"
+   ]
+  },
+  {
+   "id": "knight",
+   "word": "knight",
+   "pron": "N AY1 T",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "kn:N igh:AY1 t:T",
+   "accept": [
+    "kn:N i:AY1 ght:T"
+   ],
+   "review": "kept: kn is a silent pair; igh and ght are both valid",
+   "category": "word"
+  },
+  {
+   "id": "lamb",
+   "word": "lamb",
+   "pron": "L AE1 M",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "l:L a:AE1 mb:M",
+   "category": "word"
+  },
+  {
+   "id": "gnome",
+   "word": "gnome",
+   "pron": "N OW1 M",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "gn:N o:OW1 m:M e:-",
+   "category": "word"
+  },
+  {
+   "id": "write",
+   "word": "write",
+   "pron": "R AY1 T",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "wr:R i:AY1 t:T e:-",
+   "category": "word"
+  },
+  {
+   "id": "island",
+   "word": "island",
+   "pron": "AY1 L AH0 N D",
+   "tags": [
+    "silent-letter",
+    "irregular"
+   ],
+   "units": "i:AY1 s:- l:L a:AH0 n:N d:D",
+   "review": "kept: no unit covers is, so s stays a silent unit",
+   "category": "word"
+  },
+  {
+   "id": "yacht",
+   "word": "yacht",
+   "pron": "Y AA1 T",
+   "tags": [
+    "silent-letter",
+    "irregular"
+   ],
+   "units": "y:Y a:AA1 ch:- t:T",
+   "category": "word"
+  },
+  {
+   "id": "laugh",
+   "word": "laugh",
+   "pron": "L AE1 F",
+   "tags": [
+    "irregular"
+   ],
+   "units": "l:L au:AE1 gh:F",
+   "review": "kept: au and gh=f are both catalog units",
+   "category": "word"
+  },
+  {
+   "id": "cough",
+   "word": "cough",
+   "pron": "K AO1 F",
+   "tags": [
+    "irregular"
+   ],
+   "units": "c:K ou:AO1 gh:F",
+   "review": "kept: ou is irregular here; gh spells f as in laugh",
+   "category": "word"
+  },
+  {
+   "id": "enough",
+   "word": "enough",
+   "pron": "IH0 N AH1 F",
+   "tags": [
+    "irregular"
+   ],
+   "units": "e:IH0 n:N ou:AH1 gh:F",
+   "category": "word"
+  },
+  {
+   "id": "through",
+   "word": "through",
+   "pron": "TH R UW1",
+   "tags": [
+    "irregular"
+   ],
+   "units": "th:TH r:R ough:UW1",
+   "review": "kept: ough is one catalog unit",
+   "category": "word"
+  },
+  {
+   "id": "eight",
+   "word": "eight",
+   "pron": "EY1 T",
+   "tags": [
+    "irregular"
+   ],
+   "units": "eigh:EY1 t:T",
+   "accept": [
+    "ei:EY1 ght:T"
+   ],
+   "review": "kept: eigh is a quadgraph; ei + ght is also valid",
+   "category": "word"
+  },
+  {
+   "id": "one",
+   "word": "one",
+   "pron": "W AH1 N",
+   "tags": [
+    "irregular"
+   ],
+   "units": "o:W+AH1 n:N e:-",
+   "category": "word"
+  },
+  {
+   "id": "once",
+   "word": "once",
+   "pron": "W AH1 N S",
+   "tags": [
+    "irregular"
+   ],
+   "units": "o:W+AH1 n:N c:S e:-",
+   "category": "word",
+   "accept": [
+    "o:W+AH1 n:N ce:S"
+   ],
+   "review": " (catalog-valid alternates accepted)"
+  },
+  {
+   "id": "said",
+   "word": "said",
+   "pron": "S EH1 D",
+   "tags": [
+    "irregular"
+   ],
+   "units": "s:S ai:EH1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "ballet",
+   "word": "ballet",
+   "pron": "B AE0 L EY1",
+   "tags": [
+    "loan"
+   ],
+   "units": "b:B a:AE0 ll:L et:EY1",
+   "review": "kept: double consonant ll is one unit",
+   "category": "word"
+  },
+  {
+   "id": "bouquet",
+   "word": "bouquet",
+   "pron": "B UW0 K EY1",
+   "tags": [
+    "loan"
+   ],
+   "units": "b:B ou:UW0 qu:K et:EY1",
+   "category": "word"
+  },
+  {
+   "id": "sushi",
+   "word": "sushi",
+   "pron": "S UW1 SH IY0",
+   "tags": [
+    "loan"
+   ],
+   "units": "s:S u:UW1 sh:SH i:IY0",
+   "category": "word"
+  },
+  {
+   "id": "tv",
+   "word": "tv",
+   "pron": "T IY1 V IY1",
+   "tags": [
+    "letter-names"
+   ],
+   "units": "t:T+IY1 v:V+IY1",
+   "category": "initialism"
+  },
+  {
+   "id": "dvd",
+   "word": "dvd",
+   "pron": "D IY1 V IY1 D IY1",
+   "tags": [
+    "letter-names"
+   ],
+   "units": "d:D+IY1 v:V+IY1 d:D+IY1",
+   "category": "initialism"
+  },
+  {
+   "id": "mr",
+   "word": "mr",
+   "pron": "M IH1 S T ER0",
+   "tags": [
+    "abbreviation"
+   ],
+   "category": "abbreviation",
+   "expansion": "mister"
+  },
+  {
+   "id": "read-present",
+   "word": "read",
+   "pron": "R IY1 D",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "to look at written words and understand them",
+   "units": "r:R ea:IY1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "read-past",
+   "word": "read",
+   "pron": "R EH1 D",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "past tense of read",
+   "units": "r:R ea:EH1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "lead-metal",
+   "word": "lead",
+   "pron": "L EH1 D",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "a heavy soft grey metal",
+   "units": "l:L ea:EH1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "lead-guide",
+   "word": "lead",
+   "pron": "L IY1 D",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "to guide or go in front",
+   "units": "l:L ea:IY1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "schedule-us",
+   "word": "schedule",
+   "pron": "S K EH1 JH UW0 L",
+   "tags": [
+    "dialect"
+   ],
+   "dialect": "en-US",
+   "units": "s:S ch:K e:EH1 d:JH u:UW0 l:L e:-",
+   "review": "changed: ch spells k as in school; sch is only sh in the catalog",
+   "category": "word"
+  },
+  {
+   "id": "schedule-uk",
+   "word": "schedule",
+   "pron": "SH EH1 D Y UW0 L",
+   "tags": [
+    "dialect"
+   ],
+   "dialect": "en-GB",
+   "units": "sch:SH e:EH1 d:D u:Y+UW0 l:L e:-",
+   "review": "kept: the u carries the y glide",
+   "category": "word"
+  }
+ ],
+ "status": "draft: written by Claude from the unit catalog, not yet reviewed by a tutor"
+}

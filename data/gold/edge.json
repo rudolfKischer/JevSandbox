@@ -1,0 +1,1129 @@
+{
+ "name": "edge",
+ "format": "same as starter",
+ "words": [
+  {
+   "id": "debt",
+   "word": "debt",
+   "pron": "D EH1 T",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "d:D e:EH1 bt:T",
+   "review": "kept: catalog lists debt under the silent pair bt",
+   "category": "word"
+  },
+  {
+   "id": "doubt",
+   "word": "doubt",
+   "pron": "D AW1 T",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "d:D ou:AW1 bt:T",
+   "review": "kept: catalog lists doubt under the silent pair bt",
+   "category": "word"
+  },
+  {
+   "id": "receipt",
+   "word": "receipt",
+   "pron": "R IH0 S IY1 T",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "r:R e:IH0 c:S ei:IY1 pt:T",
+   "review": "kept: catalog lists receipt under the silent pair pt",
+   "category": "word"
+  },
+  {
+   "id": "listen",
+   "word": "listen",
+   "pron": "L IH1 S AH0 N",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "l:L i:IH1 st:S e:AH0 n:N",
+   "review": "kept: catalog lists listen under the silent pair st",
+   "category": "word"
+  },
+  {
+   "id": "castle",
+   "word": "castle",
+   "pron": "K AE1 S AH0 L",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "c:K a:AE1 st:S le:AH0+L",
+   "review": "kept: catalog lists castle under the silent pair st (catalog-valid alternates accepted)",
+   "category": "word",
+   "accept": [
+    "c:K a:AE1 stle:S+AH0+L",
+    "c:K a:AE1 s:S tle:AH0+L"
+   ]
+  },
+  {
+   "id": "honest",
+   "word": "honest",
+   "pron": "AA1 N AH0 S T",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "h:- o:AA1 n:N e:AH0 s:S t:T",
+   "category": "word"
+  },
+  {
+   "id": "hour",
+   "word": "hour",
+   "pron": "AW1 ER0",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "h:- our:AW1+ER0",
+   "review": "kept: our spelling AW+ER is not in the catalog; kept as one unit",
+   "category": "word"
+  },
+  {
+   "id": "wrong",
+   "word": "wrong",
+   "pron": "R AO1 NG",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "wr:R o:AO1 ng:NG",
+   "category": "word"
+  },
+  {
+   "id": "knee",
+   "word": "knee",
+   "pron": "N IY1",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "kn:N ee:IY1",
+   "category": "word"
+  },
+  {
+   "id": "psychology",
+   "word": "psychology",
+   "pron": "S AY0 K AA1 L AH0 JH IY0",
+   "tags": [
+    "silent-letter",
+    "long"
+   ],
+   "units": "ps:S y:AY0 ch:K o:AA1 l:L o:AH0 g:JH y:IY0",
+   "review": "kept: ps and ch=k are catalog units",
+   "category": "word"
+  },
+  {
+   "id": "pneumonia",
+   "word": "pneumonia",
+   "pron": "N UW0 M OW1 N Y AH0",
+   "tags": [
+    "silent-letter",
+    "long"
+   ],
+   "units": "pn:N eu:UW0 m:M o:OW1 n:N i:Y a:AH0",
+   "category": "word"
+  },
+  {
+   "id": "rhythm",
+   "word": "rhythm",
+   "pron": "R IH1 DH AH0 M",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "rh:R y:IH1 th:DH m:AH0+M",
+   "review": "kept: rh and th are catalog units",
+   "category": "word"
+  },
+  {
+   "id": "thumb",
+   "word": "thumb",
+   "pron": "TH AH1 M",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "th:TH u:AH1 mb:M",
+   "review": "kept: silent pair mb",
+   "category": "word"
+  },
+  {
+   "id": "autumn",
+   "word": "autumn",
+   "pron": "AO1 T AH0 M",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "au:AO1 t:T u:AH0 mn:M",
+   "category": "word"
+  },
+  {
+   "id": "salmon",
+   "word": "salmon",
+   "pron": "S AE1 M AH0 N",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "s:S a:AE1 lm:M o:AH0 n:N",
+   "review": "kept: silent pair lm, as in calm (catalog-valid alternates accepted)",
+   "category": "word",
+   "accept": [
+    "s:S al:AE1 m:M o:AH0 n:N"
+   ]
+  },
+  {
+   "id": "calm",
+   "word": "calm",
+   "pron": "K AA1 M",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "c:K a:AA1 lm:M",
+   "review": "kept: catalog lists calm under the silent pair lm (catalog-valid alternates accepted)",
+   "category": "word",
+   "accept": [
+    "c:K al:AA1 m:M"
+   ]
+  },
+  {
+   "id": "walk",
+   "word": "walk",
+   "pron": "W AO1 K",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "w:W a:AO1 lk:K",
+   "review": "kept: catalog lists walk under the silent pair lk (catalog-valid alternates accepted)",
+   "category": "word",
+   "accept": [
+    "w:W al:AO1 k:K"
+   ]
+  },
+  {
+   "id": "ghost",
+   "word": "ghost",
+   "pron": "G OW1 S T",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "gh:G o:OW1 s:S t:T",
+   "category": "word"
+  },
+  {
+   "id": "answer",
+   "word": "answer",
+   "pron": "AE1 N S ER0",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "a:AE1 n:N sw:S er:ER0",
+   "category": "word",
+   "review": "changed: sw is a catalog unit, as in sword"
+  },
+  {
+   "id": "sword",
+   "word": "sword",
+   "pron": "S AO1 R D",
+   "tags": [
+    "silent-letter"
+   ],
+   "units": "sw:S or:AO1+R d:D",
+   "review": "kept: sw and or are catalog units",
+   "category": "word"
+  },
+  {
+   "id": "bread",
+   "word": "bread",
+   "pron": "B R EH1 D",
+   "tags": [
+    "vowel-team",
+    "irregular"
+   ],
+   "units": "b:B r:R ea:EH1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "great",
+   "word": "great",
+   "pron": "G R EY1 T",
+   "tags": [
+    "vowel-team",
+    "irregular"
+   ],
+   "units": "g:G r:R ea:EY1 t:T",
+   "category": "word"
+  },
+  {
+   "id": "people",
+   "word": "people",
+   "pron": "P IY1 P AH0 L",
+   "tags": [
+    "irregular"
+   ],
+   "units": "p:P eo:IY1 p:P le:AH0+L",
+   "category": "word"
+  },
+  {
+   "id": "friend",
+   "word": "friend",
+   "pron": "F R EH1 N D",
+   "tags": [
+    "irregular"
+   ],
+   "units": "f:F r:R ie:EH1 n:N d:D",
+   "category": "word"
+  },
+  {
+   "id": "build",
+   "word": "build",
+   "pron": "B IH1 L D",
+   "tags": [
+    "irregular"
+   ],
+   "units": "b:B ui:IH1 l:L d:D",
+   "category": "word"
+  },
+  {
+   "id": "busy",
+   "word": "busy",
+   "pron": "B IH1 Z IY0",
+   "tags": [
+    "irregular"
+   ],
+   "units": "b:B u:IH1 s:Z y:IY0",
+   "category": "word"
+  },
+  {
+   "id": "women",
+   "word": "women",
+   "pron": "W IH1 M AH0 N",
+   "tags": [
+    "irregular"
+   ],
+   "units": "w:W o:IH1 m:M e:AH0 n:N",
+   "category": "word"
+  },
+  {
+   "id": "beautiful",
+   "word": "beautiful",
+   "pron": "B Y UW1 T AH0 F AH0 L",
+   "tags": [
+    "irregular",
+    "long"
+   ],
+   "units": "b:B eau:Y+UW1 t:T i:AH0 f:F u:AH0 l:L",
+   "review": "kept: eau is a catalog unit (catalog-valid alternates accepted)",
+   "category": "word",
+   "accept": [
+    "b:B eau:Y+UW1 t:T i:AH0 f:F ul:AH0+L"
+   ]
+  },
+  {
+   "id": "does",
+   "word": "does",
+   "pron": "D AH1 Z",
+   "tags": [
+    "irregular"
+   ],
+   "units": "d:D oe:AH1 s:Z",
+   "category": "word"
+  },
+  {
+   "id": "shoe",
+   "word": "shoe",
+   "pron": "SH UW1",
+   "tags": [
+    "irregular"
+   ],
+   "units": "sh:SH oe:UW1",
+   "category": "word"
+  },
+  {
+   "id": "pretty",
+   "word": "pretty",
+   "pron": "P R IH1 T IY0",
+   "tags": [
+    "irregular"
+   ],
+   "units": "p:P r:R e:IH1 tt:T y:IY0",
+   "review": "kept: tt is a double consonant",
+   "category": "word"
+  },
+  {
+   "id": "break",
+   "word": "break",
+   "pron": "B R EY1 K",
+   "tags": [
+    "vowel-team",
+    "irregular"
+   ],
+   "units": "b:B r:R ea:EY1 k:K",
+   "category": "word"
+  },
+  {
+   "id": "move",
+   "word": "move",
+   "pron": "M UW1 V",
+   "tags": [
+    "irregular"
+   ],
+   "units": "m:M o:UW1 v:V e:-",
+   "category": "word",
+   "accept": [
+    "m:M o:UW1 ve:V"
+   ],
+   "review": " (catalog-valid alternates accepted)"
+  },
+  {
+   "id": "love",
+   "word": "love",
+   "pron": "L AH1 V",
+   "tags": [
+    "irregular"
+   ],
+   "units": "l:L o:AH1 v:V e:-",
+   "category": "word",
+   "accept": [
+    "l:L o:AH1 ve:V"
+   ],
+   "review": " (catalog-valid alternates accepted)"
+  },
+  {
+   "id": "are",
+   "word": "are",
+   "pron": "AA1 R",
+   "tags": [
+    "r-controlled",
+    "irregular"
+   ],
+   "units": "ar:AA1+R e:-",
+   "review": "changed: bossy-r ar plus a silent e; the catalog's are spells a different sound",
+   "category": "word"
+  },
+  {
+   "id": "your",
+   "word": "your",
+   "pron": "Y AO1 R",
+   "tags": [
+    "r-controlled",
+    "irregular"
+   ],
+   "units": "y:Y our:AO1+R",
+   "review": "kept: bossy-r: our is one unit",
+   "category": "word"
+  },
+  {
+   "id": "two",
+   "word": "two",
+   "pron": "T UW1",
+   "tags": [
+    "irregular"
+   ],
+   "units": "t:T w:- o:UW1",
+   "review": "changed: silent w; o spells long oo as in do",
+   "category": "word"
+  },
+  {
+   "id": "who",
+   "word": "who",
+   "pron": "HH UW1",
+   "tags": [
+    "irregular"
+   ],
+   "units": "wh:HH o:UW1",
+   "category": "word"
+  },
+  {
+   "id": "whole",
+   "word": "whole",
+   "pron": "HH OW1 L",
+   "tags": [
+    "irregular"
+   ],
+   "units": "wh:HH o:OW1 l:L e:-",
+   "category": "word"
+  },
+  {
+   "id": "eye",
+   "word": "eye",
+   "pron": "AY1",
+   "tags": [
+    "irregular"
+   ],
+   "units": "eye:AY1",
+   "category": "word"
+  },
+  {
+   "id": "aisle",
+   "word": "aisle",
+   "pron": "AY1 L",
+   "tags": [
+    "irregular",
+    "silent-letter"
+   ],
+   "units": "ai:AY1 s:- l:L e:-",
+   "category": "word"
+  },
+  {
+   "id": "sugar",
+   "word": "sugar",
+   "pron": "SH UH1 G ER0",
+   "tags": [
+    "irregular"
+   ],
+   "units": "s:SH u:UH1 g:G ar:ER0",
+   "category": "word"
+  },
+  {
+   "id": "mother",
+   "word": "mother",
+   "pron": "M AH1 DH ER0",
+   "tags": [
+    "irregular"
+   ],
+   "units": "m:M o:AH1 th:DH er:ER0",
+   "category": "word"
+  },
+  {
+   "id": "water",
+   "word": "water",
+   "pron": "W AO1 T ER0",
+   "tags": [
+    "irregular"
+   ],
+   "units": "w:W a:AO1 t:T er:ER0",
+   "category": "word"
+  },
+  {
+   "id": "was",
+   "word": "was",
+   "pron": "W AA1 Z",
+   "tags": [
+    "irregular"
+   ],
+   "units": "w:W a:AA1 s:Z",
+   "category": "word"
+  },
+  {
+   "id": "of",
+   "word": "of",
+   "pron": "AH1 V",
+   "tags": [
+    "irregular"
+   ],
+   "units": "o:AH1 f:V",
+   "category": "word"
+  },
+  {
+   "id": "the",
+   "word": "the",
+   "pron": "DH AH0",
+   "tags": [
+    "irregular"
+   ],
+   "units": "th:DH e:AH0",
+   "category": "word"
+  },
+  {
+   "id": "gym",
+   "word": "gym",
+   "pron": "JH IH1 M",
+   "tags": [
+    "soft-g"
+   ],
+   "units": "g:JH y:IH1 m:M",
+   "category": "word"
+  },
+  {
+   "id": "fork",
+   "word": "fork",
+   "pron": "F AO1 R K",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "f:F or:AO1+R k:K",
+   "category": "word"
+  },
+  {
+   "id": "turn",
+   "word": "turn",
+   "pron": "T ER1 N",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "t:T ur:ER1 n:N",
+   "category": "word"
+  },
+  {
+   "id": "early",
+   "word": "early",
+   "pron": "ER1 L IY0",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "ear:ER1 l:L y:IY0",
+   "category": "word"
+  },
+  {
+   "id": "word",
+   "word": "word",
+   "pron": "W ER1 D",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "w:W or:ER1 d:D",
+   "category": "word"
+  },
+  {
+   "id": "journey",
+   "word": "journey",
+   "pron": "JH ER1 N IY0",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "j:JH our:ER1 n:N ey:IY0",
+   "review": "kept: bossy-r: our is one unit",
+   "category": "word"
+  },
+  {
+   "id": "hair",
+   "word": "hair",
+   "pron": "HH EH1 R",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "h:HH air:EH1+R",
+   "review": "kept: bossy-r: air is one unit",
+   "category": "word"
+  },
+  {
+   "id": "bear",
+   "word": "bear",
+   "pron": "B EH1 R",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "b:B ear:EH1+R",
+   "review": "kept: bossy-r: ear is one unit",
+   "category": "word"
+  },
+  {
+   "id": "more",
+   "word": "more",
+   "pron": "M AO1 R",
+   "tags": [
+    "r-controlled",
+    "silent-e"
+   ],
+   "units": "m:M ore:AO1+R",
+   "review": "kept: bossy-r: ore is one unit",
+   "category": "word"
+  },
+  {
+   "id": "fire",
+   "word": "fire",
+   "pron": "F AY1 ER0",
+   "tags": [
+    "r-controlled",
+    "silent-e"
+   ],
+   "units": "f:F ire:AY1+ER0",
+   "category": "word"
+  },
+  {
+   "id": "star",
+   "word": "star",
+   "pron": "S T AA1 R",
+   "tags": [
+    "r-controlled"
+   ],
+   "units": "s:S t:T ar:AA1+R",
+   "review": "kept: bossy-r: ar is one unit",
+   "category": "word"
+  },
+  {
+   "id": "king",
+   "word": "king",
+   "pron": "K IH1 NG",
+   "tags": [
+    "digraph"
+   ],
+   "units": "k:K i:IH1 ng:NG",
+   "category": "word"
+  },
+  {
+   "id": "sing",
+   "word": "sing",
+   "pron": "S IH1 NG",
+   "tags": [
+    "digraph"
+   ],
+   "units": "s:S i:IH1 ng:NG",
+   "category": "word"
+  },
+  {
+   "id": "nation",
+   "word": "nation",
+   "pron": "N EY1 SH AH0 N",
+   "tags": [
+    "digraph"
+   ],
+   "units": "n:N a:EY1 ti:SH o:AH0 n:N",
+   "category": "word"
+  },
+  {
+   "id": "vision",
+   "word": "vision",
+   "pron": "V IH1 ZH AH0 N",
+   "tags": [
+    "digraph"
+   ],
+   "units": "v:V i:IH1 si:ZH o:AH0 n:N",
+   "review": "kept: si spelling zh is a catalog unit",
+   "category": "word"
+  },
+  {
+   "id": "machine",
+   "word": "machine",
+   "pron": "M AH0 SH IY1 N",
+   "tags": [
+    "loan",
+    "digraph"
+   ],
+   "units": "m:M a:AH0 ch:SH i:IY1 n:N e:-",
+   "category": "word"
+  },
+  {
+   "id": "special",
+   "word": "special",
+   "pron": "S P EH1 SH AH0 L",
+   "tags": [
+    "digraph"
+   ],
+   "units": "s:S p:P e:EH1 ci:SH a:AH0 l:L",
+   "category": "word"
+  },
+  {
+   "id": "bridge",
+   "word": "bridge",
+   "pron": "B R IH1 JH",
+   "tags": [
+    "trigraph"
+   ],
+   "units": "b:B r:R i:IH1 dge:JH",
+   "category": "word"
+  },
+  {
+   "id": "watch",
+   "word": "watch",
+   "pron": "W AA1 CH",
+   "tags": [
+    "trigraph"
+   ],
+   "units": "w:W a:AA1 tch:CH",
+   "review": "kept: tch is a catalog trigraph",
+   "category": "word"
+  },
+  {
+   "id": "judge",
+   "word": "judge",
+   "pron": "JH AH1 JH",
+   "tags": [
+    "trigraph"
+   ],
+   "units": "j:JH u:AH1 dge:JH",
+   "review": "kept: dge is a catalog trigraph",
+   "category": "word"
+  },
+  {
+   "id": "ocean",
+   "word": "ocean",
+   "pron": "OW1 SH AH0 N",
+   "tags": [
+    "digraph"
+   ],
+   "units": "o:OW1 ce:SH a:AH0 n:N",
+   "category": "word"
+  },
+  {
+   "id": "chef",
+   "word": "chef",
+   "pron": "SH EH1 F",
+   "tags": [
+    "loan",
+    "digraph"
+   ],
+   "units": "ch:SH e:EH1 f:F",
+   "category": "word"
+  },
+  {
+   "id": "school",
+   "word": "school",
+   "pron": "S K UW1 L",
+   "tags": [
+    "digraph"
+   ],
+   "units": "s:S ch:K oo:UW1 l:L",
+   "category": "word"
+  },
+  {
+   "id": "exit",
+   "word": "exit",
+   "pron": "EH1 G Z IH0 T",
+   "tags": [
+    "two-sounds"
+   ],
+   "units": "e:EH1 x:G+Z i:IH0 t:T",
+   "category": "word"
+  },
+  {
+   "id": "exam",
+   "word": "exam",
+   "pron": "IH0 G Z AE1 M",
+   "tags": [
+    "two-sounds"
+   ],
+   "units": "e:IH0 x:G+Z a:AE1 m:M",
+   "category": "word"
+  },
+  {
+   "id": "unique",
+   "word": "unique",
+   "pron": "Y UW0 N IY1 K",
+   "tags": [
+    "two-sounds",
+    "loan"
+   ],
+   "units": "u:Y+UW0 n:N i:IY1 que:K",
+   "category": "word"
+  },
+  {
+   "id": "pizza",
+   "word": "pizza",
+   "pron": "P IY1 T S AH0",
+   "tags": [
+    "loan",
+    "two-sounds"
+   ],
+   "units": "p:P i:IY1 zz:T+S a:AH0",
+   "review": "kept: zz spelling ts is an Italian loan, not in the catalog",
+   "category": "word"
+  },
+  {
+   "id": "spaghetti",
+   "word": "spaghetti",
+   "pron": "S P AH0 G EH1 T IY0",
+   "tags": [
+    "loan"
+   ],
+   "units": "s:S p:P a:AH0 gh:G e:EH1 tt:T i:IY0",
+   "review": "kept: gh=g and tt are catalog units",
+   "category": "word"
+  },
+  {
+   "id": "debut",
+   "word": "debut",
+   "pron": "D EY0 B Y UW1",
+   "tags": [
+    "loan",
+    "two-sounds"
+   ],
+   "units": "d:D e:EY0 b:B u:Y+UW1 t:-",
+   "category": "word"
+  },
+  {
+   "id": "karate",
+   "word": "karate",
+   "pron": "K ER0 AA1 T IY0",
+   "tags": [
+    "loan"
+   ],
+   "units": "k:K ar:ER0 a:AA1 t:T e:IY0",
+   "category": "word"
+  },
+  {
+   "id": "queue",
+   "word": "queue",
+   "pron": "K Y UW1",
+   "tags": [
+    "long-unit",
+    "irregular"
+   ],
+   "units": "que:K ue:Y+UW1",
+   "review": "changed: que and ue are both catalog units",
+   "category": "word"
+  },
+  {
+   "id": "fjord",
+   "word": "fjord",
+   "pron": "F Y AO1 R D",
+   "tags": [
+    "loan"
+   ],
+   "units": "f:F j:Y or:AO1+R d:D",
+   "review": "kept: bossy-r: or is one unit",
+   "category": "word"
+  },
+  {
+   "id": "fbi",
+   "word": "fbi",
+   "pron": "EH1 F B IY1 AY1",
+   "tags": [
+    "letter-names"
+   ],
+   "units": "f:EH1+F b:B+IY1 i:AY1",
+   "category": "initialism"
+  },
+  {
+   "id": "usa",
+   "word": "usa",
+   "pron": "Y UW1 EH1 S EY1",
+   "tags": [
+    "letter-names"
+   ],
+   "units": "u:Y+UW1 s:EH1+S a:EY1",
+   "category": "initialism"
+  },
+  {
+   "id": "ok",
+   "word": "ok",
+   "pron": "OW1 K EY1",
+   "tags": [
+    "letter-names"
+   ],
+   "units": "o:OW1 k:K+EY1",
+   "category": "initialism"
+  },
+  {
+   "id": "phd",
+   "word": "phd",
+   "pron": "P IY1 EY1 CH D IY1",
+   "tags": [
+    "letter-names"
+   ],
+   "units": "p:P+IY1 h:EY1+CH d:D+IY1",
+   "category": "initialism"
+  },
+  {
+   "id": "nasa",
+   "word": "nasa",
+   "pron": "N AE1 S AH0",
+   "tags": [
+    "acronym"
+   ],
+   "units": "n:N a:AE1 s:S a:AH0",
+   "category": "word"
+  },
+  {
+   "id": "scuba",
+   "word": "scuba",
+   "pron": "S K UW1 B AH0",
+   "tags": [
+    "acronym"
+   ],
+   "units": "s:S c:K u:UW1 b:B a:AH0",
+   "category": "word"
+  },
+  {
+   "id": "radar",
+   "word": "radar",
+   "pron": "R EY1 D AA2 R",
+   "tags": [
+    "acronym"
+   ],
+   "units": "r:R a:EY1 d:D ar:AA2+R",
+   "review": "kept: bossy-r: ar is one unit",
+   "category": "word"
+  },
+  {
+   "id": "sgt",
+   "word": "sgt",
+   "pron": "S AA1 R JH AH0 N T",
+   "tags": [
+    "abbreviation"
+   ],
+   "category": "abbreviation",
+   "expansion": "sergeant"
+  },
+  {
+   "id": "dr",
+   "word": "dr",
+   "pron": "D AA1 K T ER0",
+   "tags": [
+    "abbreviation"
+   ],
+   "category": "abbreviation",
+   "expansion": "doctor"
+  },
+  {
+   "id": "etc",
+   "word": "etc",
+   "pron": "EH2 T S EH1 T ER0 AH0",
+   "tags": [
+    "abbreviation"
+   ],
+   "category": "abbreviation",
+   "expansion": "etcetera"
+  },
+  {
+   "id": "unbelievable",
+   "word": "unbelievable",
+   "pron": "AH2 N B AH0 L IY1 V AH0 B AH0 L",
+   "tags": [
+    "long"
+   ],
+   "units": "u:AH2 n:N b:B e:AH0 l:L ie:IY1 v:V a:AH0 b:B le:AH0+L",
+   "category": "word"
+  },
+  {
+   "id": "necessary",
+   "word": "necessary",
+   "pron": "N EH1 S AH0 S EH2 R IY0",
+   "tags": [
+    "long"
+   ],
+   "units": "n:N e:EH1 c:S e:AH0 ss:S ar:EH2+R y:IY0",
+   "review": "kept: bossy-r: ar is one unit",
+   "category": "word"
+  },
+  {
+   "id": "wednesday",
+   "word": "wednesday",
+   "pron": "W EH1 N Z D EY2",
+   "tags": [
+    "long",
+    "silent-letter"
+   ],
+   "units": "w:W e:EH1 d:- n:N e:- s:Z d:D ay:EY2",
+   "category": "word",
+   "accept": [
+    "w:W e:EH1 d:- n:N es:Z d:D ay:EY2"
+   ],
+   "review": " (catalog-valid alternates accepted)"
+  },
+  {
+   "id": "library",
+   "word": "library",
+   "pron": "L AY1 B R EH2 R IY0",
+   "tags": [
+    "long"
+   ],
+   "units": "l:L i:AY1 b:B r:R ar:EH2+R y:IY0",
+   "category": "word",
+   "review": "changed: ar spells air, as in necessary"
+  },
+  {
+   "id": "tear-drop",
+   "word": "tear",
+   "pron": "T IH1 R",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "a drop of water from the eye",
+   "units": "t:T ear:IH1+R",
+   "review": "kept: bossy-r: ear is one unit",
+   "category": "word"
+  },
+  {
+   "id": "tear-rip",
+   "word": "tear",
+   "pron": "T EH1 R",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "to rip something apart",
+   "units": "t:T ear:EH1+R",
+   "review": "kept: bossy-r: ear is one unit",
+   "category": "word"
+  },
+  {
+   "id": "wind-air",
+   "word": "wind",
+   "pron": "W IH1 N D",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "moving air outdoors",
+   "units": "w:W i:IH1 n:N d:D",
+   "category": "word"
+  },
+  {
+   "id": "wind-coil",
+   "word": "wind",
+   "pron": "W AY1 N D",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "to turn or twist something around",
+   "units": "w:W i:AY1 n:N d:D",
+   "category": "word"
+  },
+  {
+   "id": "bass-fish",
+   "word": "bass",
+   "pron": "B AE1 S",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "a type of fish",
+   "units": "b:B a:AE1 ss:S",
+   "category": "word"
+  },
+  {
+   "id": "bass-music",
+   "word": "bass",
+   "pron": "B EY1 S",
+   "tags": [
+    "heteronym"
+   ],
+   "sense": "low-pitched music or sound",
+   "units": "b:B a:EY1 ss:S",
+   "category": "word"
+  },
+  {
+   "id": "tomato-us",
+   "word": "tomato",
+   "pron": "T AH0 M EY1 T OW2",
+   "tags": [
+    "dialect"
+   ],
+   "dialect": "en-US",
+   "units": "t:T o:AH0 m:M a:EY1 t:T o:OW2",
+   "category": "word"
+  },
+  {
+   "id": "tomato-uk",
+   "word": "tomato",
+   "pron": "T AH0 M AA1 T OW2",
+   "tags": [
+    "dialect"
+   ],
+   "dialect": "en-GB",
+   "units": "t:T o:AH0 m:M a:AA1 t:T o:OW2",
+   "category": "word"
+  },
+  {
+   "id": "either-a",
+   "word": "either",
+   "pron": "IY1 DH ER0",
+   "tags": [
+    "dialect"
+   ],
+   "dialect": "en-US",
+   "units": "ei:IY1 th:DH er:ER0",
+   "category": "word"
+  },
+  {
+   "id": "either-b",
+   "word": "either",
+   "pron": "AY1 DH ER0",
+   "tags": [
+    "dialect"
+   ],
+   "dialect": "en-GB",
+   "units": "ei:AY1 th:DH er:ER0",
+   "category": "word"
+  }
+ ],
+ "status": "draft: written by Claude from the unit catalog, not yet reviewed by a tutor"
+}

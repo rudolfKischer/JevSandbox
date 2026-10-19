@@ -1,0 +1,11008 @@
+{
+"name": "diagnostic",
+"unlabeled": true,
+"judged": true,
+"status": "hard and unusual words, chosen to find failure patterns",
+"words": [
+{
+"id": "ratio",
+"word": "ratio",
+"pron": "R EY1 SH IY0 OW2",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "corporates",
+"word": "corporates",
+"pron": "K AO1 R P ER0 AH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "measurements",
+"word": "measurements",
+"pron": "M EH1 ZH ER0 M AH0 N T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "irritates",
+"word": "irritates",
+"pron": "IH1 R IH0 T EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "shepherded",
+"word": "shepherded",
+"pron": "SH EH1 P ER0 D IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "niagara",
+"word": "niagara",
+"pron": "N AY0 AE1 G R AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "rhinestone",
+"word": "rhinestone",
+"pron": "R AY1 N S T OW2 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "xers",
+"word": "xers",
+"pron": "EH1 K S EH0 R Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 4,
+"pool": 3
+},
+{
+"id": "isotopes",
+"word": "isotopes",
+"pron": "AY1 S AH0 T OW2 P S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "beyond",
+"word": "beyond",
+"pron": "B IH0 AA1 N D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "appreciate",
+"word": "appreciate",
+"pron": "AH0 P R IY1 SH IY0 EY2 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "parliament",
+"word": "parliament",
+"pron": "P AA1 R L AH0 M AH0 N T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "temperate",
+"word": "temperate",
+"pron": "T EH1 M P R AH0 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "rorschach",
+"word": "rorschach",
+"pron": "R AO1 R SH AA2",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 5
+},
+{
+"id": "capitulated",
+"word": "capitulated",
+"pron": "K AH0 P IH1 CH AH0 L EY2 T IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "whereas",
+"word": "whereas",
+"pron": "W EH0 R AE1 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "hotcakes",
+"word": "hotcakes",
+"pron": "HH AA1 T K EY2 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "educationally",
+"word": "educationally",
+"pron": "EH2 JH AH0 K EY1 SH AH0 N AH0 L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "quixote",
+"word": "quixote",
+"pron": "K IY0 HH OW1 T IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "governmental",
+"word": "governmental",
+"pron": "G AH1 V ER0 M EH2 N T AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "macgyver",
+"word": "macgyver",
+"pron": "M AH0 G AY1 V ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "nineveh",
+"word": "nineveh",
+"pron": "N IH1 N AH0 V AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "bivouac",
+"word": "bivouac",
+"pron": "B IH1 V W AE0 K",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "graduations",
+"word": "graduations",
+"pron": "G R AE2 JH UW0 EY1 SH AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "rewrites",
+"word": "rewrites",
+"pron": "R IY0 R AY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "heretofore",
+"word": "heretofore",
+"pron": "HH IH2 R T AH0 F AO1 R",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "sergeants",
+"word": "sergeants",
+"pron": "S AA1 R JH AH0 N T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "isles",
+"word": "isles",
+"pron": "AY1 L Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "vehemently",
+"word": "vehemently",
+"pron": "V IY1 AH0 M AH0 N T L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "mates",
+"word": "mates",
+"pron": "M EY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "audacious",
+"word": "audacious",
+"pron": "AA0 D EY1 SH AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "bustling",
+"word": "bustling",
+"pron": "B AH1 S AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "parishioner",
+"word": "parishioner",
+"pron": "P ER0 IH1 SH AH0 N ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 13
+},
+{
+"id": "eyre",
+"word": "eyre",
+"pron": "EH1 R",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "timelines",
+"word": "timelines",
+"pron": "T AY1 M L AY0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "initiator",
+"word": "initiator",
+"pron": "IH2 N IH0 SH IY1 EY0 T ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "mojave",
+"word": "mojave",
+"pron": "M OW0 HH AA1 V IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "worcester",
+"word": "worcester",
+"pron": "W UH1 S T ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 8
+},
+{
+"id": "negotiations",
+"word": "negotiations",
+"pron": "N AH0 G OW2 SH IY0 EY1 SH AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "constitutes",
+"word": "constitutes",
+"pron": "K AA1 N S T AH0 T UW2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "states",
+"word": "states",
+"pron": "S T EY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "heirlooms",
+"word": "heirlooms",
+"pron": "EH1 R L UW2 M Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "ngai",
+"word": "ngai",
+"pron": "G AY1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "laughlin",
+"word": "laughlin",
+"pron": "L AA1 K L IH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "venezuelans",
+"word": "venezuelans",
+"pron": "V EH2 N IH0 Z W EY1 L AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "snakes",
+"word": "snakes",
+"pron": "S N EY1 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "adulation",
+"word": "adulation",
+"pron": "AE2 JH AH0 L EY1 SH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "everyone",
+"word": "everyone",
+"pron": "EH1 V R IY0 W AH2 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 11
+},
+{
+"id": "logically",
+"word": "logically",
+"pron": "L AA1 JH IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "homebuilders",
+"word": "homebuilders",
+"pron": "HH OW1 M B IH2 L D ER0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 11
+},
+{
+"id": "excerpted",
+"word": "excerpted",
+"pron": "EH2 K S ER1 P T IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "sometimes",
+"word": "sometimes",
+"pron": "S AH0 M T AY1 M Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "bachelors",
+"word": "bachelors",
+"pron": "B AE1 CH L ER0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "peddling",
+"word": "peddling",
+"pron": "P EH1 D AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "troupes",
+"word": "troupes",
+"pron": "T R UW1 P S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "chieftain",
+"word": "chieftain",
+"pron": "CH IY1 F T AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "whites",
+"word": "whites",
+"pron": "W AY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "pokes",
+"word": "pokes",
+"pron": "P OW1 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "fascinates",
+"word": "fascinates",
+"pron": "F AE1 S AH0 N EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "speculates",
+"word": "speculates",
+"pron": "S P EH1 K Y AH0 L EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "tuneful",
+"word": "tuneful",
+"pron": "T UW1 N F AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "mutual",
+"word": "mutual",
+"pron": "M Y UW1 CH AH0 W AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 5
+},
+{
+"id": "jose",
+"word": "jose",
+"pron": "HH OW2 Z EY1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 2
+},
+{
+"id": "vespa",
+"word": "vespa",
+"pron": "V EY1 S P AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "arranges",
+"word": "arranges",
+"pron": "ER0 EY1 N JH IH0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "complementary",
+"word": "complementary",
+"pron": "K AA2 M P L AH0 M EH1 N T R IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "bbq",
+"word": "bbq",
+"pron": "B IY1 B IY0 K Y UW2",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": null,
+"pool": 0
+},
+{
+"id": "unrealistically",
+"word": "unrealistically",
+"pron": "AH0 N R IY2 AH0 L IH1 S T IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "sexual",
+"word": "sexual",
+"pron": "S EH1 K SH UW0 AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "lutz",
+"word": "lutz",
+"pron": "L AH1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "educated",
+"word": "educated",
+"pron": "EH1 JH AH0 K EY2 T AH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "alphabetically",
+"word": "alphabetically",
+"pron": "AE2 L F AH0 B EH1 T IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "pharoah",
+"word": "pharoah",
+"pron": "F EY1 R OW0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "sincerely",
+"word": "sincerely",
+"pron": "S IH0 N S IH1 R L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "monaghan",
+"word": "monaghan",
+"pron": "M AA1 N AH0 HH AE0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "casualties",
+"word": "casualties",
+"pron": "K AE1 ZH AH0 W AH0 L T IY0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 14
+},
+{
+"id": "sovereigns",
+"word": "sovereigns",
+"pron": "S AA1 V R AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "kates",
+"word": "kates",
+"pron": "K EY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "forewarned",
+"word": "forewarned",
+"pron": "F AO0 R W AO1 R N D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "evacuating",
+"word": "evacuating",
+"pron": "IH0 V AE1 K Y AH0 W EY2 T IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 3
+},
+{
+"id": "classmates",
+"word": "classmates",
+"pron": "K L AE1 S M EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "dateline",
+"word": "dateline",
+"pron": "D EY1 T L AY2 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "sahm",
+"word": "sahm",
+"pron": "S AE1 M",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "authority",
+"word": "authority",
+"pron": "AH0 TH AO1 R AH0 T IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "invertebrates",
+"word": "invertebrates",
+"pron": "IH0 N V ER1 T AH0 B R AH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "innately",
+"word": "innately",
+"pron": "IH0 N EY1 T L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "corrections",
+"word": "corrections",
+"pron": "K ER0 EH1 K SH AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "plainclothes",
+"word": "plainclothes",
+"pron": "P L EY1 N K L OW1 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 5
+},
+{
+"id": "educate",
+"word": "educate",
+"pron": "EH1 JH AH0 K EY2 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "appropriately",
+"word": "appropriately",
+"pron": "AH0 P R OW1 P R IY0 IH0 T L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "perpetuate",
+"word": "perpetuate",
+"pron": "P ER0 P EH1 CH AH0 W EY2 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 8
+},
+{
+"id": "exhorted",
+"word": "exhorted",
+"pron": "IH0 G Z AO1 R T IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "firefight",
+"word": "firefight",
+"pron": "F AY1 R F AY2 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 9
+},
+{
+"id": "fleur",
+"word": "fleur",
+"pron": "F L ER1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "rearranged",
+"word": "rearranged",
+"pron": "R IY2 ER0 EY1 N JH D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "aleksandr",
+"word": "aleksandr",
+"pron": "AE2 L AH0 G Z AE1 N D ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "aggregates",
+"word": "aggregates",
+"pron": "AE1 G R AH0 G IH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "excels",
+"word": "excels",
+"pron": "IH0 K S EH1 L Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "statutory",
+"word": "statutory",
+"pron": "S T AE1 CH AH0 T AO2 R IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "simulates",
+"word": "simulates",
+"pron": "S IH1 M Y AH0 L EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "hopelessness",
+"word": "hopelessness",
+"pron": "HH OW1 P L AH0 S N AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "forestall",
+"word": "forestall",
+"pron": "F AO0 R S T AO1 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "theories",
+"word": "theories",
+"pron": "TH IH1 R IY0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "videoconferencing",
+"word": "videoconferencing",
+"pron": "V IY2 D IY0 OW0 K AA1 N F R AH0 N S IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "elaborate",
+"word": "elaborate",
+"pron": "IH0 L AE1 B R AH0 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "byu",
+"word": "byu",
+"pron": "B IY1 W AY1 Y UW1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 4,
+"pool": 1
+},
+{
+"id": "crates",
+"word": "crates",
+"pron": "K R EY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "stokes",
+"word": "stokes",
+"pron": "S T OW1 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "virtue",
+"word": "virtue",
+"pron": "V ER1 CH UW0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 11
+},
+{
+"id": "warbling",
+"word": "warbling",
+"pron": "W AO1 R B AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "symmetrically",
+"word": "symmetrically",
+"pron": "S AH0 M EH1 T R IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 11
+},
+{
+"id": "comandante",
+"word": "comandante",
+"pron": "K OW2 M AH0 N D AA1 N T EY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "coleman",
+"word": "coleman",
+"pron": "K OW1 L M AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "principally",
+"word": "principally",
+"pron": "P R IH1 N S IH0 P L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "cretaceous",
+"word": "cretaceous",
+"pron": "K R IH0 T EY1 SH IH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "corroborate",
+"word": "corroborate",
+"pron": "K ER0 AA1 B ER0 EY2 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "debutantes",
+"word": "debutantes",
+"pron": "D EH1 B Y AH0 T AA1 N T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "careless",
+"word": "careless",
+"pron": "K EH1 R L AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "laboratory",
+"word": "laboratory",
+"pron": "L AE1 B R AH0 T AO2 R IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "anxious",
+"word": "anxious",
+"pron": "AE1 NG K SH AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 7
+},
+{
+"id": "uss",
+"word": "uss",
+"pron": "Y UW1 EH1 S EH1 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 4,
+"pool": 1
+},
+{
+"id": "climates",
+"word": "climates",
+"pron": "K L AY1 M AH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "negotiation",
+"word": "negotiation",
+"pron": "N IH0 G OW2 SH IY0 EY1 SH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "czar",
+"word": "czar",
+"pron": "Z AA1 R",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "stonewalled",
+"word": "stonewalled",
+"pron": "S T OW1 N W AO2 L D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "unforeseen",
+"word": "unforeseen",
+"pron": "AH2 N F AO0 R S IY1 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "exhaustion",
+"word": "exhaustion",
+"pron": "IH0 G Z AO1 S CH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "replicates",
+"word": "replicates",
+"pron": "R EH1 P L IH0 K EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "telescopes",
+"word": "telescopes",
+"pron": "T EH1 L AH0 S K OW2 P S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "nodular",
+"word": "nodular",
+"pron": "N AA1 JH AH0 L ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "strengths",
+"word": "strengths",
+"pron": "S T R EH1 NG K TH S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "individually",
+"word": "individually",
+"pron": "IH2 N D IH0 V IH1 JH UW0 AH0 L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "jeanette",
+"word": "jeanette",
+"pron": "JH AH0 N EH1 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "likelier",
+"word": "likelier",
+"pron": "L AY1 K L IY0 ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "grumbling",
+"word": "grumbling",
+"pron": "G R AH1 M B AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "gaelic",
+"word": "gaelic",
+"pron": "G EY1 L IH0 K",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "stoneware",
+"word": "stoneware",
+"pron": "S T OW1 N W EH2 R",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "violates",
+"word": "violates",
+"pron": "V AY1 AH0 L EY0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "judiciary",
+"word": "judiciary",
+"pron": "JH UW0 D IH1 SH IY0 EH2 R IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "trademark",
+"word": "trademark",
+"pron": "T R EY1 D M AA2 R K",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "magistrates",
+"word": "magistrates",
+"pron": "M AE1 JH IH0 S T R EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "worrisome",
+"word": "worrisome",
+"pron": "W ER1 IY0 S AH0 M",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "overexcited",
+"word": "overexcited",
+"pron": "OW2 V ER0 EH0 K S AY1 T IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 11
+},
+{
+"id": "ineffectual",
+"word": "ineffectual",
+"pron": "IH2 N AH0 F EH1 K CH UW0 AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "illiterates",
+"word": "illiterates",
+"pron": "IH2 L IH1 T ER0 AH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "corvettes",
+"word": "corvettes",
+"pron": "K AO2 R V EH1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "troubling",
+"word": "troubling",
+"pron": "T R AH1 B AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 13
+},
+{
+"id": "inhalation",
+"word": "inhalation",
+"pron": "IH0 N AH0 L EY1 SH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "shareholdings",
+"word": "shareholdings",
+"pron": "SH EH1 R HH OW2 L D IH0 NG Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "nineteen",
+"word": "nineteen",
+"pron": "N AY1 N T IY1 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "ledoux",
+"word": "ledoux",
+"pron": "L IH0 D UW1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "foremost",
+"word": "foremost",
+"pron": "F AO1 R M OW2 S T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "bisexual",
+"word": "bisexual",
+"pron": "B AY2 S EH1 K SH UW0 AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "exhibitors",
+"word": "exhibitors",
+"pron": "IH0 G Z IH1 B AH0 T ER0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "heh",
+"word": "heh",
+"pron": "HH EH1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "interested",
+"word": "interested",
+"pron": "IH1 N T R AH0 S T AH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "usaid",
+"word": "usaid",
+"pron": "Y UW1 EH1 S EY1 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 5
+},
+{
+"id": "affectionately",
+"word": "affectionately",
+"pron": "AH0 F EH1 K SH AH0 N AH0 T L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "complexions",
+"word": "complexions",
+"pron": "K AH0 M P EH1 K SH AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 3,
+"pool": 9
+},
+{
+"id": "rhetorically",
+"word": "rhetorically",
+"pron": "R AH0 T AO1 R IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 9
+},
+{
+"id": "situations",
+"word": "situations",
+"pron": "S IH2 CH UW0 EY1 SH AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "pastes",
+"word": "pastes",
+"pron": "P EY1 S T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "michaels",
+"word": "michaels",
+"pron": "M AY1 K AH0 L Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "hopeless",
+"word": "hopeless",
+"pron": "HH OW1 P L AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "businesswoman",
+"word": "businesswoman",
+"pron": "B IH1 Z N IH0 S W UH2 M AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "ophthalmology",
+"word": "ophthalmology",
+"pron": "AA2 P TH AH0 M AA1 L AH0 JH IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "stakes",
+"word": "stakes",
+"pron": "S T EY1 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "cotes",
+"word": "cotes",
+"pron": "K OW1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "connoisseur",
+"word": "connoisseur",
+"pron": "K AA2 N AH0 S ER1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 14
+},
+{
+"id": "timepiece",
+"word": "timepiece",
+"pron": "T AY1 M P IY2 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "dribbling",
+"word": "dribbling",
+"pron": "D R IH1 B AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "sayyid",
+"word": "sayyid",
+"pron": "S AY1 IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 11
+},
+{
+"id": "meson",
+"word": "meson",
+"pron": "M EY1 Z AA2 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "johnnie",
+"word": "johnnie",
+"pron": "JH AA1 N IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 9
+},
+{
+"id": "mature",
+"word": "mature",
+"pron": "M AH0 CH UH1 R",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "incites",
+"word": "incites",
+"pron": "IH0 N S AY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "wholeness",
+"word": "wholeness",
+"pron": "HH OW1 L N IH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "tucson",
+"word": "tucson",
+"pron": "T UW1 S AA2 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "coups",
+"word": "coups",
+"pron": "K UW1 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "boers",
+"word": "boers",
+"pron": "B AO1 R Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "dower",
+"word": "dower",
+"pron": "D AW1 R",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "exhort",
+"word": "exhort",
+"pron": "IH0 G Z AO1 R T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "lifeline",
+"word": "lifeline",
+"pron": "L AY1 F L AY2 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "storefronts",
+"word": "storefronts",
+"pron": "S T AO1 R F R AA2 N T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "jakes",
+"word": "jakes",
+"pron": "JH EY1 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "heiress",
+"word": "heiress",
+"pron": "EH1 R AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "ironwood",
+"word": "ironwood",
+"pron": "AY1 ER0 N W UH2 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "arrival",
+"word": "arrival",
+"pron": "ER0 AY1 V AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "cataclysm",
+"word": "cataclysm",
+"pron": "K AE1 T AH0 K L IH2 S AH0 M",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 3
+},
+{
+"id": "arrears",
+"word": "arrears",
+"pron": "ER0 IH1 R Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "alleviates",
+"word": "alleviates",
+"pron": "AH0 L IY1 V IY0 EY0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "pesetas",
+"word": "pesetas",
+"pron": "P AH0 S EY1 T AH0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "stipulates",
+"word": "stipulates",
+"pron": "S T IH1 P Y AH0 L EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "nuevo",
+"word": "nuevo",
+"pron": "N W EY1 V OW0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "subordinates",
+"word": "subordinates",
+"pron": "S AH0 B AO1 R D AH0 N EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "handkerchief",
+"word": "handkerchief",
+"pron": "HH AE1 NG K ER0 CH IH0 F",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "czars",
+"word": "czars",
+"pron": "Z AA1 R Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "europeans",
+"word": "europeans",
+"pron": "Y UH2 R AH0 P IY1 AH0 N Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "predicates",
+"word": "predicates",
+"pron": "P R EH1 D AH0 K EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "statute",
+"word": "statute",
+"pron": "S T AE1 CH UW0 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "sameness",
+"word": "sameness",
+"pron": "S EY1 M N AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "liberalization",
+"word": "liberalization",
+"pron": "L IH2 B R AH0 L IH0 Z EY1 SH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "anatomically",
+"word": "anatomically",
+"pron": "AE2 N AH0 T AA1 M AH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 9
+},
+{
+"id": "dangling",
+"word": "dangling",
+"pron": "D AE1 NG G AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "escapes",
+"word": "escapes",
+"pron": "IH0 S K EY1 P S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "nineteenth",
+"word": "nineteenth",
+"pron": "N AY1 N T IY1 N TH",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "something",
+"word": "something",
+"pron": "S AH1 M TH IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "apropos",
+"word": "apropos",
+"pron": "AE2 P R AH0 P OW1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "oooh",
+"word": "oooh",
+"pron": "UW1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 5
+},
+{
+"id": "faunal",
+"word": "faunal",
+"pron": "F AA1 N AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "arriving",
+"word": "arriving",
+"pron": "ER0 AY1 V IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "teammates",
+"word": "teammates",
+"pron": "T IY1 M M EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "duquesne",
+"word": "duquesne",
+"pron": "D UW0 K EY1 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "souffle",
+"word": "souffle",
+"pron": "S UW0 F L EY1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "tinkling",
+"word": "tinkling",
+"pron": "T IH1 NG K AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "mcmichael",
+"word": "mcmichael",
+"pron": "M AH0 K M AY1 K AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "commissars",
+"word": "commissars",
+"pron": "K AA1 M IH0 S AA0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "neda",
+"word": "neda",
+"pron": "N EY1 D AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "snowflakes",
+"word": "snowflakes",
+"pron": "S N OW1 F L EY2 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "fates",
+"word": "fates",
+"pron": "F EY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "marriage",
+"word": "marriage",
+"pron": "M EH1 R IH0 JH",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 13
+},
+{
+"id": "dwindling",
+"word": "dwindling",
+"pron": "D W IH1 N D AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "safeguards",
+"word": "safeguards",
+"pron": "S EY1 F G AA2 R D Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "exhilaration",
+"word": "exhilaration",
+"pron": "IH0 G Z IH2 L ER0 EY1 SH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "metaphorically",
+"word": "metaphorically",
+"pron": "M EH2 T AH0 F AO1 R IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "minefield",
+"word": "minefield",
+"pron": "M AY1 N F IY2 L D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "michener",
+"word": "michener",
+"pron": "M IH1 CH N ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "johnson",
+"word": "johnson",
+"pron": "JH AA1 N S AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "analytically",
+"word": "analytically",
+"pron": "AE2 N AH0 L IH1 T IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "authoritarian",
+"word": "authoritarian",
+"pron": "AH0 TH AO2 R AH0 T EH1 R IY0 AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "scheduled",
+"word": "scheduled",
+"pron": "S K EH1 JH UH0 L D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "coauthor",
+"word": "coauthor",
+"pron": "K OW1 AA1 TH ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "beforehand",
+"word": "beforehand",
+"pron": "B IH0 F AO1 R HH AE2 N D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "augmentation",
+"word": "augmentation",
+"pron": "AA2 G M EH0 N T EY1 SH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "absolutes",
+"word": "absolutes",
+"pron": "AE1 B S AH0 L UW2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "sanctuary",
+"word": "sanctuary",
+"pron": "S AE1 NG K CH UW0 EH2 R IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "embezzling",
+"word": "embezzling",
+"pron": "IH0 M B EH1 Z AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "landscapes",
+"word": "landscapes",
+"pron": "L AE1 N D S K EY2 P S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "excelled",
+"word": "excelled",
+"pron": "IH0 K S EH1 L D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "illinois",
+"word": "illinois",
+"pron": "IH2 L AH0 N OY1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "ibn",
+"word": "ibn",
+"pron": "IH1 B AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 3
+},
+{
+"id": "mores",
+"word": "mores",
+"pron": "M AO1 R EY2 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "institutes",
+"word": "institutes",
+"pron": "IH1 N S T AH0 T UW2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "hours",
+"word": "hours",
+"pron": "AW1 ER0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "leah",
+"word": "leah",
+"pron": "L IY1 AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "excellency",
+"word": "excellency",
+"pron": "EH1 K S L EH1 N S IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "educating",
+"word": "educating",
+"pron": "EH1 JH AH0 K EY2 T IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "scorecard",
+"word": "scorecard",
+"pron": "S K AO1 R K AA2 R D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "plantain",
+"word": "plantain",
+"pron": "P L AE1 N T AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "recycling",
+"word": "recycling",
+"pron": "R IY0 S AY1 K AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "timely",
+"word": "timely",
+"pron": "T AY1 M L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "laboratories",
+"word": "laboratories",
+"pron": "L AE1 B R AH0 T AO2 R IY0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "ophthalmologists",
+"word": "ophthalmologists",
+"pron": "AA2 P TH AH0 M AA1 L AH0 JH IH0 S T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "unfortunates",
+"word": "unfortunates",
+"pron": "AH0 N F AO1 R CH AH0 N AH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 4
+},
+{
+"id": "ingratiating",
+"word": "ingratiating",
+"pron": "IH0 NG G R EY1 SH IY0 EY2 T IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "rites",
+"word": "rites",
+"pron": "R AY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "approximates",
+"word": "approximates",
+"pron": "AH0 P R AA1 K S AH0 M AH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "ratios",
+"word": "ratios",
+"pron": "R EY1 SH IY0 OW2 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "exacerbates",
+"word": "exacerbates",
+"pron": "IH0 G Z AE1 S ER0 B EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "whitewater",
+"word": "whitewater",
+"pron": "W AY1 T W AO2 T ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "cirrhosis",
+"word": "cirrhosis",
+"pron": "S ER0 OW1 S AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 12
+},
+{
+"id": "excised",
+"word": "excised",
+"pron": "EH1 K S AY2 Z D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "equates",
+"word": "equates",
+"pron": "IH0 K W EY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "esprit",
+"word": "esprit",
+"pron": "EH0 S P R IY1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "graduated",
+"word": "graduated",
+"pron": "G R AE1 JH UW0 EY2 T IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "gravitationally",
+"word": "gravitationally",
+"pron": "G R AE2 V AH0 T EY1 SH N AH0 L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 12
+},
+{
+"id": "rahway",
+"word": "rahway",
+"pron": "R AA1 W EY2",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "timeless",
+"word": "timeless",
+"pron": "T AY1 M L AH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "reconnaissance",
+"word": "reconnaissance",
+"pron": "R IY0 K AA1 N AH0 S AH0 N S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "lapd",
+"word": "lapd",
+"pron": "EH1 L EY1 P IY1 D IY1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 6,
+"pool": 4
+},
+{
+"id": "mcgovern",
+"word": "mcgovern",
+"pron": "M AH0 G AH1 V ER0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "breda",
+"word": "breda",
+"pron": "B R EY1 D AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "fashionable",
+"word": "fashionable",
+"pron": "F AE1 SH AH0 N AH0 B AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "carburetors",
+"word": "carburetors",
+"pron": "K AA1 R B ER0 EY2 T ER0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 13
+},
+{
+"id": "exceeds",
+"word": "exceeds",
+"pron": "IH0 K S IY1 D Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 12
+},
+{
+"id": "motorcyclists",
+"word": "motorcyclists",
+"pron": "M OW1 T ER0 S AY2 K AH0 L IH0 S T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 9
+},
+{
+"id": "safekeeping",
+"word": "safekeeping",
+"pron": "S EY1 F K IY1 P IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "spokes",
+"word": "spokes",
+"pron": "S P OW1 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "cushioned",
+"word": "cushioned",
+"pron": "K UH1 SH AH0 N D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "conceptually",
+"word": "conceptually",
+"pron": "K AH0 N S EH1 P CH UW0 AH0 L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 9
+},
+{
+"id": "caregiving",
+"word": "caregiving",
+"pron": "K EH1 R G IH2 V IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "scapegoats",
+"word": "scapegoats",
+"pron": "S K EY1 P G OW2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "corral",
+"word": "corral",
+"pron": "K ER0 AE1 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "twofold",
+"word": "twofold",
+"pron": "T UW1 F OW1 L D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "isolates",
+"word": "isolates",
+"pron": "AY1 S AH0 L EY2 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "lifesaver",
+"word": "lifesaver",
+"pron": "L AY1 F S EY2 V ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "moulin",
+"word": "moulin",
+"pron": "M UW0 L AE1 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "systematically",
+"word": "systematically",
+"pron": "S IH2 S T AH0 M AE1 T IH0 K L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "espada",
+"word": "espada",
+"pron": "EY0 S P AA1 D AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "audiences",
+"word": "audiences",
+"pron": "AA1 D IY0 AH0 N S AH0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "pariahs",
+"word": "pariahs",
+"pron": "P ER0 AY1 AH0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "nehemiah",
+"word": "nehemiah",
+"pron": "N IY2 AH0 M AY1 AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 4
+},
+{
+"id": "punctuality",
+"word": "punctuality",
+"pron": "P AH2 NG K CH UW0 AE1 L IH0 T IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "length",
+"word": "length",
+"pron": "L EH1 NG K TH",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "graduating",
+"word": "graduating",
+"pron": "G R AE1 JH AH0 W EY2 T IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 5
+},
+{
+"id": "emaciated",
+"word": "emaciated",
+"pron": "IH0 M EY1 SH IY0 EY2 T IH0 D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "comeback",
+"word": "comeback",
+"pron": "K AH1 M B AE2 K",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "caul",
+"word": "caul",
+"pron": "K AA1 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "foreseeing",
+"word": "foreseeing",
+"pron": "F AO0 R S IY1 IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 14
+},
+{
+"id": "wireless",
+"word": "wireless",
+"pron": "W AY1 R L IH0 S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "disassociate",
+"word": "disassociate",
+"pron": "D IH2 S AH0 S OW1 SH IY0 EY0 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "pyrenees",
+"word": "pyrenees",
+"pron": "P IH1 R AH0 IY0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "howitzer",
+"word": "howitzer",
+"pron": "HH AW1 AH0 T S ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 8
+},
+{
+"id": "typeset",
+"word": "typeset",
+"pron": "T AY1 P S EH2 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "coates",
+"word": "coates",
+"pron": "K OW1 EY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "arraignment",
+"word": "arraignment",
+"pron": "ER0 EY1 N M AH0 N T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 7
+},
+{
+"id": "aegean",
+"word": "aegean",
+"pron": "IH0 JH IY1 AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "torah",
+"word": "torah",
+"pron": "T AO1 R AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "schwarzenegger",
+"word": "schwarzenegger",
+"pron": "SH W AO1 R Z AH0 N EY2 G ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 9
+},
+{
+"id": "lonely",
+"word": "lonely",
+"pron": "L OW1 N L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "rippling",
+"word": "rippling",
+"pron": "R IH1 P AH0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "arrhythmias",
+"word": "arrhythmias",
+"pron": "ER0 IH1 DH M IY0 AH0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 2,
+"pool": 6
+},
+{
+"id": "depreciation",
+"word": "depreciation",
+"pron": "D IH0 P R IY2 SH IY0 EY1 SH AH0 N",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "deva",
+"word": "deva",
+"pron": "D EY1 V AH0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 1
+},
+{
+"id": "roux",
+"word": "roux",
+"pron": "R UW1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "likeliest",
+"word": "likeliest",
+"pron": "L AY1 K L IY0 AH0 S T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "fete",
+"word": "fete",
+"pron": "F EY1 T",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 2
+},
+{
+"id": "ritual",
+"word": "ritual",
+"pron": "R IH1 CH UW0 AH0 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "factually",
+"word": "factually",
+"pron": "F AE1 K CH UW0 AH0 L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 9
+},
+{
+"id": "langlois",
+"word": "langlois",
+"pron": "L AH0 NG L W AA1",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "dishonor",
+"word": "dishonor",
+"pron": "D IH0 S AA1 N ER0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 5
+},
+{
+"id": "rescheduling",
+"word": "rescheduling",
+"pron": "R IY0 S K EH1 JH UW0 L IH0 NG",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "indiscriminately",
+"word": "indiscriminately",
+"pron": "IH2 N D IH0 S K R IH1 M AH0 N AH0 T L IY0",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "completes",
+"word": "completes",
+"pron": "K AH0 M P L IY1 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "opposites",
+"word": "opposites",
+"pron": "AA1 P AH0 Z AH0 T S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 6
+},
+{
+"id": "flakes",
+"word": "flakes",
+"pron": "F L EY1 K S",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "maturities",
+"word": "maturities",
+"pron": "M AH0 CH UH1 R IH0 T IY0 Z",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 10
+},
+{
+"id": "corrective",
+"word": "corrective",
+"pron": "K ER0 EH1 K T IH0 V",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 12
+},
+{
+"id": "isle",
+"word": "isle",
+"pron": "AY1 L",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 3
+},
+{
+"id": "rescheduled",
+"word": "rescheduled",
+"pron": "R IY0 S K EH1 JH UW0 L D",
+"tags": [
+"off-catalog"
+],
+"category": "word",
+"cost": 1,
+"pool": 4
+},
+{
+"id": "normative",
+"word": "normative",
+"pron": "N AO1 R M AH0 T IH0 V",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "collage",
+"word": "collage",
+"pron": "K AH0 L AA1 ZH",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "charlie",
+"word": "charlie",
+"pron": "CH AA1 R L IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "learners",
+"word": "learners",
+"pron": "L ER1 N ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "workplaces",
+"word": "workplaces",
+"pron": "W ER1 K P L EY2 S IH0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "liquors",
+"word": "liquors",
+"pron": "L IH1 K ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "germantown",
+"word": "germantown",
+"pron": "JH ER1 M AH0 N T AW2 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "abdominal",
+"word": "abdominal",
+"pron": "AE0 B D AA1 M AH0 N AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "lazier",
+"word": "lazier",
+"pron": "L EY1 Z IY0 ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "disapproving",
+"word": "disapproving",
+"pron": "D IH0 S AH0 P R UW1 V IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "generalities",
+"word": "generalities",
+"pron": "JH EH2 N ER0 AE1 L AH0 T IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "seems",
+"word": "seems",
+"pron": "S IY1 M Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "glamorous",
+"word": "glamorous",
+"pron": "G L AE1 M ER0 AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "whopping",
+"word": "whopping",
+"pron": "W AA1 P IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "ceramics",
+"word": "ceramics",
+"pron": "S ER0 AE1 M IH0 K S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "agreeable",
+"word": "agreeable",
+"pron": "AH0 G R IY1 AH0 B AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "lightbulb",
+"word": "lightbulb",
+"pron": "L AY1 T B AH2 L B",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "barbecued",
+"word": "barbecued",
+"pron": "B AA1 R B IH0 K Y UW2 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "ashley",
+"word": "ashley",
+"pron": "AE1 SH L IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "crockett",
+"word": "crockett",
+"pron": "K R AA1 K IH0 T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "buttock",
+"word": "buttock",
+"pron": "B AH1 T AH0 K",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "evanescence",
+"word": "evanescence",
+"pron": "EH2 V AH0 N EH1 S AH0 N S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "equities",
+"word": "equities",
+"pron": "EH1 K W AH0 T IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "backfired",
+"word": "backfired",
+"pron": "B AE1 K F AY2 ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "spatter",
+"word": "spatter",
+"pron": "S P AE1 T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "cleverness",
+"word": "cleverness",
+"pron": "K L EH1 V ER0 N AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "havelock",
+"word": "havelock",
+"pron": "HH AE1 V L AA2 K",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "apiece",
+"word": "apiece",
+"pron": "AH0 P IY1 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "containers",
+"word": "containers",
+"pron": "K AH0 N T EY1 N ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "cratered",
+"word": "cratered",
+"pron": "K R EY1 T ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "reentering",
+"word": "reentering",
+"pron": "R IY0 IH1 N T ER0 IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "gooders",
+"word": "gooders",
+"pron": "G UH1 D ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "ebullient",
+"word": "ebullient",
+"pron": "IH0 B AH1 L Y AH0 N T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "encirclement",
+"word": "encirclement",
+"pron": "EH0 N S ER1 K AH0 L M AH0 N T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "believed",
+"word": "believed",
+"pron": "B IH0 L IY1 V D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "stuffer",
+"word": "stuffer",
+"pron": "S T AH1 F ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "traveler",
+"word": "traveler",
+"pron": "T R AE1 V AH0 L ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "acceleration",
+"word": "acceleration",
+"pron": "AE2 K S EH2 L ER0 EY1 SH AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "goulash",
+"word": "goulash",
+"pron": "G UW1 L AA2 SH",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "hydrothermal",
+"word": "hydrothermal",
+"pron": "HH AY2 D R OW0 TH ER1 M AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "hubble",
+"word": "hubble",
+"pron": "HH AH1 B AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "impermissible",
+"word": "impermissible",
+"pron": "IH2 M P ER0 M IH1 S IH0 B AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "slavery",
+"word": "slavery",
+"pron": "S L EY1 V ER0 IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "propping",
+"word": "propping",
+"pron": "P R AA1 P IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "sicker",
+"word": "sicker",
+"pron": "S IH1 K ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "processor",
+"word": "processor",
+"pron": "P R AA1 S EH2 S ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "crosswords",
+"word": "crosswords",
+"pron": "K R AO1 S W ER2 D Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "paternalism",
+"word": "paternalism",
+"pron": "P AH0 T ER1 N AH0 L IH2 Z AH0 M",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "cancerous",
+"word": "cancerous",
+"pron": "K AE1 N S ER0 AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "happily",
+"word": "happily",
+"pron": "HH AE1 P AH0 L IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "aimless",
+"word": "aimless",
+"pron": "EY1 M L AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "characterizing",
+"word": "characterizing",
+"pron": "K EH1 R IH0 K T ER0 AY2 Z IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "conjuring",
+"word": "conjuring",
+"pron": "K AA1 N JH ER0 IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "fetter",
+"word": "fetter",
+"pron": "F EH1 T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "rewritten",
+"word": "rewritten",
+"pron": "R IY0 R IH1 T AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "divulging",
+"word": "divulging",
+"pron": "D IH0 V AH1 L JH IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "skilled",
+"word": "skilled",
+"pron": "S K IH1 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "signage",
+"word": "signage",
+"pron": "S AY1 N IH0 JH",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "interpreting",
+"word": "interpreting",
+"pron": "IH1 N T ER0 P R EH2 T IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "mothballed",
+"word": "mothballed",
+"pron": "M AO1 TH B AO2 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "ulcer",
+"word": "ulcer",
+"pron": "AH1 L S ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "impressions",
+"word": "impressions",
+"pron": "IH0 M P R EH1 SH AH0 N Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "acquiesced",
+"word": "acquiesced",
+"pron": "AE2 K W IY0 EH1 S T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 10
+},
+{
+"id": "talkies",
+"word": "talkies",
+"pron": "T AO1 K IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 11
+},
+{
+"id": "dramatize",
+"word": "dramatize",
+"pron": "D R AA1 M AH0 T AY2 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "cougar",
+"word": "cougar",
+"pron": "K UW1 G ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "horrocks",
+"word": "horrocks",
+"pron": "HH AO1 R AH0 K S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "steubenville",
+"word": "steubenville",
+"pron": "S T UW1 B AH0 N V IH2 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "sufferings",
+"word": "sufferings",
+"pron": "S AH1 F ER0 IH0 NG Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "pestering",
+"word": "pestering",
+"pron": "P EH1 S T ER0 IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "fitted",
+"word": "fitted",
+"pron": "F IH1 T AH0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "parental",
+"word": "parental",
+"pron": "P ER0 EH1 N T AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "innings",
+"word": "innings",
+"pron": "IH1 N IH0 NG Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "toughened",
+"word": "toughened",
+"pron": "T AH1 F AH0 N D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "issue",
+"word": "issue",
+"pron": "IH1 SH UW0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "sutherland",
+"word": "sutherland",
+"pron": "S AH1 DH ER0 L AH0 N D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "intolerance",
+"word": "intolerance",
+"pron": "IH0 N T AA1 L ER0 AH0 N S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "getters",
+"word": "getters",
+"pron": "G EH1 T ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "skimmer",
+"word": "skimmer",
+"pron": "S K IH1 M ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "colonizers",
+"word": "colonizers",
+"pron": "K AA1 L AH0 N AY2 Z ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "entertain",
+"word": "entertain",
+"pron": "EH2 N T ER0 T EY1 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "spitzer",
+"word": "spitzer",
+"pron": "S P IH1 T Z ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "unabridged",
+"word": "unabridged",
+"pron": "AH2 N AH0 B R IH1 JH D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "hokkaido",
+"word": "hokkaido",
+"pron": "HH OW0 K AY1 D OW0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "sorcerer",
+"word": "sorcerer",
+"pron": "S AO1 R S ER0 ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 10
+},
+{
+"id": "depression",
+"word": "depression",
+"pron": "D IH0 P R EH1 SH AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "hulled",
+"word": "hulled",
+"pron": "HH AH1 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "subsurface",
+"word": "subsurface",
+"pron": "S AH1 B S ER2 F AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "schmuck",
+"word": "schmuck",
+"pron": "SH M AH1 K",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "dougie",
+"word": "dougie",
+"pron": "D UW1 G IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "bollard",
+"word": "bollard",
+"pron": "B AA1 L ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "marksman",
+"word": "marksman",
+"pron": "M AA1 R K S M AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "sweetening",
+"word": "sweetening",
+"pron": "S W IY1 T AH0 N IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "authorizing",
+"word": "authorizing",
+"pron": "AO1 TH ER0 AY2 Z IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "morrisville",
+"word": "morrisville",
+"pron": "M AO1 R AH0 S V IH2 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "fighting",
+"word": "fighting",
+"pron": "F AY1 T IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "impressionable",
+"word": "impressionable",
+"pron": "IH0 M P R EH1 SH AH0 N AH0 B AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "bugger",
+"word": "bugger",
+"pron": "B AH1 G ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "controlling",
+"word": "controlling",
+"pron": "K AH0 N T R OW1 L IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "sufficiency",
+"word": "sufficiency",
+"pron": "S AH0 F IH1 SH AH0 N S IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "consciousness",
+"word": "consciousness",
+"pron": "K AA1 N SH AH0 S N AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "marveled",
+"word": "marveled",
+"pron": "M AA1 R V AH0 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "insulator",
+"word": "insulator",
+"pron": "IH1 N S AH0 L EY2 T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "mimicking",
+"word": "mimicking",
+"pron": "M IH1 M IH0 K IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "sweeting",
+"word": "sweeting",
+"pron": "S W IY1 T IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "interlock",
+"word": "interlock",
+"pron": "IH2 N T ER0 L AA1 K",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "capsules",
+"word": "capsules",
+"pron": "K AE1 P S AH0 L Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "mcfall",
+"word": "mcfall",
+"pron": "M AH0 K F AO1 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "grinning",
+"word": "grinning",
+"pron": "G R IH1 N IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "young",
+"word": "young",
+"pron": "Y AH1 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "tighter",
+"word": "tighter",
+"pron": "T AY1 T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "dialogues",
+"word": "dialogues",
+"pron": "D AY1 AH0 L AO2 G Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "stubbornly",
+"word": "stubbornly",
+"pron": "S T AH1 B ER0 N L IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "meuse",
+"word": "meuse",
+"pron": "M Y UW1 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "dribbled",
+"word": "dribbled",
+"pron": "D R IH1 B AH0 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "zealots",
+"word": "zealots",
+"pron": "Z EH1 L AH0 T S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "ellery",
+"word": "ellery",
+"pron": "EH1 L ER0 IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "packer",
+"word": "packer",
+"pron": "P AE1 K ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "flattered",
+"word": "flattered",
+"pron": "F L AE1 T ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "eateries",
+"word": "eateries",
+"pron": "IY1 T ER0 IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 10
+},
+{
+"id": "canvassing",
+"word": "canvassing",
+"pron": "K AE1 N V AH0 S IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "hamburgers",
+"word": "hamburgers",
+"pron": "HH AE1 M B ER0 G ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "outfitted",
+"word": "outfitted",
+"pron": "AW1 T F IH2 T IH0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "polysaccharides",
+"word": "polysaccharides",
+"pron": "P AA2 L IH0 S AE1 K ER0 AY2 D Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "retriever",
+"word": "retriever",
+"pron": "R IY0 T R IY1 V ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "woo",
+"word": "woo",
+"pron": "W UW1",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "alternator",
+"word": "alternator",
+"pron": "AO1 L T ER0 N EY2 T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "converted",
+"word": "converted",
+"pron": "K AH0 N V ER1 T IH0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "heartburn",
+"word": "heartburn",
+"pron": "HH AA1 R T B ER2 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "moorings",
+"word": "moorings",
+"pron": "M UW1 R IH0 NG Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "freelance",
+"word": "freelance",
+"pron": "F R IY1 L AE2 N S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "sniffer",
+"word": "sniffer",
+"pron": "S N IH1 F ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "cannibal",
+"word": "cannibal",
+"pron": "K AE1 N AH0 B AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "thrillers",
+"word": "thrillers",
+"pron": "TH R IH1 L ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "blistering",
+"word": "blistering",
+"pron": "B L IH1 S T ER0 IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "ragweed",
+"word": "ragweed",
+"pron": "R AE1 G W IY2 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "surgery",
+"word": "surgery",
+"pron": "S ER1 JH ER0 IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "accelerant",
+"word": "accelerant",
+"pron": "AE0 K S EH1 L ER0 AH0 N T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "willingness",
+"word": "willingness",
+"pron": "W IH1 L IH0 NG N AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 11
+},
+{
+"id": "ranger",
+"word": "ranger",
+"pron": "R EY1 N JH ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "daimler",
+"word": "daimler",
+"pron": "D EY1 M L ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "bolstered",
+"word": "bolstered",
+"pron": "B OW1 L S T ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "straightaway",
+"word": "straightaway",
+"pron": "S T R EY1 T AH0 W EY2",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "bearish",
+"word": "bearish",
+"pron": "B EH1 R IH0 SH",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "ponies",
+"word": "ponies",
+"pron": "P OW1 N IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "meandered",
+"word": "meandered",
+"pron": "M IY0 AE1 N D ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "severn",
+"word": "severn",
+"pron": "S EH1 V ER0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "empowerment",
+"word": "empowerment",
+"pron": "IH0 M P AW1 ER0 M AH0 N T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "commissary",
+"word": "commissary",
+"pron": "K AA1 M AH0 S EH2 R IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "vassals",
+"word": "vassals",
+"pron": "V AE1 S AH0 L Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "muffin",
+"word": "muffin",
+"pron": "M AH1 F AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "backfiring",
+"word": "backfiring",
+"pron": "B AE1 K F AY2 ER0 IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "knighton",
+"word": "knighton",
+"pron": "N AY1 T AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "stinger",
+"word": "stinger",
+"pron": "S T IH1 NG ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "scanners",
+"word": "scanners",
+"pron": "S K AE1 N ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "universality",
+"word": "universality",
+"pron": "Y UW2 N AH0 V ER0 S AE1 L AH0 T IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "trusses",
+"word": "trusses",
+"pron": "T R AH1 S IH0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "fertilization",
+"word": "fertilization",
+"pron": "F ER2 T AH0 L IH0 Z EY1 SH AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "pleasant",
+"word": "pleasant",
+"pron": "P L EH1 Z AH0 N T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "enamored",
+"word": "enamored",
+"pron": "EH0 N AE1 M ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "guessing",
+"word": "guessing",
+"pron": "G EH1 S IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 11
+},
+{
+"id": "whiskers",
+"word": "whiskers",
+"pron": "W IH1 S K ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "seabrook",
+"word": "seabrook",
+"pron": "S IY1 B R UH2 K",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "workstation",
+"word": "workstation",
+"pron": "W ER1 K S T EY2 SH AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "apparition",
+"word": "apparition",
+"pron": "AE2 P ER0 IH1 SH AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "fleece",
+"word": "fleece",
+"pron": "F L IY1 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "mellowed",
+"word": "mellowed",
+"pron": "M EH1 L OW0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "unbelieving",
+"word": "unbelieving",
+"pron": "AH2 N B AH0 L IY1 V IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "roebuck",
+"word": "roebuck",
+"pron": "R OW1 B AH2 K",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "deeper",
+"word": "deeper",
+"pron": "D IY1 P ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "remedied",
+"word": "remedied",
+"pron": "R EH1 M AH0 D IY0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 10
+},
+{
+"id": "headmistress",
+"word": "headmistress",
+"pron": "HH EH1 D M IH2 S T R AH0 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "confessing",
+"word": "confessing",
+"pron": "K AH0 N F EH1 S IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "researching",
+"word": "researching",
+"pron": "R IY0 S ER1 CH IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "deceived",
+"word": "deceived",
+"pron": "D IH0 S IY1 V D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 10
+},
+{
+"id": "pieced",
+"word": "pieced",
+"pron": "P IY1 S T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "heavier",
+"word": "heavier",
+"pron": "HH EH1 V IY0 ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "localize",
+"word": "localize",
+"pron": "L OW1 K AH0 L AY2 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "particulars",
+"word": "particulars",
+"pron": "P ER0 T IH1 K Y AH0 L ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "danger",
+"word": "danger",
+"pron": "D EY1 N JH ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "heywood",
+"word": "heywood",
+"pron": "HH EY1 W UH2 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "betrayal",
+"word": "betrayal",
+"pron": "B IH0 T R EY1 AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "daisies",
+"word": "daisies",
+"pron": "D EY1 Z IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "reworked",
+"word": "reworked",
+"pron": "R IY0 W ER1 K T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "hugged",
+"word": "hugged",
+"pron": "HH AH1 G D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "falsehoods",
+"word": "falsehoods",
+"pron": "F AE1 L S HH UH2 D Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "mulled",
+"word": "mulled",
+"pron": "M AH1 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "marshfield",
+"word": "marshfield",
+"pron": "M AA1 R SH F IY2 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "wrapping",
+"word": "wrapping",
+"pron": "R AE1 P IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "jammer",
+"word": "jammer",
+"pron": "JH AE1 M ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "kennel",
+"word": "kennel",
+"pron": "K EH1 N AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "guilders",
+"word": "guilders",
+"pron": "G IH1 L D ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "commitments",
+"word": "commitments",
+"pron": "K AH0 M IH1 T M AH0 N T S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "counseled",
+"word": "counseled",
+"pron": "K AW1 N S AH0 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "uncluttered",
+"word": "uncluttered",
+"pron": "AH0 N K L AH1 T ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "terrors",
+"word": "terrors",
+"pron": "T EH1 R ER0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "repartee",
+"word": "repartee",
+"pron": "R EH2 P ER0 T IY1",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "accurate",
+"word": "accurate",
+"pron": "AE1 K Y ER0 AH0 T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "aladdin",
+"word": "aladdin",
+"pron": "AH0 L AE1 D IH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "commonalities",
+"word": "commonalities",
+"pron": "K AA2 M AH0 N AE1 L AH0 T IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "kaleidoscope",
+"word": "kaleidoscope",
+"pron": "K AH0 L AY1 D AH0 S K OW2 P",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "indignities",
+"word": "indignities",
+"pron": "IH0 N D IH1 G N AH0 T IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "enchanter",
+"word": "enchanter",
+"pron": "EH0 N CH AE1 N T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "flogging",
+"word": "flogging",
+"pron": "F L AA1 G IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "breadfruit",
+"word": "breadfruit",
+"pron": "B R EH1 D F R UW2 T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "algiers",
+"word": "algiers",
+"pron": "AE0 L JH IH1 R Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "arrowheads",
+"word": "arrowheads",
+"pron": "AE1 R OW0 HH EH2 D Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 11
+},
+{
+"id": "headphones",
+"word": "headphones",
+"pron": "HH EH1 D F OW2 N Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "polarized",
+"word": "polarized",
+"pron": "P OW1 L ER0 AY2 Z D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "bergman",
+"word": "bergman",
+"pron": "B ER1 G M AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "overproduction",
+"word": "overproduction",
+"pron": "OW1 V ER0 P R AH0 D AH1 K SH AH0 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "tottering",
+"word": "tottering",
+"pron": "T AA1 T ER0 IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "familiarized",
+"word": "familiarized",
+"pron": "F AH0 M IH1 L Y ER0 AY2 Z D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "nongovernmental",
+"word": "nongovernmental",
+"pron": "N AA0 N G AH2 V ER0 N M EH1 N T AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "partridge",
+"word": "partridge",
+"pron": "P AA1 R T R AH0 JH",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "similarly",
+"word": "similarly",
+"pron": "S IH1 M AH0 L ER0 L IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "wool",
+"word": "wool",
+"pron": "W UH1 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "initially",
+"word": "initially",
+"pron": "IH0 N IH1 SH AH0 L IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "ballots",
+"word": "ballots",
+"pron": "B AE1 L AH0 T S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "gullies",
+"word": "gullies",
+"pron": "G AH1 L IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 12
+},
+{
+"id": "scrooge",
+"word": "scrooge",
+"pron": "S K R UW1 JH",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "moulder",
+"word": "moulder",
+"pron": "M OW1 L D ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "suey",
+"word": "suey",
+"pron": "S UW1 IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "underfunding",
+"word": "underfunding",
+"pron": "AH1 N D ER0 F AH2 N D IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "litchfield",
+"word": "litchfield",
+"pron": "L IH1 CH F IY0 L D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "slugged",
+"word": "slugged",
+"pron": "S L AH1 G D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "irregularities",
+"word": "irregularities",
+"pron": "IH0 R EH0 G Y AH0 L EH1 R AH0 T IY0 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "buckminster",
+"word": "buckminster",
+"pron": "B AH1 K M IH2 N S T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "billow",
+"word": "billow",
+"pron": "B IH1 L OW0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "treasury",
+"word": "treasury",
+"pron": "T R EH1 ZH ER0 IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "blackboard",
+"word": "blackboard",
+"pron": "B L AE1 K B AO2 R D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "deepening",
+"word": "deepening",
+"pron": "D IY1 P AH0 N IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "cutter",
+"word": "cutter",
+"pron": "K AH1 T ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "books",
+"word": "books",
+"pron": "B UH1 K S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "obverse",
+"word": "obverse",
+"pron": "AH0 B V ER1 S",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "burnside",
+"word": "burnside",
+"pron": "B ER1 N S AY2 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "rangoon",
+"word": "rangoon",
+"pron": "R AE0 NG G UW1 N",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "gifford",
+"word": "gifford",
+"pron": "G IH1 F ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "holler",
+"word": "holler",
+"pron": "HH AA1 L ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "personalize",
+"word": "personalize",
+"pron": "P ER1 S AH0 N AH0 L AY2 Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 12
+},
+{
+"id": "acknowledging",
+"word": "acknowledging",
+"pron": "AE0 K N AA1 L IH0 JH IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 14
+},
+{
+"id": "cervical",
+"word": "cervical",
+"pron": "S ER1 V AH0 K AH0 L",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "envisioning",
+"word": "envisioning",
+"pron": "EH0 N V IH1 ZH AH0 N IH0 NG",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "loveday",
+"word": "loveday",
+"pron": "L AH1 V D EY2",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "speedboat",
+"word": "speedboat",
+"pron": "S P IY1 D B OW2 T",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "ceilings",
+"word": "ceilings",
+"pron": "S IY1 L IH0 NG Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "marines",
+"word": "marines",
+"pron": "M ER0 IY1 N Z",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "measure",
+"word": "measure",
+"pron": "M EH1 ZH ER0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "margie",
+"word": "margie",
+"pron": "M AA1 R JH IY0",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "woodford",
+"word": "woodford",
+"pron": "W UH1 D F ER0 D",
+"tags": [
+"ambiguous"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "catwalk",
+"word": "catwalk",
+"pron": "K AE1 T W AA2 K",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "foie",
+"word": "foie",
+"pron": "F OY1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "tourism",
+"word": "tourism",
+"pron": "T UH1 R IH2 Z AH0 M",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "bonsai",
+"word": "bonsai",
+"pron": "B AA0 N S AY1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "nikki",
+"word": "nikki",
+"pron": "N IH1 K IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "booed",
+"word": "booed",
+"pron": "B UW1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "czechoslovakia",
+"word": "czechoslovakia",
+"pron": "CH EH2 K AH0 S L OW0 V AA1 K IY0 AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "intermediary",
+"word": "intermediary",
+"pron": "IH2 N T ER0 M IY1 D IY0 EH0 R IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "braunschweig",
+"word": "braunschweig",
+"pron": "B R AW1 N SH W AY0 G",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "bordeaux",
+"word": "bordeaux",
+"pron": "B AO0 R D OW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "xian",
+"word": "xian",
+"pron": "Z Y AA1 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "mcmullin",
+"word": "mcmullin",
+"pron": "M AH0 K M AH1 L AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "mcveigh",
+"word": "mcveigh",
+"pron": "M AH0 K V EY1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "ploughed",
+"word": "ploughed",
+"pron": "P L AW1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "buscemi",
+"word": "buscemi",
+"pron": "B UW0 S CH EH1 M IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "xinhua",
+"word": "xinhua",
+"pron": "Z IH1 N HH Y UW0 AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "tattooed",
+"word": "tattooed",
+"pron": "T AE0 T UW1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "encyclopaedia",
+"word": "encyclopaedia",
+"pron": "IH0 N S AY2 K L AH0 P IY1 D IY0 AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "chalk",
+"word": "chalk",
+"pron": "CH AA1 K",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "xenophon",
+"word": "xenophon",
+"pron": "Z EH1 N AH0 F AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "vaal",
+"word": "vaal",
+"pron": "V AA1 L",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "juniata",
+"word": "juniata",
+"pron": "Y UW0 N IY0 AA1 T AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "malcolm",
+"word": "malcolm",
+"pron": "M AE1 L K AH0 M",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "lao",
+"word": "lao",
+"pron": "L AW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "joachim",
+"word": "joachim",
+"pron": "Y OW2 AA1 K IH0 M",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "xiamen",
+"word": "xiamen",
+"pron": "Z IY0 EY1 M AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "subtle",
+"word": "subtle",
+"pron": "S AH1 T AH0 L",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "treblinka",
+"word": "treblinka",
+"pron": "T R EH0 B L IH1 NG K ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "collared",
+"word": "collared",
+"pron": "K AA1 L ER0 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "curragh",
+"word": "curragh",
+"pron": "K AH1 R AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "bingham",
+"word": "bingham",
+"pron": "B IH1 NG AH0 M",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "syringes",
+"word": "syringes",
+"pron": "S ER0 IH1 N JH AH0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "feign",
+"word": "feign",
+"pron": "F EY1 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "brescia",
+"word": "brescia",
+"pron": "B R EH1 S CH AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "mcdonough",
+"word": "mcdonough",
+"pron": "M AH0 K D AH1 N AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "tourist",
+"word": "tourist",
+"pron": "T UH1 R AH0 S T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "bazaars",
+"word": "bazaars",
+"pron": "B AH0 Z AA1 R Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "kojima",
+"word": "kojima",
+"pron": "K AH0 Y AY1 M AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "aja",
+"word": "aja",
+"pron": "AY1 AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "xylophone",
+"word": "xylophone",
+"pron": "Z AY1 L AH0 F OW2 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "palm",
+"word": "palm",
+"pron": "P AA1 M",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "dingus",
+"word": "dingus",
+"pron": "D IH1 NG G IH0 S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "folklore",
+"word": "folklore",
+"pron": "F OW1 K L AO2 R",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "euler",
+"word": "euler",
+"pron": "OY1 L ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "emmaus",
+"word": "emmaus",
+"pron": "EH1 M AW0 S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "tableaux",
+"word": "tableaux",
+"pron": "T AH0 B L OW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "fridays",
+"word": "fridays",
+"pron": "F R AY1 D IY0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "kaolin",
+"word": "kaolin",
+"pron": "K AW1 L IH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "sewed",
+"word": "sewed",
+"pron": "S OW1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "outweighed",
+"word": "outweighed",
+"pron": "AW0 T W EY1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "maastricht",
+"word": "maastricht",
+"pron": "M AA1 S T R IH2 K T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "findlay",
+"word": "findlay",
+"pron": "F IH1 N D L IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "plaid",
+"word": "plaid",
+"pron": "P L AE1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "haugen",
+"word": "haugen",
+"pron": "HH AW1 G AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "connecticut",
+"word": "connecticut",
+"pron": "K AH0 N EH1 T AH0 K AH0 T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "cima",
+"word": "cima",
+"pron": "CH IY1 M AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "maori",
+"word": "maori",
+"pron": "M AW1 R IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "mcneil",
+"word": "mcneil",
+"pron": "M AH0 K N IY1 L",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "oscillations",
+"word": "oscillations",
+"pron": "AA2 S AH0 L EY1 SH AH0 N Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "personal",
+"word": "personal",
+"pron": "P ER1 S IH0 N IH0 L",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "shephard",
+"word": "shephard",
+"pron": "SH EH1 F ER0 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "prayer",
+"word": "prayer",
+"pron": "P R EH1 R",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "muskegon",
+"word": "muskegon",
+"pron": "M AH0 S K IY1 G IH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "softener",
+"word": "softener",
+"pron": "S AO1 F AH0 N ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "caffeinated",
+"word": "caffeinated",
+"pron": "K AE1 F IH0 N EY2 T AH0 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "syringe",
+"word": "syringe",
+"pron": "S ER0 IH1 N JH",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "ramsay",
+"word": "ramsay",
+"pron": "R AE1 M Z IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "oftentimes",
+"word": "oftentimes",
+"pron": "AO1 F AH0 N T AY2 M Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "maoists",
+"word": "maoists",
+"pron": "M AW1 IH0 S T S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "gneiss",
+"word": "gneiss",
+"pron": "N AY1 S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "augustin",
+"word": "augustin",
+"pron": "AW0 G UW0 S T IY1 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "friday",
+"word": "friday",
+"pron": "F R AY1 D IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "tao",
+"word": "tao",
+"pron": "T AW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "mcnuggets",
+"word": "mcnuggets",
+"pron": "M AH0 K N AH1 G AH0 T S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "spacewalk",
+"word": "spacewalk",
+"pron": "S P EY1 S W AA2 K",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "schaumburg",
+"word": "schaumburg",
+"pron": "SH AW1 M B ER0 G",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "xerox",
+"word": "xerox",
+"pron": "Z IH1 R AA0 K S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "caulking",
+"word": "caulking",
+"pron": "K AO1 K IH0 NG",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "anxieties",
+"word": "anxieties",
+"pron": "AE0 NG Z AY1 AH0 T IY0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "mckinnon",
+"word": "mckinnon",
+"pron": "M AH0 K IH1 N AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "yours",
+"word": "yours",
+"pron": "Y UH1 R Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "porteous",
+"word": "porteous",
+"pron": "P AO1 R T IY0 IH0 S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "townsfolk",
+"word": "townsfolk",
+"pron": "T AW1 N Z F OW2 K",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "gnu",
+"word": "gnu",
+"pron": "N UW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "czechs",
+"word": "czechs",
+"pron": "CH EH1 K S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "aitchison",
+"word": "aitchison",
+"pron": "EY1 CH IH0 S AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "palme",
+"word": "palme",
+"pron": "P AA1 M",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "chao",
+"word": "chao",
+"pron": "CH AW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "chalmers",
+"word": "chalmers",
+"pron": "CH AA1 M ER0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "myrtle",
+"word": "myrtle",
+"pron": "M ER1 T AH0 L",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "busier",
+"word": "busier",
+"pron": "B IH1 Z IY0 ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "crosswalk",
+"word": "crosswalk",
+"pron": "K R AA1 S W AA2 K",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "byrnes",
+"word": "byrnes",
+"pron": "B ER1 N Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "chateaux",
+"word": "chateaux",
+"pron": "SH AH0 T OW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "thao",
+"word": "thao",
+"pron": "DH AW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "bazaar",
+"word": "bazaar",
+"pron": "B AH0 Z AA1 R",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "nicolaus",
+"word": "nicolaus",
+"pron": "N IH1 K AH0 L AW0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "freud",
+"word": "freud",
+"pron": "F R OY1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "luau",
+"word": "luau",
+"pron": "L UW1 AW2",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "herzegovina",
+"word": "herzegovina",
+"pron": "HH EH2 R T S AH0 G OW0 V IY1 N AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "yolk",
+"word": "yolk",
+"pron": "Y OW1 K",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "taos",
+"word": "taos",
+"pron": "T AW1 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "transvaal",
+"word": "transvaal",
+"pron": "T R AE0 N Z V AA1 L",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "paiute",
+"word": "paiute",
+"pron": "P AY1 Y UW0 T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "equation",
+"word": "equation",
+"pron": "IH0 K W EY1 ZH AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "subconscious",
+"word": "subconscious",
+"pron": "S AH0 B K AA1 N SH AH0 S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "missouri",
+"word": "missouri",
+"pron": "M AH0 Z UH1 R IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "naas",
+"word": "naas",
+"pron": "N AA1 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "cao",
+"word": "cao",
+"pron": "K AW1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "pseudomonas",
+"word": "pseudomonas",
+"pron": "S UW2 D AH0 M OW1 N AH0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "ancient",
+"word": "ancient",
+"pron": "EY1 N CH AH0 N T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "yolks",
+"word": "yolks",
+"pron": "Y OW1 K S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "pseudonym",
+"word": "pseudonym",
+"pron": "S UW1 D AH0 N IH2 M",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "pinocchio",
+"word": "pinocchio",
+"pron": "P IH0 N OW1 K IY0 OW0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "akkadian",
+"word": "akkadian",
+"pron": "AH0 K EY1 D IY0 AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "often",
+"word": "often",
+"pron": "AO1 F AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "palms",
+"word": "palms",
+"pron": "P AA1 M Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "yourselves",
+"word": "yourselves",
+"pron": "Y UH0 R S EH1 L V Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "palmdale",
+"word": "palmdale",
+"pron": "P AA1 M D EY2 L",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "lai",
+"word": "lai",
+"pron": "L AY1",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "oscillatory",
+"word": "oscillatory",
+"pron": "AA1 S AH0 L AH0 T AO2 R IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "obscenity",
+"word": "obscenity",
+"pron": "AH0 B S EH1 N IH0 T IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "impugn",
+"word": "impugn",
+"pron": "IH0 M P Y UW1 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "bauer",
+"word": "bauer",
+"pron": "B AW1 ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "aoi",
+"word": "aoi",
+"pron": "AW1 IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "oscillation",
+"word": "oscillation",
+"pron": "AA2 S AH0 L EY1 SH AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "zeitgeist",
+"word": "zeitgeist",
+"pron": "T S AY1 T G AY2 S T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "obscene",
+"word": "obscene",
+"pron": "AA0 B S IY1 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "kauai",
+"word": "kauai",
+"pron": "K AW1 AY2",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "mcnair",
+"word": "mcnair",
+"pron": "M AH0 K N EH1 R",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "suffolk",
+"word": "suffolk",
+"pron": "S AH1 F AH0 K",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "oscillators",
+"word": "oscillators",
+"pron": "AA1 S AH0 L EY2 T ER0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "oedipus",
+"word": "oedipus",
+"pron": "OW0 D IY1 P AH0 S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "personals",
+"word": "personals",
+"pron": "P ER1 S IH0 N IH0 L Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "gnat",
+"word": "gnat",
+"pron": "N AE1 T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "feigning",
+"word": "feigning",
+"pron": "F EY1 N IH0 NG",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "tauber",
+"word": "tauber",
+"pron": "T AW1 B ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "busily",
+"word": "busily",
+"pron": "B IH1 Z AH0 L IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "mcdavid",
+"word": "mcdavid",
+"pron": "M AH0 K D EY1 V AH0 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "punta",
+"word": "punta",
+"pron": "P UH1 N T ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "missus",
+"word": "missus",
+"pron": "M IH1 S IH0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "postscript",
+"word": "postscript",
+"pron": "P OW1 S K R IH2 P T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "xena",
+"word": "xena",
+"pron": "Z IY1 N AH0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "fokker",
+"word": "fokker",
+"pron": "F AA1 K ER0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "gauss",
+"word": "gauss",
+"pron": "G AW1 S",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "pheasant",
+"word": "pheasant",
+"pron": "F EH1 Z AH0 N T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "nephew",
+"word": "nephew",
+"pron": "N EH1 F Y UW0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "mcbain",
+"word": "mcbain",
+"pron": "M AH0 K B EY1 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "champagne",
+"word": "champagne",
+"pron": "SH AE0 M P EY1 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "weighed",
+"word": "weighed",
+"pron": "W EY1 D",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "monday",
+"word": "monday",
+"pron": "M AH1 N D IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "mcknight",
+"word": "mcknight",
+"pron": "M AH0 K N AY1 T",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 14
+},
+{
+"id": "mclaren",
+"word": "mclaren",
+"pron": "M AH0 K L EH1 R AH0 N",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "calming",
+"word": "calming",
+"pron": "K AA1 M IH0 NG",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "gibbons",
+"word": "gibbons",
+"pron": "G IH1 B IH0 N Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "bocce",
+"word": "bocce",
+"pron": "B OW1 CH IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "gooey",
+"word": "gooey",
+"pron": "G UW1 IY0",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "biosciences",
+"word": "biosciences",
+"pron": "B AY0 AO1 S IY0 EH2 N S IH0 Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "balms",
+"word": "balms",
+"pron": "B AA1 M Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "choirs",
+"word": "choirs",
+"pron": "K W AY1 R Z",
+"tags": [
+"unusual-flag"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "valentino",
+"word": "valentino",
+"pron": "V AE2 L AH0 N T IY1 N OW0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "improvise",
+"word": "improvise",
+"pron": "IH1 M P R AH0 V AY2 Z",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "bank",
+"word": "bank",
+"pron": "B AE1 NG K",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "cuba",
+"word": "cuba",
+"pron": "K Y UW1 B AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "cereal",
+"word": "cereal",
+"pron": "S IH1 R IY0 AH0 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "vodka",
+"word": "vodka",
+"pron": "V AA1 D K AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "jonathan",
+"word": "jonathan",
+"pron": "JH AA1 N AH0 TH AH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "roma",
+"word": "roma",
+"pron": "R OW1 M AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "lotto",
+"word": "lotto",
+"pron": "L AA1 T OW2",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "oden",
+"word": "oden",
+"pron": "OW1 D AH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "ken",
+"word": "ken",
+"pron": "K EH1 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "stabler",
+"word": "stabler",
+"pron": "S T EY1 B AH0 L ER0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "commodore",
+"word": "commodore",
+"pron": "K AA1 M AH0 D AO2 R",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "gow",
+"word": "gow",
+"pron": "G AW1",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "agassi",
+"word": "agassi",
+"pron": "AE1 G AH0 S IY0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "cham",
+"word": "cham",
+"pron": "CH AE1 M",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "deter",
+"word": "deter",
+"pron": "D IH0 T ER1",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "effigy",
+"word": "effigy",
+"pron": "EH1 F IH0 JH IY0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "scenario",
+"word": "scenario",
+"pron": "S IH0 N EH1 R IY0 OW0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "limousine",
+"word": "limousine",
+"pron": "L IH1 M AH0 Z IY2 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "khan",
+"word": "khan",
+"pron": "K AA1 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "train",
+"word": "train",
+"pron": "T R EY1 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "legume",
+"word": "legume",
+"pron": "L EH1 G Y UW2 M",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "italiana",
+"word": "italiana",
+"pron": "IH0 T AE2 L IY0 AE1 N AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "bone",
+"word": "bone",
+"pron": "B OW1 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "sari",
+"word": "sari",
+"pron": "S AA1 R IY0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "sorbonne",
+"word": "sorbonne",
+"pron": "S AO0 R B AA1 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "fascist",
+"word": "fascist",
+"pron": "F AE1 SH AH0 S T",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "donna",
+"word": "donna",
+"pron": "D AA1 N AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "laguna",
+"word": "laguna",
+"pron": "L AH0 G UW1 N AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "molle",
+"word": "molle",
+"pron": "M AA1 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "salvia",
+"word": "salvia",
+"pron": "S AE1 L V IY0 AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "barricade",
+"word": "barricade",
+"pron": "B AE1 R AH0 K EY2 D",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "belvedere",
+"word": "belvedere",
+"pron": "B EH2 L V AH0 D IH1 R",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "rail",
+"word": "rail",
+"pron": "R EY1 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "barr",
+"word": "barr",
+"pron": "B AA1 R",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "prospectus",
+"word": "prospectus",
+"pron": "P R AH0 S P EH1 K T AH0 S",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "contraband",
+"word": "contraband",
+"pron": "K AA1 N T R AH0 B AE2 N D",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "muslin",
+"word": "muslin",
+"pron": "M AH1 Z L AH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "fava",
+"word": "fava",
+"pron": "F AA1 V AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "gram",
+"word": "gram",
+"pron": "G R AE1 M",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "fragrance",
+"word": "fragrance",
+"pron": "F R EY1 G R AH0 N S",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "nostalgia",
+"word": "nostalgia",
+"pron": "N AO0 S T AE1 L JH AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "basel",
+"word": "basel",
+"pron": "B AA1 Z AH0 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "brash",
+"word": "brash",
+"pron": "B R AE1 SH",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "rococo",
+"word": "rococo",
+"pron": "R AH0 K OW1 K OW2",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "tyre",
+"word": "tyre",
+"pron": "T AY1 R",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "sobriquet",
+"word": "sobriquet",
+"pron": "S OW1 B R AH0 K EY2",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "mime",
+"word": "mime",
+"pron": "M AY1 M",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "frito",
+"word": "frito",
+"pron": "F R IY1 T OW0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "rata",
+"word": "rata",
+"pron": "R AE1 T AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "even",
+"word": "even",
+"pron": "IY1 V IH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "emblematic",
+"word": "emblematic",
+"pron": "EH2 M B L AH0 M AE1 T IH0 K",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "hoy",
+"word": "hoy",
+"pron": "HH OY1",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "thaler",
+"word": "thaler",
+"pron": "TH EY1 L ER0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "padilla",
+"word": "padilla",
+"pron": "P AH0 D IH1 L AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "gallantry",
+"word": "gallantry",
+"pron": "G AE1 L AH0 N T R IY0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "kassel",
+"word": "kassel",
+"pron": "K AE1 S AH0 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "pedantry",
+"word": "pedantry",
+"pron": "P EH1 D AH0 N T R IY0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "recollection",
+"word": "recollection",
+"pron": "R EH2 K AH0 L EH1 K SH AH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "torres",
+"word": "torres",
+"pron": "T AO1 R EH2 Z",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "plebiscite",
+"word": "plebiscite",
+"pron": "P L EH1 B AH0 S AY2 T",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "bastille",
+"word": "bastille",
+"pron": "B AE1 S T IH0 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "ante",
+"word": "ante",
+"pron": "AE1 N T IY0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "hurricane",
+"word": "hurricane",
+"pron": "HH ER1 AH0 K EY2 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "coterie",
+"word": "coterie",
+"pron": "K OW1 T ER0 IY0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "sabotage",
+"word": "sabotage",
+"pron": "S AE1 B AH0 T AA2 ZH",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "granada",
+"word": "granada",
+"pron": "G R AH0 N AA1 D AH0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "graben",
+"word": "graben",
+"pron": "G R AE1 B AH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "endocrine",
+"word": "endocrine",
+"pron": "EH1 N D OW0 K R AY2 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "sociedad",
+"word": "sociedad",
+"pron": "S OW2 S IY0 D AE1 D",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "ramage",
+"word": "ramage",
+"pron": "R AE1 M IH0 JH",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "mayoral",
+"word": "mayoral",
+"pron": "M EY1 ER0 AH0 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "franco",
+"word": "franco",
+"pron": "F R AE1 NG K OW0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "dome",
+"word": "dome",
+"pron": "D OW1 M",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "pierre",
+"word": "pierre",
+"pron": "P IY0 EH1 R",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "carillon",
+"word": "carillon",
+"pron": "K EH1 R AH0 L AA2 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "prato",
+"word": "prato",
+"pron": "P R AA1 T OW0",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "log",
+"word": "log",
+"pron": "L AO1 G",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "holding",
+"word": "holding",
+"pron": "HH OW1 L D IH0 NG",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "phenomenal",
+"word": "phenomenal",
+"pron": "F AH0 N AA1 M AH0 N AH0 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "tic",
+"word": "tic",
+"pron": "T IH1 K",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "jack",
+"word": "jack",
+"pron": "JH AE1 K",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "viet",
+"word": "viet",
+"pron": "V IY0 EH1 T",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "seguin",
+"word": "seguin",
+"pron": "S AH0 G IY1 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "gratitude",
+"word": "gratitude",
+"pron": "G R AE1 T AH0 T UW2 D",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "level",
+"word": "level",
+"pron": "L EH1 V AH0 L",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "caprice",
+"word": "caprice",
+"pron": "K AH0 P R IY1 S",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "ballon",
+"word": "ballon",
+"pron": "B AE1 L AH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "cooperation",
+"word": "cooperation",
+"pron": "K OW0 AA2 P ER0 EY1 SH AH0 N",
+"tags": [
+"loan"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "ripley",
+"word": "ripley",
+"pron": "R IH1 P L IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "quinto",
+"word": "quinto",
+"pron": "K W IH1 N T OW0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "bahamas",
+"word": "bahamas",
+"pron": "B AH0 HH AA1 M AH0 Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "griffith",
+"word": "griffith",
+"pron": "G R IH1 F AH0 TH",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "toni",
+"word": "toni",
+"pron": "T OW1 N IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "elston",
+"word": "elston",
+"pron": "IH0 L S T AA1 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "jacki",
+"word": "jacki",
+"pron": "JH AE1 K IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "langham",
+"word": "langham",
+"pron": "L AE1 NG HH AE0 M",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "metcalf",
+"word": "metcalf",
+"pron": "M EH1 T K AE2 F",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "howland",
+"word": "howland",
+"pron": "HH AW1 L AH0 N D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "ruthie",
+"word": "ruthie",
+"pron": "R UW1 TH IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "daryl",
+"word": "daryl",
+"pron": "D EH1 R AH0 L",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "scotland",
+"word": "scotland",
+"pron": "S K AA1 T L AH0 N D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "haines",
+"word": "haines",
+"pron": "HH EY1 N Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "jeri",
+"word": "jeri",
+"pron": "JH EH1 R IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "joplin",
+"word": "joplin",
+"pron": "JH AA1 P L IH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "souris",
+"word": "souris",
+"pron": "S UW1 R IH0 S",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "redman",
+"word": "redman",
+"pron": "R EH1 D M AE2 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "hardwick",
+"word": "hardwick",
+"pron": "HH AA1 R D W IH2 K",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "rankine",
+"word": "rankine",
+"pron": "R AE1 NG K AY2 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "nolan",
+"word": "nolan",
+"pron": "N OW1 L AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "tilney",
+"word": "tilney",
+"pron": "T IH1 L N IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "gregory",
+"word": "gregory",
+"pron": "G R EH1 G ER0 IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "delano",
+"word": "delano",
+"pron": "D IH0 L AA1 N OW0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "rathbone",
+"word": "rathbone",
+"pron": "R AE1 TH B OW2 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "robbie",
+"word": "robbie",
+"pron": "R AA1 B IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "payton",
+"word": "payton",
+"pron": "P EY1 T AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "bondi",
+"word": "bondi",
+"pron": "B AA1 N D IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "edith",
+"word": "edith",
+"pron": "IY1 D IH0 TH",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "blevins",
+"word": "blevins",
+"pron": "B L EH1 V IH0 N Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "lublin",
+"word": "lublin",
+"pron": "L AH1 B L IH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "nabokov",
+"word": "nabokov",
+"pron": "N AE1 B AH0 K AA2 V",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "hobson",
+"word": "hobson",
+"pron": "HH AA1 B S AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "liddy",
+"word": "liddy",
+"pron": "L IH1 D IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "dickson",
+"word": "dickson",
+"pron": "D IH1 K S AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "tajikistan",
+"word": "tajikistan",
+"pron": "T AA2 JH IY1 K IH0 S T AE2 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "maldives",
+"word": "maldives",
+"pron": "M AO1 L D AY2 V Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "epping",
+"word": "epping",
+"pron": "EH1 P IH0 NG",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "murdoch",
+"word": "murdoch",
+"pron": "M ER1 D AA0 K",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "kenya",
+"word": "kenya",
+"pron": "K EH1 N Y AH0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "lansdowne",
+"word": "lansdowne",
+"pron": "L AE1 N S D AW2 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "belknap",
+"word": "belknap",
+"pron": "B EH1 L N AE0 P",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "chaves",
+"word": "chaves",
+"pron": "CH EY1 V Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "beeson",
+"word": "beeson",
+"pron": "B IY1 Z AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "amsterdam",
+"word": "amsterdam",
+"pron": "AE1 M S T ER0 D AE2 M",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "hendricks",
+"word": "hendricks",
+"pron": "HH EH1 N D R IH0 K S",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "exton",
+"word": "exton",
+"pron": "EH1 K S T AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "spencer",
+"word": "spencer",
+"pron": "S P EH1 N S ER0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "sherwood",
+"word": "sherwood",
+"pron": "SH ER1 W UH2 D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "patterson",
+"word": "patterson",
+"pron": "P AE1 T ER0 S AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "alston",
+"word": "alston",
+"pron": "AO1 L S T AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "dru",
+"word": "dru",
+"pron": "D R UW1",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "chauncey",
+"word": "chauncey",
+"pron": "CH AO1 N S IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 8
+},
+{
+"id": "englewood",
+"word": "englewood",
+"pron": "EH1 NG G AH0 L W UH2 D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "wetmore",
+"word": "wetmore",
+"pron": "W EH1 T M AO0 R",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "costello",
+"word": "costello",
+"pron": "K AO2 S T EH1 L OW0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "hess",
+"word": "hess",
+"pron": "HH EH1 S",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "beckford",
+"word": "beckford",
+"pron": "B EH1 K F AO0 R D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "cayce",
+"word": "cayce",
+"pron": "K EY1 S",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "hensley",
+"word": "hensley",
+"pron": "HH EH1 N Z L IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "ingalls",
+"word": "ingalls",
+"pron": "IH0 NG G AO1 L Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "louise",
+"word": "louise",
+"pron": "L UW0 IY1 Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "tennant",
+"word": "tennant",
+"pron": "T EH1 N AH0 N T",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "slocum",
+"word": "slocum",
+"pron": "S L OW1 K AH0 M",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "dottie",
+"word": "dottie",
+"pron": "D AA1 T IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 7
+},
+{
+"id": "ilya",
+"word": "ilya",
+"pron": "IH1 L Y AH0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "leavitt",
+"word": "leavitt",
+"pron": "L EH1 V IH0 T",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "sado",
+"word": "sado",
+"pron": "S EY1 D OW0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "illingworth",
+"word": "illingworth",
+"pron": "IH1 L IH0 NG W ER2 TH",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 9
+},
+{
+"id": "griswold",
+"word": "griswold",
+"pron": "G R IH1 S W OW2 L D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "brunei",
+"word": "brunei",
+"pron": "B R UW0 N AY1",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "munson",
+"word": "munson",
+"pron": "M AH1 N S AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "redmond",
+"word": "redmond",
+"pron": "R EH1 D M AH0 N D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "rowe",
+"word": "rowe",
+"pron": "R OW1",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "avery",
+"word": "avery",
+"pron": "EY1 V ER0 IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "marland",
+"word": "marland",
+"pron": "M AA1 R L AH0 N D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "niles",
+"word": "niles",
+"pron": "N AY1 L Z",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "jerri",
+"word": "jerri",
+"pron": "JH EH1 R IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "seaford",
+"word": "seaford",
+"pron": "S IY1 F ER0 D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 5
+},
+{
+"id": "gillan",
+"word": "gillan",
+"pron": "G IH1 L AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "ballantine",
+"word": "ballantine",
+"pron": "B AE1 L AH0 N T AY2 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "camarillo",
+"word": "camarillo",
+"pron": "K AA0 M AA0 R IH1 L OW0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "mccreery",
+"word": "mccreery",
+"pron": "M AH0 K R IH1 R IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "farquharson",
+"word": "farquharson",
+"pron": "F AA0 R K AH1 HH AA0 R S AH0 N",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "winfield",
+"word": "winfield",
+"pron": "W IH1 N F IY2 L D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "canby",
+"word": "canby",
+"pron": "K AE1 N B IY0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "tennessee",
+"word": "tennessee",
+"pron": "T EH2 N AH0 S IY1",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 13
+},
+{
+"id": "goodenough",
+"word": "goodenough",
+"pron": "G UH1 D AH0 N AW2",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 6
+},
+{
+"id": "whitaker",
+"word": "whitaker",
+"pron": "W IH1 T AH0 K ER0",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 4
+},
+{
+"id": "pickard",
+"word": "pickard",
+"pron": "P IH0 K AA1 R D",
+"tags": [
+"name"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "expectation",
+"word": "expectation",
+"pron": "EH2 K S P EH0 K T EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "antioxidant",
+"word": "antioxidant",
+"pron": "AE2 N T IY0 AA1 K S AH0 D AH0 N T",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "conjunctions",
+"word": "conjunctions",
+"pron": "K AH0 N JH AH1 NG K SH AH0 N Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "gentlemanly",
+"word": "gentlemanly",
+"pron": "JH EH1 N T AH0 L M AH0 N L IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "stimulating",
+"word": "stimulating",
+"pron": "S T IH1 M Y AH0 L EY2 T IH0 NG",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "authenticate",
+"word": "authenticate",
+"pron": "AO0 TH EH1 N T AH0 K EY2 T",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "encapsulate",
+"word": "encapsulate",
+"pron": "EH0 N K AE1 P S AH0 L EY2 T",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "contortionist",
+"word": "contortionist",
+"pron": "K AH0 N T AO1 R SH AH0 N AH0 S T",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "extractions",
+"word": "extractions",
+"pron": "IH0 K S T R AE1 K SH AH0 N Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "inexplicable",
+"word": "inexplicable",
+"pron": "IH2 N AH0 K S P L IH1 S AH0 B AH0 L",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "reincarnated",
+"word": "reincarnated",
+"pron": "R IY2 IH0 N K AA1 R N EY2 T IH0 D",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "catholicism",
+"word": "catholicism",
+"pron": "K AH0 TH AO1 L AH0 S IH2 Z AH0 M",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "policymaking",
+"word": "policymaking",
+"pron": "P AA1 L AH0 S IY0 M EY2 K IH0 NG",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "unpredictability",
+"word": "unpredictability",
+"pron": "AH2 N P R AH0 D IH2 K T AH0 B IH1 L IH0 T IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "charismatic",
+"word": "charismatic",
+"pron": "K EH0 R IH0 Z M AE1 T IH0 K",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "compatriots",
+"word": "compatriots",
+"pron": "K AH0 M P EY1 T R IY0 AH0 T S",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "quantification",
+"word": "quantification",
+"pron": "K W AA2 N T IH0 F AH0 K EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "unexplainable",
+"word": "unexplainable",
+"pron": "AH2 N IH0 K S P L EY1 N AH0 B AH0 L",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "proposition",
+"word": "proposition",
+"pron": "P R AA2 P AH0 Z IH1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "determinations",
+"word": "determinations",
+"pron": "D IH0 T ER2 M IH0 N EY1 SH AH0 N Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "decontaminated",
+"word": "decontaminated",
+"pron": "D IY0 K AH0 N T AE1 M AH0 N EY2 T IH0 D",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "amputations",
+"word": "amputations",
+"pron": "AE2 M P Y UW0 T EY1 SH AH0 N Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "impossibility",
+"word": "impossibility",
+"pron": "IH0 M P AO2 S IH0 B IH1 L IH0 T IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "presentation",
+"word": "presentation",
+"pron": "P R EH2 Z AH0 N T EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "macroeconomic",
+"word": "macroeconomic",
+"pron": "M AE2 K R OW0 EH0 K AH0 N AA1 M IH0 K",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "cultivation",
+"word": "cultivation",
+"pron": "K AH2 L T IH0 V EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "inactivation",
+"word": "inactivation",
+"pron": "IH0 N AE2 K T IH0 V EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "cardiovascular",
+"word": "cardiovascular",
+"pron": "K AA2 R D IY0 OW0 V AE1 S K Y AH0 L ER0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "liquidating",
+"word": "liquidating",
+"pron": "L IH1 K W IH0 D EY2 T IH0 NG",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "photovoltaic",
+"word": "photovoltaic",
+"pron": "F OW2 T AH0 V OW2 L T EY1 IH0 K",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "deprecating",
+"word": "deprecating",
+"pron": "D EH1 P R AH0 K EY2 T IH0 NG",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "anachronisms",
+"word": "anachronisms",
+"pron": "AH0 N AE1 K R AH0 N IH2 Z AH0 M Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "arbitrariness",
+"word": "arbitrariness",
+"pron": "AA1 R B AH0 T R EH2 R IY0 N AH0 S",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "fundamentalism",
+"word": "fundamentalism",
+"pron": "F AH2 N D AH0 M EH1 N T AH0 L IH2 Z AH0 M",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "capacitance",
+"word": "capacitance",
+"pron": "K AH0 P AE1 S AH0 T AH0 N S",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "capitalists",
+"word": "capitalists",
+"pron": "K AE1 P AH0 T AH0 L AH0 S T S",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "misdirected",
+"word": "misdirected",
+"pron": "M IH0 S D IH0 R EH1 K T IH0 D",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "locomotives",
+"word": "locomotives",
+"pron": "L OW2 K AH0 M OW1 T IH0 V Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "compactness",
+"word": "compactness",
+"pron": "K AH0 M P AE1 K T N AH0 S",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "preconceptions",
+"word": "preconceptions",
+"pron": "P R IY0 K AH0 N S EH1 P SH AH0 N Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "infiltrators",
+"word": "infiltrators",
+"pron": "IH1 N F IH0 L T R EY2 T ER0 Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "inclination",
+"word": "inclination",
+"pron": "IH2 N K L AH0 N EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "transferred",
+"word": "transferred",
+"pron": "T R AE0 N S F ER1 D",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "fundamentalist",
+"word": "fundamentalist",
+"pron": "F AH2 N D AH0 M EH1 N T AH0 L IH0 S T",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "continental",
+"word": "continental",
+"pron": "K AA2 N T AH0 N EH1 N T AH0 L",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "monarchists",
+"word": "monarchists",
+"pron": "M AA1 N AA0 R K IH0 S T S",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 2
+},
+{
+"id": "rectangular",
+"word": "rectangular",
+"pron": "R EH0 K T AE1 NG G Y AH0 L ER0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "substitutions",
+"word": "substitutions",
+"pron": "S AH2 B S T IH0 T Y UW1 SH AH0 N Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "radiography",
+"word": "radiography",
+"pron": "R EY2 D IY0 AA1 G R AH0 F IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "marketability",
+"word": "marketability",
+"pron": "M AA2 R K IH0 T AH0 B IH1 L IH0 T IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "antagonized",
+"word": "antagonized",
+"pron": "AE0 N T AE1 G AH0 N AY2 Z D",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "microbiology",
+"word": "microbiology",
+"pron": "M AY2 K R OW0 B AY2 AA1 L AH0 JH IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "disqualification",
+"word": "disqualification",
+"pron": "D IH0 S K W AA2 L AH0 F AH0 K EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "insensitivity",
+"word": "insensitivity",
+"pron": "IH0 N S EH2 N S AH0 T IH1 V AH0 T IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "intuitively",
+"word": "intuitively",
+"pron": "IH0 N T UW1 IH0 T IH0 V L IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "repetitions",
+"word": "repetitions",
+"pron": "R EH2 P AH0 T IH1 SH AH0 N Z",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "impenetrable",
+"word": "impenetrable",
+"pron": "IH0 M P EH1 N AH0 T R AH0 B AH0 L",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "tournaments",
+"word": "tournaments",
+"pron": "T ER1 N AH0 M AH0 N T S",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "prospectively",
+"word": "prospectively",
+"pron": "P R AH0 S P EH1 K T IH0 V L IY0",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 3
+},
+{
+"id": "insinuation",
+"word": "insinuation",
+"pron": "IH0 N S IH2 N Y UW0 EY1 SH AH0 N",
+"tags": [
+"long"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "tac",
+"word": "tac",
+"pron": "T AE1 K",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+},
+{
+"id": "aol",
+"word": "aol",
+"pron": "EY1 OW1 EH1 L",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 2,
+"pool": 3
+},
+{
+"id": "pgm",
+"word": "pgm",
+"pron": "P IY1 JH IY1 EH1 M",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 1
+},
+{
+"id": "stds",
+"word": "stds",
+"pron": "EH1 S T IY1 D IY1 Z",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 4
+},
+{
+"id": "npr",
+"word": "npr",
+"pron": "EH1 N P IY1 AA1 R",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 1
+},
+{
+"id": "mme",
+"word": "mme",
+"pron": "M AH0 D AE1 M",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 3,
+"pool": 3
+},
+{
+"id": "cds",
+"word": "cds",
+"pron": "S IY1 D IY1 Z",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 2,
+"pool": 2
+},
+{
+"id": "lsd",
+"word": "lsd",
+"pron": "EH2 L EH2 S D IY1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 1
+},
+{
+"id": "apc",
+"word": "apc",
+"pron": "EY1 P IY1 S IY1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 2,
+"pool": 2
+},
+{
+"id": "emdr",
+"word": "emdr",
+"pron": "IY1 EH1 M D IY1 AA1 R",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 4
+},
+{
+"id": "ddt",
+"word": "ddt",
+"pron": "D IY2 D IY2 T IY1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 1
+},
+{
+"id": "atp",
+"word": "atp",
+"pron": "EY1 T IY1 P IY1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 4,
+"pool": 3
+},
+{
+"id": "hgh",
+"word": "hgh",
+"pron": "EY1 CH JH IY1 EY1 CH",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 1
+},
+{
+"id": "ppm",
+"word": "ppm",
+"pron": "P IY1 P IY1 EH1 M",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 1
+},
+{
+"id": "mgm",
+"word": "mgm",
+"pron": "EH1 M G IY1 EH1 M",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 6,
+"pool": 1
+},
+{
+"id": "eap",
+"word": "eap",
+"pron": "IY1 EY1 P IY1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 2,
+"pool": 2
+},
+{
+"id": "dwi",
+"word": "dwi",
+"pron": "D IY1 D AH1 B AH0 L Y UW1 AY1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": null,
+"pool": 0
+},
+{
+"id": "kwh",
+"word": "kwh",
+"pron": "K EY1 D AH1 B AH0 L Y UW0 EY1 CH",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": null,
+"pool": 0
+},
+{
+"id": "dfw",
+"word": "dfw",
+"pron": "D IY1 EH1 F D AH1 B AH0 L Y UW1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": null,
+"pool": 0
+},
+{
+"id": "eeo",
+"word": "eeo",
+"pron": "IY1 IY1 OW1",
+"tags": [
+"initials"
+],
+"category": "word",
+"cost": 0,
+"pool": 1
+}
+]
+}
