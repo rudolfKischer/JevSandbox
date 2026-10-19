@@ -1,0 +1,665 @@
+{
+  "notations": [
+    {
+      "id": "plain",
+      "label": "Plain",
+      "tip": "Sounds as plain English names"
+    },
+    {
+      "id": "dictionary",
+      "label": "Dictionary",
+      "tip": "Dictionary respelling marks"
+    },
+    {
+      "id": "ipa",
+      "label": "IPA",
+      "tip": "International Phonetic Alphabet"
+    },
+    {
+      "id": "arpabet",
+      "label": "ARPA",
+      "tip": "ARPAbet, as in the CMU dictionary"
+    }
+  ],
+  "filters": {
+    "all": {
+      "label": "All",
+      "tip": "Every word"
+    },
+    "wrong": {
+      "label": "✗",
+      "tip": "Words that differ from gold"
+    },
+    "unsure": {
+      "label": "?",
+      "tip": "Words where Jev gave its answer under 60% chance"
+    },
+    "tags": {
+      "label": "Tags",
+      "tip": "Narrow by kind of word"
+    },
+    "nettalk": {
+      "label": "≠ NETtalk",
+      "tip": "Words where the independent NETtalk dataset groups the letters differently"
+    },
+    "notright": {
+      "label": "Not right",
+      "tip": "Every word I did not mark right: the wrong ones plus the doubtful ones. This is what the percentage counts against"
+    },
+    "wrongJudged": {
+      "label": "✗ Wrong",
+      "tip": "Words I read as plainly wrong"
+    },
+    "doubtful": {
+      "label": "? Doubtful",
+      "tip": "Words I could not call right, or answers that differ from the one I judged and that I have not read"
+    },
+    "baseline": {
+      "label": "≠ Phonetisaurus",
+      "tip": "Words where the public Phonetisaurus alignment splits the letters differently. Often just a different convention, so read it as a prompt to look, not as an error"
+    }
+  },
+  "marks": {
+    "ok": "✓",
+    "no": "✗",
+    "unsure": "?",
+    "na": "·"
+  },
+  "lanes": {
+    "gold": "Gold (draft)",
+    "pred": "This run",
+    "baseline": "Compare",
+    "consensus": "Most runs",
+    "letters": "Letter names",
+    "sounds": "Sounds only",
+    "nettalk": "NETtalk (1988)",
+    "expansion": "Full word"
+  },
+  "silentSound": "–",
+  "silentTip": "Silent: no sound of its own",
+  "dry": "Dry run: nothing was sent, only counted",
+  "unavailable": "No existing answer for this pronunciation",
+  "empty": "Pick a word",
+  "why": {
+    "open": "Why ▸",
+    "close": "Why ▾",
+    "silentTitle": "Chance each letter is silent",
+    "none": "No scores in this run"
+  },
+  "unsureBelow": 0.6,
+  "lowBelow": 0.6,
+  "task": {
+    "correct": "✓",
+    "chosen": "Jev picked",
+    "answerTip": "The right answer"
+  },
+  "draft": {
+    "label": "Gold answers: draft",
+    "tip": "I wrote the correct answers from the unit catalog. A tutor has not reviewed them, so some may be wrong. Words where most runs agree against the gold are flagged."
+  },
+  "headline": {
+    "correct": "correct",
+    "of": "of",
+    "words": "words",
+    "details": "Details",
+    "less": "Hide",
+    "confident": "confident",
+    "sure": "sure",
+    "nettalkAgrees": "agree with NETtalk",
+    "unlabeled": "No gold answers for this set",
+    "estimated": "estimated correct",
+    "judged": "from 100 random words I read",
+    "confidentOf": "confident",
+    "doubtfulN": "doubtful",
+    "wrongN": "wrong",
+    "patterns": "Failure patterns",
+    "notRight": "not right",
+    "agreeNettalk": "agree with NETtalk",
+    "showing": "showing",
+    "partialNote": "The rest agreed with every check and are not stored.",
+    "costWord": "spent",
+    "flaggedN": "flagged by at least one check",
+    "unreadN": "differ from the answer I judged"
+  },
+  "details": [
+    {
+      "key": "unit_rate",
+      "label": "Pieces right",
+      "tip": "Of all letters-and-sounds pieces in the gold answers, the share found exactly",
+      "kind": "pct"
+    },
+    {
+      "key": "nettalk_agree",
+      "label": "Matches NETtalk",
+      "tip": "Share of words whose unit structure matches the independent NETtalk dataset (1988): each unit carries exactly one sounding letter",
+      "kind": "pct"
+    },
+    {
+      "key": "mean_posterior",
+      "label": "How sure it was",
+      "tip": "Average chance the method gave to its own answer",
+      "kind": "pct"
+    },
+    {
+      "key": "auc",
+      "label": "Sureness is useful",
+      "tip": "When the method is more sure, is it more often right? 1 means always, 0.5 means no better than a coin flip",
+      "kind": "num"
+    },
+    {
+      "key": "cost_usd",
+      "label": "Spend",
+      "tip": "What this run cost in total. Output tokens are free",
+      "kind": "usd"
+    },
+    {
+      "key": "per_thousand",
+      "label": "Per 1,000 words",
+      "tip": "Cost to run 1,000 words the same way",
+      "kind": "usd"
+    },
+    {
+      "key": "seconds_per_word",
+      "label": "Seconds per word",
+      "tip": "Average time per word, one at a time",
+      "kind": "sec"
+    },
+    {
+      "key": "tokens",
+      "label": "Tokens sent",
+      "tip": "Input tokens for the whole run",
+      "kind": "int"
+    },
+    {
+      "key": "confident_rate",
+      "label": "Confident (≥ 0.7)",
+      "tip": "Share of words where the method gave its own answer at least 70% chance",
+      "kind": "pct"
+    },
+    {
+      "key": "silver_agree",
+      "label": "Initials match flags",
+      "tip": "For words the origins data flags as spelled-out initials: share the router also called initialisms",
+      "kind": "pct"
+    },
+    {
+      "key": "baseline_agree",
+      "label": "Same as Phonetisaurus",
+      "tip": "Share of words whose unit boundaries are the same as the Phonetisaurus alignment's. Different conventions, such as ar versus a + r, count as different",
+      "kind": "pct"
+    },
+    {
+      "key": "u_agree",
+      "label": "Same as learned frequencies",
+      "tip": "Share of words where the final answer equals the no-Jev frequency pick. The frequencies were trained on these same words, so this is not an independent check",
+      "kind": "pct"
+    },
+    {
+      "key": "p_agree",
+      "label": "Same as longest units",
+      "tip": "Share of words where the final answer equals the longest-unit rule",
+      "kind": "pct"
+    },
+    {
+      "key": "flagged",
+      "label": "Words flagged",
+      "tip": "Words at least one check disagrees with",
+      "kind": "int"
+    }
+  ],
+  "board": {
+    "alignment": "Alignment strategies",
+    "tasks": "Other tests",
+    "best": "best",
+    "runs": "runs",
+    "how": "How it works",
+    "example": "Example question",
+    "variants": "Versions",
+    "pick": "Pick a strategy",
+    "sortBest": "Best",
+    "sortCheap": "Cheapest",
+    "sortFast": "Fastest",
+    "costHead": "Cost / 1k words",
+    "timeHead": "Time / word",
+    "correctHead": "Correct",
+    "free": "free",
+    "noModel": "no model",
+    "versions": "versions",
+    "notRun": "not run on this set",
+    "notRunNote": "This method has not been run on this set. Nothing here changes until you pick a run below.",
+    "gotoTip": "Switch to this run and its test set",
+    "current": "Current system",
+    "earlier": "Earlier experiments",
+    "history": "History",
+    "historyNote": "History. These runs used an older pipeline and are kept as a record. Do not compare their scores with the current system."
+  },
+  "variants": {
+    "plain": "plain",
+    "catalog": "+ catalog",
+    "examples": "+ examples",
+    "norules": "no rules",
+    "graphemes": "graphemes",
+    "local3b": "3B",
+    "local1b": "1B"
+  },
+  "variantTips": {
+    "plain": "Spelling rules in the context, nothing else",
+    "catalog": "The catalog of 238 unit spellings, with examples, is in the context",
+    "examples": "Eight worked examples are in the context",
+    "norules": "No spelling rules in the context",
+    "graphemes": "Finer units: vowel+r and qu are split into separate units, and detected later as concepts",
+    "local3b": "Llama 3.2, 3 billion parameters",
+    "local1b": "Llama 3.2, 1 billion parameters"
+  },
+  "doubt": {
+    "label": "⚑ Gold in doubt",
+    "tip": "Several runs agree on an answer that differs from the gold",
+    "chip": "runs agree on a different answer",
+    "lane": "Most runs"
+  },
+  "gap": {
+    "chip": "not in catalog",
+    "tip": "This spelling unit is not in the unit catalog, so the gold may need a decision"
+  },
+  "compare": {
+    "label": "Compare",
+    "none": "none",
+    "tip": "Show another run's answer under this one"
+  },
+  "methods": {
+    "baseline": {
+      "name": "Phonetisaurus alignment (public)",
+      "blurb": "The public aligned-cmudict alignments, made by Phonetisaurus. No Jev. Shown for comparison, not used by our system.",
+      "steps": [
+        "Take the alignment published for the word in the aligned-cmudict dataset.",
+        "It aligns letters mostly one at a time, so a silent letter stands alone and a digraph like igh is split.",
+        "Nothing is sent anywhere. Our system no longer reads this file."
+      ],
+      "example": ""
+    },
+    "a": {
+      "name": "Sound to letters",
+      "blurb": "For each sound, Jev picks which letters spell it.",
+      "steps": [
+        "Give Jev the word and its sounds.",
+        "For each sound, ask which letters spell it. The options are every run of up to 4 letters.",
+        "Also ask for each letter whether it is silent.",
+        "My code adds up the answers and keeps the best way to split the word."
+      ],
+      "example": "Which letters of the word spell the sound in brackets: [n] aɪ t  →  [k]night, [kn]ight, k[n]ight …"
+    },
+    "b": {
+      "name": "Score every pairing",
+      "blurb": "Yes or no on every possible letters-and-sounds pair, then search.",
+      "steps": [
+        "List every possible unit: some letters paired with some sounds.",
+        "Ask Jev for each one: is this a real unit of the word?",
+        "Search for the split whose units all score best."
+      ],
+      "example": "The marked letters are one unit that spells the marked sound: [kn]ight spells [n] aɪ t"
+    },
+    "c": {
+      "name": "Letter to sound",
+      "blurb": "For each letter, Jev says which sound it belongs to.",
+      "steps": [
+        "Take the letters one at a time.",
+        "Ask which sound this letter belongs to, or none if silent.",
+        "Letters sharing a sound become one unit."
+      ],
+      "example": "Which sound does the marked letter belong to: k[n]ight  →  [n] aɪ t, n [aɪ] t, … or none"
+    },
+    "d": {
+      "name": "Candidates, one judge",
+      "blurb": "Four methods propose answers and Jev picks the best.",
+      "steps": [
+        "Run methods A, B and C and the Phonetisaurus alignment.",
+        "Collect their different answers as candidates.",
+        "Ask Jev one question: which breakdown is correct?"
+      ],
+      "example": "Which breakdown is correct?  a: kn=n igh=aɪ t=t   b: k=silent n=n i=aɪ gh=silent t=t …"
+    },
+    "e": {
+      "name": "Audit the Phonetisaurus alignment",
+      "blurb": "Jev grades the Phonetisaurus alignment's units. Score is how well grades spot mistakes.",
+      "steps": [
+        "Take the Phonetisaurus alignment's breakdown.",
+        "Ask Jev whether each unit is correct and complete.",
+        "Low grades point to likely mistakes."
+      ],
+      "example": "The marked unit is correct and complete: kn = n",
+      "metric": "auc"
+    },
+    "f": {
+      "name": "Candidates, each graded",
+      "blurb": "Same candidates as D, but each gets its own yes or no.",
+      "steps": [
+        "Collect candidates as in D.",
+        "Ask Jev about each one separately: is this whole breakdown right?",
+        "Take the highest rated."
+      ],
+      "example": "The whole breakdown is correct: kn=n igh=aɪ t=t"
+    },
+    "g": {
+      "name": "Sound to letters, catalog only",
+      "blurb": "Like A, but only spellings from our unit catalog are offered.",
+      "steps": [
+        "Same as A.",
+        "Options are limited to single letters and catalog units like igh, ar, kn."
+      ],
+      "example": "Options: only [kn]ight, k[n]ight, … that exist in the catalog"
+    },
+    "h": {
+      "name": "Walk letter by letter",
+      "blurb": "Jev decides for each letter in turn: continue, start a new unit, or silent.",
+      "steps": [
+        "Start at the first letter and the first sound.",
+        "Ask: does this letter continue the unit, start a new unit for the next sound, start one for two sounds, or is it silent?",
+        "Keep the 3 best partial answers and move to the next letter.",
+        "The best finished answer wins."
+      ],
+      "example": "Units so far: kn=n. Next sound to spell: n [aɪ] t. Letter now: kn[i]ght. What does it do?"
+    },
+    "i": {
+      "name": "Pick from the full menu",
+      "blurb": "For each sound, Jev picks a unit from all 238 catalog spellings.",
+      "steps": [
+        "Show Jev the whole menu of units, each with example words.",
+        "For each sound, ask which menu unit spells it in this word.",
+        "My code finds where that unit sits in the word."
+      ],
+      "example": "Which spelling unit from the menu spells [n] aɪ t  →  ar (car), igh (night), kn (knee) …"
+    },
+    "j": {
+      "name": "Split, then name sounds",
+      "blurb": "First mark where units start, then say which sounds each makes.",
+      "steps": [
+        "For each letter: continues the unit before it, starts a unit, or is silent.",
+        "Then for each unit: which sounds does it make?",
+        "My code lines the units up with the sounds in order."
+      ],
+      "example": "What does the marked letter do: kn[i]ght  →  continue / start / silent"
+    },
+    "k": {
+      "name": "Menu of spellings present",
+      "blurb": "Like the menu method, but only units that appear in the word.",
+      "steps": [
+        "Same as the menu method.",
+        "The menu is cut down to spellings found inside this word."
+      ],
+      "example": "Menu: kn, igh, ght, k, n, i, g, h, t …"
+    },
+    "n": {
+      "name": "Sound to letters, twice",
+      "blurb": "A asked with the options in two orders, then averaged.",
+      "steps": [
+        "Same questions as A.",
+        "Ask each sound twice, with the options in reverse order.",
+        "Average the two to cancel out any favoring of the first option."
+      ],
+      "example": "Same as A, asked forwards and backwards"
+    },
+    "o": {
+      "name": "Sound to letters + similar words",
+      "blurb": "A, with six similar words and their breakdowns shown as hints.",
+      "steps": [
+        "Find words ending or starting the same way, from our existing alignments.",
+        "Show their breakdowns in the context.",
+        "Then ask the A questions."
+      ],
+      "example": "Similar words: alight: a=AH l=L igh=AY t=T …"
+    },
+    "senses": {
+      "name": "Meaning to pronunciation",
+      "blurb": "Given a meaning of a word like read, pick the right pronunciation.",
+      "steps": [
+        "Give Jev the word and one meaning.",
+        "Ask which of two pronunciations goes with it.",
+        "Ask again with the options swapped and average."
+      ],
+      "example": "Which pronunciation is used for this meaning: to look at written words"
+    },
+    "kinds": {
+      "name": "Kind of word",
+      "blurb": "Is it ordinary, an abbreviation, initials, an acronym, a loan, or a name?",
+      "steps": [
+        "Give Jev the word and its sounds.",
+        "Ask which kind it is, with a short description of each kind.",
+        "Ask twice with the options in two orders and average."
+      ],
+      "example": "Which kind of word is this: tv  →  initialism"
+    },
+    "p": {
+      "name": "Longest catalog units (no Jev)",
+      "blurb": "No model. Lists every valid breakdown from the unit catalog and takes the one with the longest units.",
+      "steps": [
+        "Break the word into units from the unit catalog, so that the units' sounds match the pronunciation exactly.",
+        "Allow one unlisted single letter if nothing fits.",
+        "Take the breakdown with the fewest, longest units."
+      ],
+      "example": ""
+    },
+    "q": {
+      "name": "Pick from catalog breakdowns",
+      "blurb": "Code lists the valid breakdowns and drops the unlikely ones. If the learned frequencies are already sure, no model is asked. Otherwise Jev picks.",
+      "steps": [
+        "Code lists every way to split the word into units whose sounds match the pronunciation. Units come from the catalog, from units seen 30 or more times in the aligned words, from syllabic m, n and l after a consonant, and from a short curated list of rare ones (gh as k in Laughlin, Mc as Mac).",
+        "Rules keep teams whole: ei, ie, ll, ss and gu are not cut in two, and a syllabic L, M or N never takes a stressed vowel.",
+        "Learned unit frequencies (EM, see the no-Jev method) drop candidates under 0.2% and cap the list at 8.",
+        "If the learned frequencies already give one candidate 97% or more, Jev is not asked at all. About half of words end here.",
+        "Otherwise one question shows the candidates, asked twice with the letters and order shuffled, then averaged and blended with the learned frequencies.",
+        "Many words share one request, with the catalog in the shared context."
+      ],
+      "example": "Which breakdown shows the correct spelling units?  a: c=k  ar=ɑ+ɹ   b: c=k  a=ɑ  r=ɹ"
+    },
+    "m": {
+      "name": "Menu of units that fit the sound",
+      "blurb": "For each sound, Jev picks from only the catalog units that could spell it.",
+      "steps": [
+        "For each sound, code lists the catalog units in the word that can spell it, each marked with all the sounds it spells.",
+        "Jev picks one.",
+        "Same search over the picks as method A."
+      ],
+      "example": "Which listed unit is responsible for [ɹ]: car (this unit spells ɑ + ɹ), c[a]r (this unit spells ɑ)…"
+    },
+    "r": {
+      "name": "Route by kind of word, then pick",
+      "blurb": "Spelled-out and abbreviated words are kept out of alignment. Everything else uses the catalog pick.",
+      "steps": [
+        "Code computes two facts: does the sound equal the letter names said in a row (tee-vee), and which longer words sound the same and contain these letters in order (mister).",
+        "Jev gets the facts and picks the kind of word, twice with the options reversed.",
+        "Initialism (tv, fbi): split into letters, each letter is its name (tee, vee), with the name's own breakdown.",
+        "Abbreviation (mr, sgt): keep the sounds, label it, and align the full word it stands for. No direct alignment.",
+        "Mixed or unmatched (jpeg): keep the sounds and flag for review.",
+        "Anything else goes to the catalog pick method above, with its learned frequencies and skip."
+      ],
+      "example": "Which kind of word is this: tv  →  initialism: letters read by their names"
+    },
+    "s": {
+      "name": "Local model picks from catalog breakdowns",
+      "blurb": "Same candidates as the catalog pick, but a small model on this laptop chooses. No API.",
+      "steps": [
+        "Same list of catalog breakdowns as the catalog pick.",
+        "Ask a local Llama model, twice, with labels and order shuffled.",
+        "Average the two. Runs on this computer, so it costs nothing per word."
+      ],
+      "example": "Same question as the catalog pick, answered by Llama 3.2 3B (or 1B)"
+    },
+    "u": {
+      "name": "Learned unit frequencies (no Jev)",
+      "blurb": "No model. Counts how often each unit is used across all 63,000 words, then picks the breakdown whose units are most common.",
+      "steps": [
+        "Code lists every valid breakdown, as in the catalog pick.",
+        "A statistical pass (EM) splits each word's vote among its candidates in proportion to how common their units are, and repeats six times over the whole word bank. Units that only exist in rare, odd words end up with tiny weights.",
+        "Off-catalog guesses are charged a penalty, so a letter spelling a sound it never spells loses to a catalog unit.",
+        "The breakdown with the highest combined score wins. Free and instant."
+      ],
+      "example": ""
+    }
+  },
+  "category": {
+    "initialism": "initialism",
+    "abbreviation": "abbreviation",
+    "unparsed": "letters, unmatched",
+    "word": "word"
+  },
+  "categoryTips": {
+    "initialism": "Read aloud as letter names, so each letter stands for its name: tv is tee-vee",
+    "abbreviation": "A shortened written form read as the full word, so letters do not map to sounds",
+    "unparsed": "Looks like initials but the sounds do not match the letter names"
+  },
+  "abbrevNote": "Read as the full word, so letters do not line up with sounds. There is no direct alignment. The sounds are kept, and the full word it stands for is aligned below.",
+  "review": {
+    "chip": "reviewed",
+    "tip": "I reviewed this gold answer"
+  },
+  "spellOut": {
+    "name": "name"
+  },
+  "boardTips": {
+    "costHead": "Average cost to run 1,000 words. The small number is how many times the cheapest paid method it is. Hover a value for the exact difference.",
+    "timeHead": "Average time per word, one word at a time, measured on a sample of words that were not cached. The small number is how many times the fastest model method it is.",
+    "correctHead": "Share of words that are right. On curated sets that means an exact match with the gold. On sets I read, it means I marked the answer right. On the whole bank it is the share that agree with NETtalk's independent hand alignments."
+  },
+  "nettalk": {
+    "agree": "NETtalk agrees",
+    "differs": "NETtalk differs",
+    "tip": "NETtalk is an independent, hand-annotated set of 20,000 words. Agreement means every unit holds exactly one sounding letter there too.",
+    "lane": "Independent human-annotated dataset. Silent letters are attached to the sound before them."
+  },
+  "conceptsLabel": "Concepts found",
+  "conceptsTip": "Detected from the alignment, not part of it",
+  "sets": {
+    "starter+edge+special": "Curated · 264 words",
+    "large": "Large sample · 983 words",
+    "starter+edge": "Earlier experiments · 139 words",
+    "hard": "Hard cases · 18 words",
+    "tasks": "Other tests",
+    "diagnostic": "Diagnostic · 1,000 hard words",
+    "heldout": "Held-out sample 1 · 300 random words",
+    "heldout2": "Clean held-out · 300 random words",
+    "bank": "Whole word bank · 62,935 words",
+    "heldout3": "Clean held-out 2 · 300 random words",
+    "heldout+heldout2+heldout3": "Held-out sample · 900 random words",
+    "uncovered": "Explorer gaps · 150 words"
+  },
+  "setTips": {
+    "starter+edge+special": "Hand-picked words: ordinary, irregular, loan, short, acronyms, initialisms, abbreviations, mixed",
+    "large": "Random sample: common, mid-frequency, unusual spellings, loans, long words, flagged initials. No gold answers, so the score is how sure the method was and whether NETtalk agrees",
+    "starter+edge": "The first test set, 139 ordinary and tricky words, used for every early idea. Those runs used the older teaching scheme, so they are kept here as a record and are not comparable with the current system.",
+    "hard": "Words earlier versions got wrong on the large sample, with my rulings. A regression pool",
+    "tasks": "Small side tests: picking a pronunciation from a meaning, and telling kinds of words apart",
+    "diagnostic": "1,000 hard and unusual words chosen to expose failures, not a fair sample. I read every answer and marked it right, doubtful or wrong, and I fixed the system against it, so its score is optimistic. Where two answers were equally defensible I ruled and wrote the ruling next to the word.",
+    "heldout": "300 random bank words I judged after the main fixes. I made two small rule fixes from what I saw, so it is no longer fully clean.",
+    "heldout2": "300 random bank words drawn after the system was frozen and judged before anything was changed: 297 right, 3 doubtful (99.0%). The three were then fixed with general rules, so the score shown now is higher than that first reading.",
+    "bank": "Every word in the word bank that has a dictionary pronunciation. There are no gold answers, so the score is how often the answer matches an independent check: NETtalk's hand alignments, the Phonetisaurus alignment and the no-Jev methods. Only flagged words and a spread of agreeing ones are kept for browsing.",
+    "heldout3": "A second 300 random bank words, drawn after the pipeline was frozen again and judged before any change: 297 right, 2 doubtful, 1 wrong (99.0%). The wrong one, marlboro, was called an abbreviation by a coin-flip kind call; a minimum confidence for leaving 'ordinary' now fixes it.",
+    "heldout+heldout2+heldout3": "900 random words from the word bank, drawn after the main design was fixed and judged by me before I changed anything for them. The three samples of 300 scored 99.3%, 99.0% and 99.0% at first reading. Rules I added afterwards fixed the misses, so the score now reads higher.",
+    "uncovered": "150 random words whose dictionary pronunciation the word explorer's stored alignment does not match (about 10% of the bank, 20% of the top 1,000). I aligned them with the current system and judged each by eye."
+  },
+  "kinds": {
+    "all": "All kinds",
+    "word": "Words",
+    "initialism": "Spelled out",
+    "abbreviation": "Abbreviations",
+    "mixed": "Mixed"
+  },
+  "kindTips": {
+    "all": "Every word",
+    "word": "Words aligned letter to sound, including acronyms read as words",
+    "initialism": "Initialisms: read as letter names, like TV, FBI, VIP",
+    "abbreviation": "Abbreviations: read as the full word, like Mr, Sgt, Jan",
+    "mixed": "Letters and a word part, like JPEG, iPad"
+  },
+  "noExpansion": "No full word was found that sounds the same and contains these letters.",
+  "mixedNote": "Part letter names, part word. No direct alignment. The sounds are kept for review.",
+  "unparsedNote": "Looks like initials, but the sounds do not match the letter names. The sounds are kept for review.",
+  "setShort": {
+    "starter+edge+special": "Curated 264",
+    "large": "Large 983",
+    "starter+edge": "First 150",
+    "hard": "Hard 18",
+    "tasks": "Other tests",
+    "diagnostic": "Diagnostic 1,000",
+    "heldout": "Held-out 300",
+    "heldout2": "Clean 300",
+    "bank": "Whole bank",
+    "heldout3": "Clean 300 (2nd)",
+    "heldout+heldout2+heldout3": "Random 900",
+    "uncovered": "Explorer gaps"
+  },
+  "judge": {
+    "ok": "read: looks right",
+    "doubtful": "read: doubtful",
+    "wrong": "read: wrong",
+    "tip": "I read 100 random words from this set and marked each by eye. This is one of them.",
+    "patternLabel": "pattern"
+  },
+  "setNote": {
+    "diagnostic": "I tuned the system on these words, so this score is optimistic",
+    "heldout": "two small fixes were made after reading it",
+    "heldout2": "first reading before any fix: 99.0% (297 of 300), 3 doubtful",
+    "heldout3": "first reading before any fix: 99.0% (297 of 300), 1 wrong, 2 doubtful",
+    "heldout+heldout2+heldout3": "first readings were 99.3%, 99.0% and 99.0%; later fixes raised the score you see",
+    "uncovered": "the explorer handles these by switching to another dictionary variant; we align the dictionary pronunciation directly"
+  },
+  "currentMethods": [
+    "r",
+    "q",
+    "u",
+    "p"
+  ],
+  "referenceMethods": [
+    "baseline"
+  ],
+  "setGroups": {
+    "main": [
+      "starter+edge+special",
+      "heldout+heldout2+heldout3",
+      "diagnostic",
+      "bank",
+      "uncovered"
+    ],
+    "history": [
+      "hard",
+      "starter+edge",
+      "tasks"
+    ]
+  },
+  "sources": {
+    "title": "Other sources",
+    "loading": "Looking up the other sources…",
+    "none": "None of the other sources has this word.",
+    "failed": "The viewer needs restarting to look up other sources (run make serve again).",
+    "summaryOne": "of",
+    "summaryTail": "alignments group the letters like ours",
+    "notComparable": "not comparable",
+    "relation": {
+      "identical": "identical",
+      "structure": "same units",
+      "different": "differs"
+    },
+    "relationTip": {
+      "identical": "Same units and sounds as our answer",
+      "structure": "Same letter groups as our answer, with silent letters placed differently",
+      "different": "Groups the letters differently from our answer"
+    },
+    "structureOnly": "Marks only which letters carry sounds, so no sounds are shown.",
+    "noComparison": "Its marks cannot be compared with this word (it marks a syllabic sound).",
+    "all": "All sources"
+  },
+  "setNav": {
+    "starter+edge+special": "Curated",
+    "heldout+heldout2+heldout3": "Random sample",
+    "diagnostic": "Diagnostic",
+    "bank": "Whole word bank",
+    "hard": "Hard cases",
+    "starter+edge": "First experiments",
+    "tasks": "Side tests",
+    "uncovered": "Explorer gaps"
+  },
+  "navGroups": {
+    "current": "Test sets",
+    "history": "History",
+    "historyNote": "Older pipeline. Not comparable with current results."
+  }
+}

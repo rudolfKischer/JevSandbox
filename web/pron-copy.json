@@ -1,0 +1,238 @@
+{
+  "sets": {
+    "starter": "Starter",
+    "random1000": "Random",
+    "heteronyms": "Heteronyms",
+    "bank": "Whole word bank"
+  },
+  "setTips": {
+    "starter": "60 hand-picked words that trip up spelling-to-sound rules: irregular words, loans, rare long words, names and dialect words",
+    "random1000": "1,000 random words from the pronunciation dictionary: 400 common, 300 mid-frequency, 300 rare. Truth is the dictionary entry",
+    "heteronyms": "32 meanings of 16 words with two pronunciations. The task is to pick the pronunciation that goes with the meaning",
+    "bank": "Every word in the word bank that has a dictionary pronunciation. The truth is the CMU entry, so a miss can be the dictionary's error or a second valid pronunciation. Only wrong answers and a spread of right ones are kept for browsing."
+  },
+  "order": [
+    "lookup",
+    "wikipron",
+    "checked",
+    "espeak",
+    "unit",
+    "pool-jev-ipa",
+    "pool-jev-ipa-rhyme",
+    "pool-jev",
+    "pool-jev-plain",
+    "pool-llama"
+  ],
+  "methods": {
+    "lookup": {
+      "name": "Dictionary lookup",
+      "blurb": "Read the word in the pronunciation dictionary. The reference answer.",
+      "steps": [
+        "Look the word up in CMU.",
+        "Take the first listed pronunciation."
+      ],
+      "example": "colonel → K ER N AH L"
+    },
+    "wikipron": {
+      "name": "Second dictionary",
+      "blurb": "Look the word up in WikiPron, a different dictionary built from Wiktionary.",
+      "steps": [
+        "Look the word up in WikiPron US.",
+        "Convert its symbols to ours.",
+        "Take the first pronunciation."
+      ],
+      "example": "A second source for words the first one lacks"
+    },
+    "checked": {
+      "name": "Generate, then check",
+      "blurb": "eSpeak writes a pronunciation. If the second dictionary agrees, accept it. If not, flag it.",
+      "steps": [
+        "eSpeak generates a pronunciation from the spelling.",
+        "Look the word up in WikiPron.",
+        "Agree: accept. Disagree or missing: flag for a person.",
+        "No model call is needed to tell which answers to trust."
+      ],
+      "example": "espeak and WikiPron agree → accepted"
+    },
+    "espeak": {
+      "name": "Rule-based generator",
+      "blurb": "eSpeak turns spelling into sounds with rules and a long exceptions list. Free and fast.",
+      "steps": [
+        "Send the word to eSpeak with the US voice.",
+        "Convert its IPA output to our symbols."
+      ],
+      "example": "island → AY L AH N D"
+    },
+    "unit": {
+      "name": "Unit statistics",
+      "blurb": "Build a pronunciation from how our 126,000 aligned words pair spellings with sounds.",
+      "steps": [
+        "Split the word into letter groups.",
+        "Give each group its most common sounds from our aligned words, leaving the word itself out.",
+        "Keep the highest-scoring whole pronunciation."
+      ],
+      "example": "cat → K AH T (context-blind, so weak)"
+    },
+    "pool-jev-ipa": {
+      "name": "Candidates + Jev, IPA",
+      "blurb": "Collect candidate pronunciations from eSpeak and unit statistics, show them in IPA, and ask Jev to pick.",
+      "steps": [
+        "Gather up to 6 distinct candidates.",
+        "Write each in IPA.",
+        "One question per word, asked twice with shuffled order, averaged."
+      ],
+      "example": "Which is the correct standard American pronunciation of 'colonel'?"
+    },
+    "pool-jev-ipa-rhyme": {
+      "name": "Candidates + Jev, IPA and rhyme word",
+      "blurb": "Same, with a word the candidate ends like, so Jev has a sound to compare.",
+      "steps": [
+        "Same candidates, written in IPA.",
+        "Each also says which common word it ends like.",
+        "Jev picks."
+      ],
+      "example": "ɡ ɹ ɛ t (ends like 'set')"
+    },
+    "pool-jev": {
+      "name": "Candidates + Jev, respelling",
+      "blurb": "Same candidates, written as plain-English respellings with a rhyme word.",
+      "steps": [
+        "Candidates written like k-er-n-uh-l.",
+        "Each says which common word it ends like.",
+        "Jev picks."
+      ],
+      "example": "k-er-n-uh-l (ends like 'will')"
+    },
+    "pool-jev-plain": {
+      "name": "Candidates + Jev, respelling only",
+      "blurb": "Respellings with no rhyme word.",
+      "steps": [
+        "Candidates written like k-er-n-uh-l.",
+        "Jev picks."
+      ],
+      "example": "k-er-n-uh-l"
+    },
+    "pool-llama": {
+      "name": "Candidates + local Llama",
+      "blurb": "The same pick, by Llama 3.2 3B on this computer. No API.",
+      "steps": [
+        "Same candidates as the Jev versions.",
+        "Llama answers with a letter, twice with shuffled order."
+      ],
+      "example": "Same question as Jev"
+    }
+  },
+  "notations": [
+    {
+      "id": "plain",
+      "label": "Plain",
+      "tip": "Sounds as plain English names"
+    },
+    {
+      "id": "dictionary",
+      "label": "Dictionary",
+      "tip": "Dictionary respelling marks"
+    },
+    {
+      "id": "ipa",
+      "label": "IPA",
+      "tip": "International Phonetic Alphabet"
+    },
+    {
+      "id": "arpabet",
+      "label": "ARPA",
+      "tip": "ARPAbet, as in the CMU dictionary"
+    }
+  ],
+  "board": {
+    "title": "Pronunciation methods",
+    "cost": "Cost / 1k words",
+    "time": "Time / word",
+    "correct": "Exact",
+    "notRun": "not run on this set",
+    "notRunNote": "This method has not been run on this set. Nothing here changes until you pick a run below.",
+    "gotoTip": "Switch to this run and its set",
+    "pick": "Pick a method",
+    "example": "Example",
+    "free": "free",
+    "steps": "How it works"
+  },
+  "headline": {
+    "exact": "exactly right",
+    "of": "of",
+    "words": "words",
+    "details": "Details",
+    "less": "Hide",
+    "partial": "Showing the wrong answers and a sample of right ones."
+  },
+  "details": [
+    {
+      "key": "within_one",
+      "label": "Within one sound",
+      "tip": "Share of words that differ from the dictionary by at most one sound",
+      "kind": "pct"
+    },
+    {
+      "key": "phone_error",
+      "label": "Sounds wrong",
+      "tip": "Share of all sounds that are wrong, counting inserted and missing ones",
+      "kind": "pct"
+    },
+    {
+      "key": "oracle_rate",
+      "label": "Right one was offered",
+      "tip": "For methods that pick from candidates: share of words where the right pronunciation was among them. The most the pick could reach",
+      "kind": "pct"
+    },
+    {
+      "key": "accepted_rate",
+      "label": "Accepted",
+      "tip": "Share of words where the second dictionary agreed, so the answer is trusted",
+      "kind": "pct"
+    },
+    {
+      "key": "accepted_exact",
+      "label": "Right when accepted",
+      "tip": "Of the accepted words, the share that are exactly right",
+      "kind": "pct"
+    },
+    {
+      "key": "rest_exact",
+      "label": "Right when flagged",
+      "tip": "Of the words the check could not confirm, the share that are exactly right",
+      "kind": "pct"
+    },
+    {
+      "key": "per_thousand",
+      "label": "Per 1,000 words",
+      "tip": "Cost to run 1,000 words",
+      "kind": "usd"
+    },
+    {
+      "key": "seconds_per_word",
+      "label": "Seconds per word",
+      "tip": "Average time per word",
+      "kind": "sec"
+    },
+    {
+      "key": "covered",
+      "label": "Words covered",
+      "tip": "Share of the set this method could answer at all",
+      "kind": "pct"
+    }
+  ],
+  "filters": {
+    "all": "All",
+    "wrong": "✗",
+    "wrongTip": "Words that differ from the dictionary",
+    "tags": "Tags"
+  },
+  "lanes": {
+    "truth": "Dictionary",
+    "pred": "This method",
+    "candidates": "Candidates",
+    "variants": "Other accepted"
+  },
+  "empty": "Pick a word",
+  "silent": "–"
+}

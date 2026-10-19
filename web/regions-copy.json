@@ -1,0 +1,44 @@
+{
+  "title": "Regional pronunciation",
+  "intro": "How often US and UK English differ, how well each way of generating a UK pronunciation matches real UK dictionary entries, and what the differences look like word by word.",
+  "diffTitle": "How often common words differ, US against UK",
+  "diffTip": "6,104 words in the 8,000 most common that appear in both WikiPron lists, mapped to our sound symbols. Best matching pronunciation pair per word.",
+  "methodsTitle": "Ways to produce a UK pronunciation",
+  "methodsNote": "Match means the generated pronunciation equals at least one WikiPron UK pronunciation for the word. Lenient, because WikiPron lists several variants per word.",
+  "methodHeads": {"match": "Matches UK", "time": "Time / word", "cost": "Cost"},
+  "howByMethod": {
+    "copy the US pronunciation": ["Use the US dictionary entry unchanged.", "Right for the 80% of words that do not differ."],
+    "drop the r after a vowel": ["Remove r unless a vowel follows (car, but very keeps it).", "Turn final unstressed ER into a schwa.", "Vowel plus r becomes a long vowel or a centring glide (near, square)."],
+    "plus yod and the BATH vowel": ["Add y before a stressed oo after t, d, n, s, z, th, l when the spelling has u or ew (tune, new).", "Change short a to the long a in bath, dance, answer."],
+    "plus weak vowels chosen from the spelling": ["Align the word first.", "An unstressed vowel spelled i, e or y becomes IH in the UK where the US has schwa (business, women, started).", "This is the one rule that needs the alignment."],
+    "eSpeak, UK voice (from spelling, no dictionary)": ["No dictionary. eSpeak writes the UK pronunciation from the spelling with its own rules and exceptions."],
+    "reference: eSpeak US voice against WikiPron US": ["The same test for the US voice, so the UK result can be read fairly."]
+  },
+  "gridTitle": "Words that differ, region by region",
+  "heads": ["Word", "US", "UK, generated", "UK, WikiPron", "Canada, rules"],
+  "unitsSame": "same letter groups in UK",
+  "unitsDiffer": "letter groups differ in UK",
+  "matches": "matches WikiPron UK",
+  "noMatch": "differs from WikiPron UK",
+  "changed": "changed from US",
+  "canadaTip": "Rules from the literature only. No Canadian data was available to check them.",
+  "factsTitle": "What differs, and whether we handle it",
+  "facts": [
+    ["Rhoticity: car, bird, fire", "US says the r after a vowel, UK does not", "Handled by rule. 10% of common words differ only in this."],
+    ["Weak vowels: business, women, started", "UK /ɪ/ where US has /ə/", "Handled by rule using the alignment. Largest part of the 8% 'other'."],
+    ["BATH vowel: bath, dance, answer", "US /æ/, UK /ɑː/", "Handled by rule for the common pattern. Exceptions (gas, plastic) need a list."],
+    ["Yod: tune, new, duty", "UK keeps /j/ that US drops", "Handled by rule using the spelling."],
+    ["One-off words: schedule, tomato, garage", "Different words, not patterns", "Needs a short exceptions list."],
+    ["Flapping: butter, water", "US /t/ becomes a flap, UK may use a glottal stop", "Invisible in our symbols, so no change is needed."],
+    ["LOT and cot-caught: hot, caught", "UK rounds the vowel, Canadian merges the two", "Invisible in US-style symbols for UK. Canada rule merges AO into AA."],
+    ["Canadian: process, pasta, lieutenant, zed", "A short list of words differs", "Word list from the literature, unverified. Canadian raising (out, about) has no symbol here."]
+  ],
+  "alignmentTitle": "Does the alignment still work?",
+  "alignmentText": "Yes. With a small addition to the unit table (a vowel plus r unit may drop the r), 178 of 186 curated words keep the same spelling units under a UK pronunciation. In the table below, 34 of the 39 showcase words do.",
+  "notations": [
+    {"id": "plain", "label": "Plain", "tip": "Sounds as plain English names"},
+    {"id": "dictionary", "label": "Dictionary", "tip": "Dictionary respelling marks"},
+    {"id": "ipa", "label": "IPA", "tip": "International Phonetic Alphabet"},
+    {"id": "arpabet", "label": "ARPA", "tip": "ARPAbet, as in the CMU dictionary"}
+  ]
+}

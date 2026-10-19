@@ -1,0 +1,85 @@
+{
+  "intro": "Every alignment source we can reach, set side by side. Where our system and other people's datasets disagree is where to look first. The sources differ in how they handle silent letters, so two answers count as the same structure when they group the sounding letters alike and differ only in where silent letters sit.",
+  "notations": [
+    {
+      "id": "plain",
+      "label": "Plain",
+      "tip": "Respelling-style sounds"
+    },
+    {
+      "id": "dictionary",
+      "label": "Dictionary",
+      "tip": "Dictionary-style sounds"
+    },
+    {
+      "id": "ipa",
+      "label": "IPA",
+      "tip": "International Phonetic Alphabet"
+    },
+    {
+      "id": "arpabet",
+      "label": "ARPA",
+      "tip": "ARPAbet, as in the CMU dictionary"
+    }
+  ],
+  "board": {
+    "sources": "Sources",
+    "covers": "words",
+    "agree": "Same as ours",
+    "agreeTip": "Share of words both this source and our system cover where the sounding letters are grouped the same way",
+    "bars": "Agrees with",
+    "notOurs": "Compared with our system",
+    "self": "Our system"
+  },
+  "matrixTitle": "How often each pair groups the letters the same way",
+  "matrixTip": "Share of shared words where the two sources group the sounding letters the same way, silent-letter placement aside. Darker is more agreement. The small number is the words both cover.",
+  "shares": {
+    "catalog": "uses our unit catalog",
+    "dictionary": "built on the CMU dictionary",
+    "hand labels": "hand labelled",
+    "phonetisaurus": "built on the Phonetisaurus alignment"
+  },
+  "sharesTip": "What this source has in common with our system. Agreement between sources that share inputs counts for less.",
+  "headline": {
+    "agree": "of the words compared agree with every other source",
+    "words": "words compared",
+    "outvoted": "words where every other source agrees against us",
+    "majority": "words where most sources differ from us",
+    "note": "Showing the words with the most disagreement first, plus a sample of agreeing ones."
+  },
+  "filters": {
+    "all": {
+      "label": "All",
+      "tip": "Every stored word"
+    },
+    "outvoted": {
+      "label": "Outvoted",
+      "tip": "Words where every other source differs from our answer"
+    },
+    "most": {
+      "label": "Most disagree",
+      "tip": "Words where more than half the other sources differ"
+    }
+  },
+  "relation": {
+    "identical": "identical",
+    "structure": "same units, silent letters placed differently",
+    "different": "different grouping",
+    "self": "our answer"
+  },
+  "relationShort": {
+    "identical": "same",
+    "structure": "same units",
+    "different": "differs"
+  },
+  "lanes": {
+    "ours": "Our system"
+  },
+  "empty": "Pick a word to see every source's answer.",
+  "silentSound": "silent",
+  "silentTip": "A letter that makes no sound here",
+  "structureOnly": "This source only marks which letters carry a sound, so its sounds are not shown.",
+  "patternsTitle": "Most common ways our answer differs from another source",
+  "patternsTip": "Each chip is one repeated difference: our grouping on the left, theirs on the right, with how many words show it. Click one to see those words. Many are conventions (how a final al or ly is split), and the rest are places to look for mistakes.",
+  "title": "Source comparison"
+}
