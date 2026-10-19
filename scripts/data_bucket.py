@@ -1,5 +1,6 @@
 import argparse
 import glob
+import gzip
 import hashlib
 import io
 import json
@@ -78,7 +79,8 @@ def extract(bundle, archive):
     wanted = set(bundle["files"])
     with tarfile.open(archive) as tar:
         members = [member for member in tar.getmembers() if member.name in wanted]
-        tar.extractall(dest, members=members, filter="data")
+        options = {"filter": "data"} if hasattr(tarfile, "data_filter") else {}
+        tar.extractall(dest, members=members, **options)
 
 
 def fetch_bundle(manifest, name, force=False):
@@ -112,7 +114,7 @@ def packed(bundle, path):
 
 def pack(name, bundle, archive):
     archive.parent.mkdir(parents=True, exist_ok=True)
-    with tarfile.open(archive, "w:gz", format=tarfile.PAX_FORMAT) as tar:
+    with open(archive, "wb") as raw, gzip.GzipFile(filename="", fileobj=raw, mode="wb", mtime=0) as zipped, tarfile.open(fileobj=zipped, mode="w", format=tarfile.PAX_FORMAT) as tar:
         for path in sorted(bundle["files"]):
             data = packed(bundle, path)
             info = tarfile.TarInfo(path)
