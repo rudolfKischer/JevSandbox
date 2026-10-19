@@ -1,0 +1,176 @@
+{
+ "note": "Curated spellings the catalog is missing. Each is a real spelling pattern, reviewed by hand. Several were first noticed in the public Phonetisaurus alignments or in the unsupervised pass over the dictionary, but the pipeline reads neither.",
+ "units": [
+  {
+   "spelling": "gh",
+   "sounds": [
+    "K"
+   ],
+   "seen": "Laughlin, McLaughlin"
+  },
+  {
+   "spelling": "oi",
+   "sounds": [
+    "W",
+    "AA"
+   ],
+   "seen": "Langlois, reservoir, memoir, repertoire"
+  },
+  {
+   "spelling": "mc",
+   "sounds": [
+    "M",
+    "AH",
+    "K"
+   ],
+   "seen": "McMichael, McDonald (Mc is Mac)"
+  },
+  {
+   "spelling": "mc",
+   "sounds": [
+    "M",
+    "AH"
+   ],
+   "seen": "McGovern, McGraw (the k is carried by the next letter)"
+  },
+  {
+   "spelling": "x",
+   "sounds": [
+    "EH",
+    "K",
+    "S"
+   ],
+   "seen": "Xers, X-rays: the letter's own name"
+  },
+  {
+   "spelling": "eu",
+   "sounds": [
+    "Y",
+    "UH"
+   ],
+   "seen": "Europe, European"
+  },
+  {
+   "spelling": "au",
+   "sounds": [
+    "AA"
+   ],
+   "seen": "coauthor"
+  },
+  {
+   "spelling": "au",
+   "sounds": [
+    "AW"
+   ],
+   "seen": "Braunschweig, Emmaus, Haugen"
+  },
+  {
+   "spelling": "au",
+   "sounds": [
+    "OW"
+   ],
+   "seen": "chauvinistic, chauffeur"
+  },
+  {
+   "spelling": "al",
+   "sounds": [
+    "AA"
+   ],
+   "seen": "palm, chalk, catwalk"
+  },
+  {
+   "spelling": "ao",
+   "sounds": [
+    "AW"
+   ],
+   "seen": "Lao, Maori, kaolin"
+  },
+  {
+   "spelling": "kk",
+   "sounds": [
+    "K"
+   ],
+   "seen": "Hokkaido, Nikki"
+  },
+  {
+   "spelling": "u",
+   "sounds": [
+    "Y",
+    "AH"
+   ],
+   "seen": "speculates, evacuating, simulates"
+  },
+  {
+   "spelling": "u",
+   "sounds": [
+    "Y",
+    "UH"
+   ],
+   "seen": "furious, purified"
+  },
+  {
+   "spelling": "cz",
+   "sounds": [
+    "CH"
+   ],
+   "seen": "Czech"
+  },
+  {
+   "spelling": "ci",
+   "sounds": [
+    "CH"
+   ],
+   "seen": "ancient names, Brescia"
+  },
+  {
+   "spelling": "eu",
+   "sounds": [
+    "OY"
+   ],
+   "seen": "Euler, Freud"
+  },
+  {
+   "spelling": "z",
+   "sounds": [
+    "T",
+    "S"
+   ],
+   "seen": "Herzegovina, zeitgeist"
+  },
+  {
+   "spelling": "aj",
+   "sounds": [
+    "AY"
+   ],
+   "seen": "Aja"
+  },
+  {
+   "spelling": "cc",
+   "sounds": [
+    "CH"
+   ],
+   "seen": "bocce"
+  },
+  {
+   "spelling": "sz",
+   "sounds": [
+    "SH"
+   ],
+   "seen": "Szechuan"
+  },
+  {
+   "spelling": "pf",
+   "sounds": [
+    "F"
+   ],
+   "seen": "Pfizer"
+  },
+  {
+   "spelling": "dz",
+   "sounds": [
+    "JH"
+   ],
+   "seen": "Dzerzhinsky"
+  }
+ ]
+}

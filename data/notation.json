@@ -1,0 +1,236 @@
+{
+ "AA": {
+  "ipa": "ɒ",
+  "plain": "short o",
+  "dictionary": "ŏ",
+  "example": "as in hot"
+ },
+ "AE": {
+  "ipa": "æ",
+  "plain": "short a",
+  "dictionary": "ă",
+  "example": "as in cat"
+ },
+ "AH": {
+  "ipa": "ə",
+  "plain": "uh · schwa",
+  "dictionary": "ə",
+  "example": "as in about"
+ },
+ "AO": {
+  "ipa": "ɔː",
+  "plain": "aw",
+  "dictionary": "ô",
+  "example": "as in saw"
+ },
+ "AW": {
+  "ipa": "aʊ",
+  "plain": "ow",
+  "dictionary": "ou",
+  "example": "as in cow"
+ },
+ "AY": {
+  "ipa": "aɪ",
+  "plain": "long i",
+  "dictionary": "ī",
+  "example": "as in kite"
+ },
+ "B": {
+  "ipa": "b",
+  "plain": "b",
+  "dictionary": "b",
+  "example": "as in bat"
+ },
+ "CH": {
+  "ipa": "tʃ",
+  "plain": "ch",
+  "dictionary": "ch",
+  "example": "as in chip"
+ },
+ "D": {
+  "ipa": "d",
+  "plain": "d",
+  "dictionary": "d",
+  "example": "as in dog"
+ },
+ "DH": {
+  "ipa": "ð",
+  "plain": "th · voiced",
+  "dictionary": "t͟h",
+  "example": "as in this"
+ },
+ "EH": {
+  "ipa": "ɛ",
+  "plain": "short e",
+  "dictionary": "ĕ",
+  "example": "as in bed"
+ },
+ "ER": {
+  "ipa": "ɜːr",
+  "plain": "er",
+  "dictionary": "ûr",
+  "example": "as in her"
+ },
+ "EY": {
+  "ipa": "eɪ",
+  "plain": "long a",
+  "dictionary": "ā",
+  "example": "as in cake"
+ },
+ "F": {
+  "ipa": "f",
+  "plain": "f",
+  "dictionary": "f",
+  "example": "as in fan"
+ },
+ "G": {
+  "ipa": "g",
+  "plain": "g",
+  "dictionary": "g",
+  "example": "as in go"
+ },
+ "HH": {
+  "ipa": "h",
+  "plain": "h",
+  "dictionary": "h",
+  "example": "as in hat"
+ },
+ "IH": {
+  "ipa": "ɪ",
+  "plain": "short i",
+  "dictionary": "ĭ",
+  "example": "as in sit"
+ },
+ "IY": {
+  "ipa": "iː",
+  "plain": "long e",
+  "dictionary": "ē",
+  "example": "as in sea"
+ },
+ "JH": {
+  "ipa": "dʒ",
+  "plain": "j",
+  "dictionary": "j",
+  "example": "as in jam"
+ },
+ "K": {
+  "ipa": "k",
+  "plain": "k",
+  "dictionary": "k",
+  "example": "as in kit"
+ },
+ "L": {
+  "ipa": "l",
+  "plain": "l",
+  "dictionary": "l",
+  "example": "as in leg"
+ },
+ "M": {
+  "ipa": "m",
+  "plain": "m",
+  "dictionary": "m",
+  "example": "as in map"
+ },
+ "N": {
+  "ipa": "n",
+  "plain": "n",
+  "dictionary": "n",
+  "example": "as in net"
+ },
+ "NG": {
+  "ipa": "ŋ",
+  "plain": "ng",
+  "dictionary": "ng",
+  "example": "as in sing"
+ },
+ "OW": {
+  "ipa": "əʊ",
+  "plain": "long o",
+  "dictionary": "ō",
+  "example": "as in go"
+ },
+ "OY": {
+  "ipa": "ɔɪ",
+  "plain": "oy",
+  "dictionary": "oi",
+  "example": "as in boy"
+ },
+ "P": {
+  "ipa": "p",
+  "plain": "p",
+  "dictionary": "p",
+  "example": "as in pig"
+ },
+ "R": {
+  "ipa": "r",
+  "plain": "r",
+  "dictionary": "r",
+  "example": "as in red"
+ },
+ "S": {
+  "ipa": "s",
+  "plain": "s",
+  "dictionary": "s",
+  "example": "as in sun"
+ },
+ "SH": {
+  "ipa": "ʃ",
+  "plain": "sh",
+  "dictionary": "sh",
+  "example": "as in ship"
+ },
+ "T": {
+  "ipa": "t",
+  "plain": "t",
+  "dictionary": "t",
+  "example": "as in top"
+ },
+ "TH": {
+  "ipa": "θ",
+  "plain": "th · unvoiced",
+  "dictionary": "th",
+  "example": "as in thin"
+ },
+ "UH": {
+  "ipa": "ʊ",
+  "plain": "short oo",
+  "dictionary": "o͝o",
+  "example": "as in book"
+ },
+ "UW": {
+  "ipa": "uː",
+  "plain": "long oo",
+  "dictionary": "o͞o",
+  "example": "as in moon"
+ },
+ "V": {
+  "ipa": "v",
+  "plain": "v",
+  "dictionary": "v",
+  "example": "as in van"
+ },
+ "W": {
+  "ipa": "w",
+  "plain": "w",
+  "dictionary": "w",
+  "example": "as in wet"
+ },
+ "Y": {
+  "ipa": "j",
+  "plain": "y",
+  "dictionary": "y",
+  "example": "as in yes"
+ },
+ "Z": {
+  "ipa": "z",
+  "plain": "z",
+  "dictionary": "z",
+  "example": "as in zip"
+ },
+ "ZH": {
+  "ipa": "ʒ",
+  "plain": "zh",
+  "dictionary": "zh",
+  "example": "as in vision"
+ }
+}

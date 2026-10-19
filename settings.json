@@ -1,0 +1,99 @@
+{
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "model": "jev-latest",
+  "key_env": "TYPESAFE_API_KEY",
+  "key_file_env": "JEV_KEY_FILE",
+  "default_key_file": "../jev_api_key.txt",
+  "timeout_seconds": 90,
+  "retry": {
+    "attempts": 4,
+    "statuses": [
+      429,
+      500,
+      502,
+      503,
+      529
+    ],
+    "base_delay": 1.5
+  },
+  "price_per_million_input_tokens": 0.04,
+  "price_per_million_output_tokens": 0.0,
+  "budget_usd": 4.0,
+  "chars_per_token": 3.5,
+  "cache_dir": ".cache/jev",
+  "ledger_path": "runs/ledger.jsonl",
+  "max_questions_per_request": 400,
+  "workers": 6,
+  "notation": {
+    "workspace": "..",
+    "og_source": "OGTutorAssistant/data/mappings/arpabet_to_og.json",
+    "review_source": "DecodifyWebsite/src/content/phonogram-review.json",
+    "sound_prefix": "sound_",
+    "target": "data/notation.json"
+  },
+  "alignment": {
+    "max_span_letters": 4,
+    "silent_weight": 1.0,
+    "notation": "both",
+    "results_dir": "results",
+    "gold_dir": "data/gold",
+    "baseline_source": "../OGTutorAssistant/data/g2p_aligned.json",
+    "rules": true,
+    "catalog_source": "../OGTutorAssistant/data/mappings/og_grapheme_spellings.json",
+    "examples": false,
+    "cmu_source": "../OGTutorAssistant/data/cmudict_syllabified.rep",
+    "catalog_in_state": false,
+    "wording": "literal",
+    "pool_slack": 1,
+    "pool_cap": 14,
+    "scheme": "teaching",
+    "unit_notes": false,
+    "gate_router": true,
+    "dialect": "us",
+    "em_weight": 0.25,
+    "em_prune": 0.002,
+    "em_cap": 8,
+    "syllabic_units": true,
+    "em_prune_over": 6,
+    "em_skip": 0.97,
+    "vowel_sounds": [
+      "AA",
+      "AE",
+      "AH",
+      "AO",
+      "AW",
+      "AY",
+      "EH",
+      "ER",
+      "EY",
+      "IH",
+      "IY",
+      "OW",
+      "OY",
+      "UH",
+      "UW"
+    ],
+    "consonant_letters": "bcdfghjklmnpqrstvxz",
+    "cross_penalty": 2,
+    "extra_units": "data/extra_units.json",
+    "em_cost_weight": 3.0,
+    "team_exempt": [
+      "gu",
+      "qu"
+    ],
+    "route_min": 0.6
+  },
+  "viewer": {
+    "port": 5010
+  },
+  "big": {
+    "name": "bank",
+    "method": "r",
+    "scheme": "grapheme",
+    "block": 2000,
+    "batch": 100,
+    "keep_flagged": 3000,
+    "keep_agreeing": 600,
+    "progress": "runs/bank-progress.json"
+  }
+}

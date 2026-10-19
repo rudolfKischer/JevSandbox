@@ -1,0 +1,31 @@
+{
+  "format": "letter: list of spellings of the letter's name, each aligned like any other word",
+  "letters": {
+    "a": [{"name": "ay", "units": "ay:EY1"}],
+    "b": [{"name": "bee", "units": "b:B ee:IY1"}],
+    "c": [{"name": "see", "units": "s:S ee:IY1"}],
+    "d": [{"name": "dee", "units": "d:D ee:IY1"}],
+    "e": [{"name": "ee", "units": "ee:IY1"}],
+    "f": [{"name": "eff", "units": "e:EH1 ff:F"}],
+    "g": [{"name": "gee", "units": "g:JH ee:IY1"}, {"name": "hard gee", "units": "g:G ee:IY1"}],
+    "h": [{"name": "aitch", "units": "ai:EY1 tch:CH"}, {"name": "haitch", "units": "h:HH ai:EY1 tch:CH"}],
+    "i": [{"name": "eye", "units": "eye:AY1"}],
+    "j": [{"name": "jay", "units": "j:JH ay:EY1"}],
+    "k": [{"name": "kay", "units": "k:K ay:EY1"}],
+    "l": [{"name": "el", "units": "e:EH1 l:L"}, {"name": "ell", "units": "e:EH1 ll:L"}],
+    "m": [{"name": "em", "units": "e:EH1 m:M"}],
+    "n": [{"name": "en", "units": "e:EH1 n:N"}],
+    "o": [{"name": "oh", "units": "oh:OW1"}],
+    "p": [{"name": "pee", "units": "p:P ee:IY1"}],
+    "q": [{"name": "cue", "units": "c:K ue:Y+UW1"}],
+    "r": [{"name": "ar", "units": "ar:AA1+R"}],
+    "s": [{"name": "ess", "units": "e:EH1 ss:S"}],
+    "t": [{"name": "tee", "units": "t:T ee:IY1"}],
+    "u": [{"name": "you", "units": "y:Y ou:UW1"}],
+    "v": [{"name": "vee", "units": "v:V ee:IY1"}],
+    "w": [{"name": "double-u", "units": "d:D ou:AH1 b:B le:AH0+L u:Y+UW0"}],
+    "x": [{"name": "ex", "units": "e:EH1 x:K+S"}],
+    "y": [{"name": "why", "units": "wh:W y:AY1"}],
+    "z": [{"name": "zee", "units": "z:Z ee:IY1"}, {"name": "zed", "units": "z:Z e:EH1 d:D"}]
+  }
+}
