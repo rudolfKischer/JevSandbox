@@ -1,0 +1,622 @@
+{
+ "name": "starter",
+ "note": "hand picked words that trip up spelling-to-sound rules",
+ "words": [
+  {
+   "id": "colonel",
+   "word": "colonel",
+   "truth": [
+    "K ER1 N AH0 L"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "island",
+   "word": "island",
+   "truth": [
+    "AY1 L AH0 N D"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "choir",
+   "word": "choir",
+   "truth": [
+    "K W AY1 ER0"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "yacht",
+   "word": "yacht",
+   "truth": [
+    "Y AA1 T"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "though",
+   "word": "though",
+   "truth": [
+    "DH OW1"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "through",
+   "word": "through",
+   "truth": [
+    "TH R UW1"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "tough",
+   "word": "tough",
+   "truth": [
+    "T AH1 F"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "bury",
+   "word": "bury",
+   "truth": [
+    "B EH1 R IY0"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "women",
+   "word": "women",
+   "truth": [
+    "W IH1 M AH0 N"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "aisle",
+   "word": "aisle",
+   "truth": [
+    "AY1 L",
+    "AY1 AH0 L"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "lieutenant",
+   "word": "lieutenant",
+   "truth": [
+    "L UW0 T EH1 N AH0 N T"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "sword",
+   "word": "sword",
+   "truth": [
+    "S AO1 R D"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "answer",
+   "word": "answer",
+   "truth": [
+    "AE1 N S ER0"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "listen",
+   "word": "listen",
+   "truth": [
+    "L IH1 S AH0 N"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "castle",
+   "word": "castle",
+   "truth": [
+    "K AE1 S AH0 L"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "debt",
+   "word": "debt",
+   "truth": [
+    "D EH1 T"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "receipt",
+   "word": "receipt",
+   "truth": [
+    "R IH0 S IY1 T",
+    "R IY0 S IY1 T"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "subtle",
+   "word": "subtle",
+   "truth": [
+    "S AH1 T AH0 L"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "rhythm",
+   "word": "rhythm",
+   "truth": [
+    "R IH1 DH AH0 M"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "queue",
+   "word": "queue",
+   "truth": [
+    "K Y UW1"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "bouquet",
+   "word": "bouquet",
+   "truth": [
+    "B UW0 K EY1"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "cough",
+   "word": "cough",
+   "truth": [
+    "K AA1 F",
+    "K AO1 F"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "dough",
+   "word": "dough",
+   "truth": [
+    "D OW1"
+   ],
+   "tags": [
+    "irregular"
+   ]
+  },
+  {
+   "id": "genre",
+   "word": "genre",
+   "truth": [
+    "ZH AA1 N R AH0"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "croissant",
+   "word": "croissant",
+   "truth": [
+    "K W AA2 S AA1 N T",
+    "K R AH0 S AA1 N T"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "ballet",
+   "word": "ballet",
+   "truth": [
+    "B AE0 L EY1"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "rendezvous",
+   "word": "rendezvous",
+   "truth": [
+    "R AA1 N D IH0 V UW2"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "cafe",
+   "word": "cafe",
+   "truth": [
+    "K AH0 F EY1",
+    "K AE0 F EY1"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "tsunami",
+   "word": "tsunami",
+   "truth": [
+    "T S UW0 N AA1 M IY0",
+    "S UW0 N AA1 M IY0"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "chauffeur",
+   "word": "chauffeur",
+   "truth": [
+    "SH OW0 F ER1",
+    "SH OW1 F ER0"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "debris",
+   "word": "debris",
+   "truth": [
+    "D AH0 B R IY1"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "sushi",
+   "word": "sushi",
+   "truth": [
+    "S UW1 SH IY0"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "pizza",
+   "word": "pizza",
+   "truth": [
+    "P IY1 T S AH0"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "fajita",
+   "word": "fajita",
+   "truth": [
+    "F AH0 JH IY1 T AH0",
+    "F AH0 HH IY1 T AH0"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "espresso",
+   "word": "espresso",
+   "truth": [
+    "EH2 S P R EH1 S OW0"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "bratwurst",
+   "word": "bratwurst",
+   "truth": [
+    "B R AE1 T W ER0 S T"
+   ],
+   "tags": [
+    "loan"
+   ]
+  },
+  {
+   "id": "pneumonia",
+   "word": "pneumonia",
+   "truth": [
+    "N UW0 M OW1 N Y AH0",
+    "N AH0 M OW1 N Y AH0"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "hyperbole",
+   "word": "hyperbole",
+   "truth": [
+    "HH AY0 P ER1 B AH0 L IY2"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "epitome",
+   "word": "epitome",
+   "truth": [
+    "IH0 P IH1 T AH0 M IY0"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "ophthalmology",
+   "word": "ophthalmology",
+   "truth": [
+    "AA2 P TH AH0 M AA1 L AH0 JH IY0",
+    "AA2 F TH AH0 M AA1 L AH0 JH IY0"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "miscellaneous",
+   "word": "miscellaneous",
+   "truth": [
+    "M IH2 S AH0 L EY1 N IY0 AH0 S"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "schizophrenia",
+   "word": "schizophrenia",
+   "truth": [
+    "S K IH2 T S AH0 F R IY1 N IY0 AH0"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "camaraderie",
+   "word": "camaraderie",
+   "truth": [
+    "K AA2 M ER0 AA1 D ER0 IY0"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "facetious",
+   "word": "facetious",
+   "truth": [
+    "F AH0 S IY1 SH AH0 S"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "quixotic",
+   "word": "quixotic",
+   "truth": [
+    "K W IH0 K S AA1 T IH0 K"
+   ],
+   "tags": [
+    "rare-long"
+   ]
+  },
+  {
+   "id": "worcester",
+   "word": "worcester",
+   "truth": [
+    "W UH1 S T ER0"
+   ],
+   "tags": [
+    "name"
+   ]
+  },
+  {
+   "id": "edinburgh",
+   "word": "edinburgh",
+   "truth": [
+    "EH1 D AH0 N B ER0 OW0"
+   ],
+   "tags": [
+    "name"
+   ]
+  },
+  {
+   "id": "tucson",
+   "word": "tucson",
+   "truth": [
+    "T UW1 S AA2 N"
+   ],
+   "tags": [
+    "name"
+   ]
+  },
+  {
+   "id": "reykjavik",
+   "word": "reykjavik",
+   "truth": [
+    "R EH1 K Y AH0 V IH0 K",
+    "R EY1 K AH0 V IH0 K"
+   ],
+   "tags": [
+    "name"
+   ]
+  },
+  {
+   "id": "nguyen",
+   "word": "nguyen",
+   "truth": [
+    "N UW0 Y EH1 N"
+   ],
+   "tags": [
+    "name"
+   ]
+  },
+  {
+   "id": "leicester",
+   "word": "leicester",
+   "truth": [
+    "L EH1 S T ER0"
+   ],
+   "tags": [
+    "name"
+   ]
+  },
+  {
+   "id": "gloucester",
+   "word": "gloucester",
+   "truth": [
+    "G L AO1 S T ER0"
+   ],
+   "tags": [
+    "name"
+   ]
+  },
+  {
+   "id": "schedule",
+   "word": "schedule",
+   "truth": [
+    "S K EH1 JH UH0 L",
+    "S K EH1 JH UW0 L"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  },
+  {
+   "id": "tomato",
+   "word": "tomato",
+   "truth": [
+    "T AH0 M EY1 T OW2",
+    "T AH0 M AA1 T OW2"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  },
+  {
+   "id": "garage",
+   "word": "garage",
+   "truth": [
+    "G ER0 AA1 ZH"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  },
+  {
+   "id": "vase",
+   "word": "vase",
+   "truth": [
+    "V EY1 S",
+    "V AA1 Z"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  },
+  {
+   "id": "herb",
+   "word": "herb",
+   "truth": [
+    "ER1 B",
+    "HH ER1 B"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  },
+  {
+   "id": "aluminum",
+   "word": "aluminum",
+   "truth": [
+    "AH0 L UW1 M AH0 N AH0 M"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  },
+  {
+   "id": "privacy",
+   "word": "privacy",
+   "truth": [
+    "P R AY1 V AH0 S IY0"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  },
+  {
+   "id": "either",
+   "word": "either",
+   "truth": [
+    "IY1 DH ER0",
+    "AY1 DH ER0"
+   ],
+   "tags": [
+    "dialect"
+   ]
+  }
+ ]
+}

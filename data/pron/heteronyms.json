@@ -1,0 +1,486 @@
+{
+ "name": "heteronyms",
+ "note": "one word, two pronunciations, chosen by meaning",
+ "words": [
+  {
+   "id": "read-0",
+   "word": "read",
+   "sense": "to look at written words and understand them",
+   "truth": [
+    "R IY1 D"
+   ],
+   "candidates": [
+    "R IY1 D",
+    "R EH1 D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "read-1",
+   "word": "read",
+   "sense": "past tense of read",
+   "truth": [
+    "R EH1 D"
+   ],
+   "candidates": [
+    "R EH1 D",
+    "R IY1 D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "lead-2",
+   "word": "lead",
+   "sense": "to guide or go in front",
+   "truth": [
+    "L IY1 D"
+   ],
+   "candidates": [
+    "L IY1 D",
+    "L EH1 D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "lead-3",
+   "word": "lead",
+   "sense": "a heavy soft grey metal",
+   "truth": [
+    "L EH1 D"
+   ],
+   "candidates": [
+    "L EH1 D",
+    "L IY1 D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "tear-4",
+   "word": "tear",
+   "sense": "a drop of water from the eye",
+   "truth": [
+    "T IH1 R"
+   ],
+   "candidates": [
+    "T IH1 R",
+    "T EH1 R"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "tear-5",
+   "word": "tear",
+   "sense": "to rip something apart",
+   "truth": [
+    "T EH1 R"
+   ],
+   "candidates": [
+    "T EH1 R",
+    "T IH1 R"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "wind-6",
+   "word": "wind",
+   "sense": "moving air outdoors",
+   "truth": [
+    "W IH1 N D"
+   ],
+   "candidates": [
+    "W IH1 N D",
+    "W AY1 N D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "wind-7",
+   "word": "wind",
+   "sense": "to turn or twist something around",
+   "truth": [
+    "W AY1 N D"
+   ],
+   "candidates": [
+    "W AY1 N D",
+    "W IH1 N D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "bass-8",
+   "word": "bass",
+   "sense": "a type of fish",
+   "truth": [
+    "B AE1 S"
+   ],
+   "candidates": [
+    "B AE1 S",
+    "B EY1 S"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "bass-9",
+   "word": "bass",
+   "sense": "low-pitched music or sound",
+   "truth": [
+    "B EY1 S"
+   ],
+   "candidates": [
+    "B EY1 S",
+    "B AE1 S"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "bow-10",
+   "word": "bow",
+   "sense": "a knot with loops, like on a gift",
+   "truth": [
+    "B OW1"
+   ],
+   "candidates": [
+    "B OW1",
+    "B AW1"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "bow-11",
+   "word": "bow",
+   "sense": "to bend forward at the waist as a greeting",
+   "truth": [
+    "B AW1"
+   ],
+   "candidates": [
+    "B AW1",
+    "B OW1"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "close-12",
+   "word": "close",
+   "sense": "near, not far away",
+   "truth": [
+    "K L OW1 S"
+   ],
+   "candidates": [
+    "K L OW1 S",
+    "K L OW1 Z"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "close-13",
+   "word": "close",
+   "sense": "to shut",
+   "truth": [
+    "K L OW1 Z"
+   ],
+   "candidates": [
+    "K L OW1 Z",
+    "K L OW1 S"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "live-14",
+   "word": "live",
+   "sense": "to be alive or to reside somewhere",
+   "truth": [
+    "L IH1 V"
+   ],
+   "candidates": [
+    "L IH1 V",
+    "L AY1 V"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "live-15",
+   "word": "live",
+   "sense": "happening now, as a broadcast",
+   "truth": [
+    "L AY1 V"
+   ],
+   "candidates": [
+    "L AY1 V",
+    "L IH1 V"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "minute-16",
+   "word": "minute",
+   "sense": "a unit of time of sixty seconds",
+   "truth": [
+    "M IH1 N AH0 T"
+   ],
+   "candidates": [
+    "M IH1 N AH0 T",
+    "M AY0 N UW1 T"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "minute-17",
+   "word": "minute",
+   "sense": "very small",
+   "truth": [
+    "M AY0 N UW1 T"
+   ],
+   "candidates": [
+    "M AY0 N UW1 T",
+    "M IH1 N AH0 T"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "desert-18",
+   "word": "desert",
+   "sense": "a dry sandy region",
+   "truth": [
+    "D EH1 Z ER0 T"
+   ],
+   "candidates": [
+    "D EH1 Z ER0 T",
+    "D IH0 Z ER1 T"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "desert-19",
+   "word": "desert",
+   "sense": "to abandon someone",
+   "truth": [
+    "D IH0 Z ER1 T"
+   ],
+   "candidates": [
+    "D IH0 Z ER1 T",
+    "D EH1 Z ER0 T"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "record-20",
+   "word": "record",
+   "sense": "a written account kept as evidence (noun)",
+   "truth": [
+    "R EH1 K ER0 D"
+   ],
+   "candidates": [
+    "R EH1 K ER0 D",
+    "R IH0 K AO1 R D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "record-21",
+   "word": "record",
+   "sense": "to set down in writing or on tape (verb)",
+   "truth": [
+    "R IH0 K AO1 R D"
+   ],
+   "candidates": [
+    "R IH0 K AO1 R D",
+    "R EH1 K ER0 D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "refuse-22",
+   "word": "refuse",
+   "sense": "garbage or rubbish (noun)",
+   "truth": [
+    "R EH1 F Y UW2 S"
+   ],
+   "candidates": [
+    "R EH1 F Y UW2 S",
+    "R IH0 F Y UW1 Z"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "refuse-23",
+   "word": "refuse",
+   "sense": "to say no to a request (verb)",
+   "truth": [
+    "R IH0 F Y UW1 Z"
+   ],
+   "candidates": [
+    "R IH0 F Y UW1 Z",
+    "R EH1 F Y UW2 S"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "dove-24",
+   "word": "dove",
+   "sense": "a bird like a small pigeon",
+   "truth": [
+    "D AH1 V"
+   ],
+   "candidates": [
+    "D AH1 V",
+    "D OW1 V"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "dove-25",
+   "word": "dove",
+   "sense": "past tense of dive",
+   "truth": [
+    "D OW1 V"
+   ],
+   "candidates": [
+    "D OW1 V",
+    "D AH1 V"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "wound-26",
+   "word": "wound",
+   "sense": "an injury to the body",
+   "truth": [
+    "W UW1 N D"
+   ],
+   "candidates": [
+    "W UW1 N D",
+    "W AW1 N D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "wound-27",
+   "word": "wound",
+   "sense": "twisted around, past tense of wind",
+   "truth": [
+    "W AW1 N D"
+   ],
+   "candidates": [
+    "W AW1 N D",
+    "W UW1 N D"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "row-28",
+   "word": "row",
+   "sense": "a line of things side by side",
+   "truth": [
+    "R OW1"
+   ],
+   "candidates": [
+    "R OW1",
+    "R AW1"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "row-29",
+   "word": "row",
+   "sense": "a noisy quarrel",
+   "truth": [
+    "R AW1"
+   ],
+   "candidates": [
+    "R AW1",
+    "R OW1"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "object-30",
+   "word": "object",
+   "sense": "a thing you can see or touch (noun)",
+   "truth": [
+    "AA1 B JH EH0 K T"
+   ],
+   "candidates": [
+    "AA1 B JH EH0 K T",
+    "AH0 B JH EH1 K T"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  },
+  {
+   "id": "object-31",
+   "word": "object",
+   "sense": "to say you disagree (verb)",
+   "truth": [
+    "AH0 B JH EH1 K T"
+   ],
+   "candidates": [
+    "AH0 B JH EH1 K T",
+    "AA1 B JH EH0 K T"
+   ],
+   "tags": [
+    "heteronym"
+   ]
+  }
+ ]
+}
